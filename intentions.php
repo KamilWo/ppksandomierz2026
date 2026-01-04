@@ -1,195 +1,196 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            29.12.2025 – 4.01.2026&nbsp;r.
+            5.01 – 11.01.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 29&nbsp;grudnia</b></td>
-            <td><b>5&nbsp;dzień w&nbsp;oktawie Narodzenia Pańskiego</b></td>
+            <td><b>PONIEDZIAŁEK, 5&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Klaudię-Krzysztofę Trojanowską<br>
-2. + Klaudię-Krzysztofę Trojanowską<br>
-3. + Mariannę Makowską
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo i&nbsp;wszelkie potrzebne łaski dla
-    rodziny Fularskich<br>
-2. + Tadeusza Dyla, Jadwigę, Mieczysława, Bogdana i&nbsp;Henryka
-    Goleniów
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 30&nbsp;grudnia</b></td>
-            <td><b>6&nbsp;dzień w&nbsp;oktawie Narodzenia Pańskiego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Klaudię-Krzysztofę Trojanowską<br>
-2. + Klaudię-Krzysztofę Trojanowską<br>
-3. + Mariannę Makowską
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Edmunda (10&nbsp;rocz. śm.), Zofię, Jana Rusieckich<br>
-2. + Stanisława Łukawskiego
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 31&nbsp;grudnia</b></td>
-            <td><b>7&nbsp;dzień w&nbsp;oktawie Narodzenia Pańskiego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Klaudię-Krzysztofę Trojanowską<br>
-2. + Klaudię-Krzysztofę Trojanowską
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">17.00</td>
-            <td>
-1. + Sylwestra Jurkowskiego
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 1&nbsp;stycznia</b></td>
-            <td><b>Uroczystość Świętej Bożej Rodzicielki</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">7.30</td>
-            <td>
-1. + Wiktorię i&nbsp;Władysława Politów, Helenę i&nbsp;Władysława
-    Sudołów, i&nbsp;zmarłych z&nbsp;rodziny
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.30</td>
-            <td>
-Za&nbsp;parafian
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">11.15</td>
-            <td>
-+ Mieczysława, Helenę, Jana Wnuków, Katarzynę Stanisława
-    Wyrzykowskich, Tadeusza Judę, Piotra Bogdańskiego
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">12.30</td>
-            <td>
-+ Zofię, Stefana Smolińskich, Jana, Anielę Majewskich
+1. + Joannę, Jana, Tadeusza Wójcików, Bronisławę, Kazimierę, Antoniego
+    Wódz<br>
+2. + Stanisława Czajkę oraz zmarłych z&nbsp;rodzin Czajków
+    i&nbsp;Gachów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
 1. + Stanisławę Sadok<br>
-2. + Marię Czyrek (1&nbsp;greg.)
+2. + Marię Czyrek (greg.)
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 2&nbsp;stycznia</b></td>
-            <td><b>I&nbsp;piątek miesiąca</b></td>
+            <td><b>WTOREK, 6&nbsp;stycznia</b></td>
+            <td><b>Objawienie Pańskie</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
+            <td class="center">7.30</td>
             <td>
-1. O&nbsp;łaskę dobrej śmierci<br>
-2. + Stanisławę Sadok<br>
-3. + Marię Czyrek (2&nbsp;greg.)
+1. + W&nbsp;intencji parafian<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
++ Władysławę, Józefa, Halinę Gospodarczyk, Kamilę i&nbsp;Dymitra
+    Chlebnikow
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Mariannę, Józefa, Lecha, Mariusza, Katarzynę Stybułkowskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Wincentego, Zofię Gajewskich; Andrzeja Macieja Skoczkowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
 1. + Mariannę Zając<br>
-2. + Ryszarda Czajkowskiego
+2. + Kazimierza Woźniaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 3&nbsp;stycznia</b></td>
-            <td><b>I&nbsp;sobota miesiąca</b></td>
+            <td><b>ŚRODA, 7&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;zdrowie dla dzieci i&nbsp;chrześniaków<br>
-2. + Mariannę Zając<br>
-3. + Marię Czyrek (3&nbsp;greg.)
+1. + Stanisławę Sadok<br>
+2. + Karolinę i&nbsp;Jana Mrożek; Bronisławę i&nbsp;Józefa Wódz<br>
+3. + Marię Czyrek (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. W&nbsp;intencji wynagradzającej za&nbsp;grzechy popełnione przeciw
-    Niepokalanemu Sercu Maryi<br>
+1. Dziękczynna za&nbsp;19&nbsp;lat istnienia w&nbsp;parafii Legionu
+    Maryi
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 8&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania kapłańskie<br>
+2. + Bogdana Kozakiewicza<br>
+3. + Marię Czyrek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Alicję Stupczy<br>
+2. + Mariannę Ciźla (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 9&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+2. + Małgorzatę Michalską<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Stanisława Łukawskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 10&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Teodozję (rocz. śm.), Zdzisława Dudków; zmarłych z&nbsp;rodziny
+    i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. O&nbsp;łaskę doświadczenia Bożej miłości dla męża Piotra
+    i&nbsp;ojca Tadeusza<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Bolesława Kamińskiego (52&nbsp;rocz. śm.)<br>
 2. + Mariana Cąbrowskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 4&nbsp;stycznia</b></td>
+            <td><b>NIEDZIELA, 11&nbsp;stycznia</b></td>
             <td><b>
-                <span style="color: red">II&nbsp;niedziela
-                po&nbsp;Narodzeniu Pańskim</span>
+                <span style="color: red">Niedziela Chrztu Pańskiego</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-Za&nbsp;parafian
+1. + Michała Dudę<br>
+2. + Marię Czyrek (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Genowefę Potrząsaj
++ Joannę Zdyb i&nbsp;zmarłych z&nbsp;rodziny
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę Matki
-    Najświętszej dla koła żywego różańca (zelatorka Jadwiga Mojduszko)
++ Jadwigę, Czesława, Dariusza Skroków, Marię, Józefa Dziubów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-1. + Stanisławę Sadok
+1. + Kazimierza, Mariannę Kieszkowskich, zmarłych z&nbsp;rodzin
+    Kieszkowskich i&nbsp;Nizielskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Bogusława Sarzyńskiego, Annę, Janusza, Stanisława Rożmiej, Zofię,
-    Mikołaja, Eugeniusza Kapustów<br>
-2. + Marię Czyrek (4&nbsp;greg.)
+1. W&nbsp;intencji parafian<br>
+2. + Marka Ziębę
             </td>
         </tr>
     </tbody>
