@@ -19,7 +19,262 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 4.&nbsp;stycznia 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 11.&nbsp;stycznia 2026&nbsp;r.</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            5.01 – 11.01.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 5&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Joannę, Jana, Tadeusza Wójcików, Bronisławę, Kazimierę, Antoniego
+    Wódz<br>
+2. + Stanisława Czajkę oraz zmarłych z&nbsp;rodzin Czajków
+    i&nbsp;Gachów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisławę Sadok<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 6&nbsp;stycznia</b></td>
+            <td><b>Objawienie Pańskie</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+1. + W&nbsp;intencji parafian<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
++ Władysławę, Józefa, Halinę Gospodarczyk, Kamilę i&nbsp;Dymitra
+    Chlebnikow
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Mariannę, Józefa, Lecha, Mariusza, Katarzynę Stybułkowskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Wincentego, Zofię Gajewskich; Andrzeja Macieja Skoczkowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę Zając<br>
+2. + Kazimierza Woźniaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 7&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Stanisławę Sadok<br>
+2. + Karolinę i&nbsp;Jana Mrożek; Bronisławę i&nbsp;Józefa Wódz<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna za&nbsp;19&nbsp;lat istnienia w&nbsp;parafii Legionu
+    Maryi
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 8&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;świętość kapłanów i&nbsp;nowe powołania kapłańskie<br>
+2. + Bogdana Kozakiewicza<br>
+3. + Marię Czyrek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Alicję Stupczy<br>
+2. + Mariannę Ciźla (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 9&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+2. + Małgorzatę Michalską<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Stanisława Łukawskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 10&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Teodozję (rocz. śm.), Zdzisława Dudków; zmarłych z&nbsp;rodziny
+    i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. O&nbsp;łaskę doświadczenia Bożej miłości dla męża Piotra
+    i&nbsp;ojca Tadeusza<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Bolesława Kamińskiego (52&nbsp;rocz. śm.)<br>
+2. + Mariana Cąbrowskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 11&nbsp;stycznia</b></td>
+            <td><b>
+                <span style="color: red">Niedziela Chrztu Pańskiego</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+1. + Michała Dudę<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Joannę Zdyb i&nbsp;zmarłych z&nbsp;rodziny
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Jadwigę, Czesława, Dariusza Skroków, Marię, Józefa Dziubów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
+1. + Kazimierza, Mariannę Kieszkowskich, zmarłych z&nbsp;rodzin
+    Kieszkowskich i&nbsp;Nizielskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji parafian<br>
+2. + Marka Ziębę
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>4.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>II&nbsp;niedziela po&nbsp;Narodzeniu Pańskim, Rok A</h3>
+    </div>
+    <div class="col">
+        <p>1. Trwamy w&nbsp;radości okresu Narodzenia Pańskiego.
+        We&nbsp;wtorek Uroczystość Objawienia Pańskiego. Msze Święte
+        w&nbsp;porządku niedzielnym.</p>
+        <p>2. Na&nbsp;wszystkich Mszach Świętych poświęcimy kadzidło
+        i&nbsp;kredę, które będzie można zabrać ze&nbsp;sobą. Dobrowolne
+        ofiary składane przy tej okazji przeznczone
+        są&nbsp;na&nbsp;duszpasterstwo młodzieży.</p>
+        <p>3. W&nbsp;uroczystość Objawienia Pańskiego odbędzie się tradycyjnie
+        w&nbsp;naszym mieście orszak Trzech Króli. Z&nbsp;naszego kościoła
+        orszak wyruszy po&nbsp;Mszy Świętej o&nbsp;godzinie 11.15. Około
+        godziny 13.00 dotrzemy na&nbsp;Rynek Starego Miasta, gdzie zakończymy
+        Orszak wspólną modlitwą oraz pokłonem Mędrców.</p>
+        <p>4. W&nbsp;tym roku w&nbsp;trakcie Orszaku Trzech Króli, podobnie
+        jak w&nbsp;latach ubiegłych, zbierane będą środki czystości. Tym razem
+        zostaną one przekazane do&nbsp;Domu Pomocy Społecznej w&nbsp;Irenie
+        koło Zaklikowa.</p>
+        <p>5. Także 6&nbsp;stycznia Teatr Klasyki Polskiej zaprasza
+        na&nbsp;widowisko Stara – Nowa Pastorałka. Spektakl odbędzie się
+        w&nbsp;Domu Katolickim w&nbsp;Sandomierzu. Początek
+        o&nbsp;godz.&nbsp;19.00. Bilety do&nbsp;nabycia na&nbsp;stronie
+        <a href="https://domkatolickisandomierz.pl/">https://domkatolickisandomierz.pl/</a></p>
+        <p>6. Dziękujemy za&nbsp;życzliwe przyjmowanie nas podczas kolędy.
+        Plan kolędy na&nbsp;kolejne dni wywieszony jest w&nbsp;gablocie.</p>
+        <p>7. W&nbsp;związku z&nbsp;wizytą duszpasterską w&nbsp;styczniu,
+        kancelaria parafialna jest czynna w&nbsp;poniedziałki, wtorki,
+        czwartki i&nbsp;piątki po&nbsp;Mszy Świętej porannej. W&nbsp;sprawach
+        pilnych, gdyby nie było możliwe przyjście w&nbsp;tym czasie, prosimy
+        o&nbsp;kontakt telefoniczny i&nbsp;umówienie spotkania w&nbsp;innych
+        godzinach.</p>
+        <p>8. Dziś jeszcze zapraszamy na&nbsp;kolędowanie przy szopce
+        w&nbsp;Milczanach. Początek o&nbsp;godz.&nbsp;15.00.</p>
+        <p>9. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończyli nasi
+        parafianie: Marianna Ciźla, Helena Gajewska, Seweryn Polewski. Polećmy
+        ich Bożemu miłosierdziu.</p>
+        <p>10. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Szczególnie za&nbsp;ofiary składane przy okazji kolędy
+        oraz przesyłane na&nbsp;konto parafialne. <em>Bóg zapłać</em>!
+        Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze składamy
+        serdeczne życzenia. Naszym parafianom i&nbsp;gościom życzymy
+        błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 4.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
 
 <div class="card">
     <div class="card-header">
