@@ -20,7 +20,7 @@
         należy wpłacić I&nbsp;ratę w&nbsp;euro na&nbsp;pielgrzymkę
         do&nbsp;Portugalii. II&nbsp;rata do&nbsp;20&nbsp;kwietnia.</p>
         <p>7. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończyli nasi
-        parafianie: Rudolf Furman, Wiesław Gach i&nbsp;Zofia Świerkula.
+        parafianie: Romuald Furman, Wiesław Gach i&nbsp;Zofia Świerkula.
         Polećmy ich Bożemu miłosierdziu.</p>
         <p>8. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
         naszej parafii. Za&nbsp;ofiary składane podczas kolędy, jak
