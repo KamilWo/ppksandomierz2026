@@ -19,7 +19,226 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 18.&nbsp;stycznia 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 25.&nbsp;stycznia 2026&nbsp;r.</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            19.01 – 25.01.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 19&nbsp;stycznia</b></td>
+            <td><b>Św.&nbsp;Józefa Sebastiana Pelczara, biskupa</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+2. + Stanisława Sapielaka<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Mariannę Ciźla
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 20&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Stanisława Sapielaka<br>
+2. + Ryszarda Kwitka<br>
+3. + Jana (32&nbsp;rocz. śm.) i&nbsp;Zofię Skorupskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo i&nbsp;potrzebne łaski dla Haliny
+    w&nbsp;70&nbsp;rocznicę urodzin<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 21&nbsp;stycznia</b></td>
+            <td><b>Św.&nbsp;Agnieszki, dziewicy i&nbsp;męczennicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariannę Zając<br>
+2. + Marka Płazę<br>
+3. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława Rewerę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 22&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Zdzisława i&nbsp;Teodozję Dudków, zmarłych z&nbsp;rodziny
+    i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Genowefę i&nbsp;Tadeusza Szymańskich, Annę i&nbsp;Ryszarda
+    Moszczyńskich, zmarłych z&nbsp;rodzin Szymańskich
+    i&nbsp;Łukaszków<br>
+2. + Tomasza Mroczkowskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 23&nbsp;stycznia</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+2. + Marka Płazę<br>
+3. + Kazimierza Woźniaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 24&nbsp;stycznia</b></td>
+            <td><b>Św.&nbsp;Franciszka Salezego, biskupa
+            i&nbsp;doktora Kościoła</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
+2. + Andrzeja Bidasa
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 25&nbsp;stycznia</b></td>
+            <td><b>
+                <span style="color: red">III&nbsp;niedziela zwykła, Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+1. + Janinę i&nbsp;Józefa Tutaków, i&nbsp;zmarłych z&nbsp;rodziny<br>
+2. + Marię Czyrek (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Zygmunta Tosia (1&nbsp;rocz. śm.), ks.&nbsp;Jana Tosia, Stanisławę
+    i&nbsp;Jana Tosiów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Stanisława Czosnka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Zuzannę Marzec
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji parafian<br>
+2. + Józefa Kurka i&nbsp;dusze w&nbsp;czyśćcu cierpiące
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>18.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>II&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Niezmiennie dziękujemy za&nbsp;życzliwe przyjmowanie nas podczas
+        wizyty duszpasterskiej. Plan na&nbsp;ostatni tydzień kolędy wywieszony
+        jest w&nbsp;gablocie i&nbsp;podany na&nbsp;stronie internetowej.</p>
+        <p>2. W&nbsp;tym tygodniu oddajemy cześć świętym: w&nbsp;poniedziałek
+        świętemu Józefowi Sebastianowi Pelczarowi, w&nbsp;środę świętej
+        Agnieszce, w&nbsp;sobotę świętemu Franciszkowi Salezemu.</p>
+        <p>3. Najbliższy tydzień to&nbsp;tydzień modlitw o&nbsp;jedność
+        chrześcijan.</p>
+        <p>4. Dziś o&nbsp;godz.&nbsp;19 w&nbsp;kościele św.&nbsp;Józefa
+        odbędzie się koncert kolęd Violi Brzezińskiej.</p>
+        <p>5. 31&nbsp;stycznia zapraszamy na&nbsp;kolejny wieczór uwielbienia.
+        Początek o&nbsp;godzinie 18.00.</p>
+        <p>6. Ksiądz Krystian przypomina, że&nbsp;do&nbsp;30&nbsp;stycznia
+        należy wpłacić I&nbsp;ratę w&nbsp;euro na&nbsp;pielgrzymkę
+        do&nbsp;Portugalii. II&nbsp;rata do&nbsp;20&nbsp;kwietnia.</p>
+        <p>7. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończyli nasi
+        parafianie: Romuald Furman, Wiesław Gach i&nbsp;Zofia Świerkula.
+        Polećmy ich Bożemu miłosierdziu.</p>
+        <p>8. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Za&nbsp;ofiary składane podczas kolędy, jak
+        i&nbsp;te&nbsp;wpłacane na&nbsp;konto. Wszystkim obchodzącym imieniny,
+        rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+        parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 18.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
 
 <div class="card">
     <div class="card-header">
@@ -162,7 +381,7 @@ include 'head.php';
         <tr class="aktualnosci_day">
             <td><b>NIEDZIELA, 18&nbsp;stycznia</b></td>
             <td><b>
-                <span style="color: red">II niedziela zwykła, Rok A</span>
+                <span style="color: red">II&nbsp;niedziela zwykła, Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -208,7 +427,7 @@ W&nbsp;intencji parafian
 <div class="card">
     <div class="card-header">
         <h3>11.&nbsp;stycznia 2025&nbsp;r.</h3>
-        <h3>Niedziela Chrztu Pańskiego, Rok A</h3>
+        <h3>Niedziela Chrztu Pańskiego, Rok&nbsp;A</h3>
     </div>
     <div class="col">
         <p>1. Dziękujemy za&nbsp;życzliwą atmosferę oraz za&nbsp;otwartość
@@ -447,7 +666,7 @@ W&nbsp;intencji parafian
 <div class="card">
     <div class="card-header">
         <h3>4.&nbsp;stycznia 2025&nbsp;r.</h3>
-        <h3>II&nbsp;niedziela po&nbsp;Narodzeniu Pańskim, Rok A</h3>
+        <h3>II&nbsp;niedziela po&nbsp;Narodzeniu Pańskim, Rok&nbsp;A</h3>
     </div>
     <div class="col">
         <p>1. Trwamy w&nbsp;radości okresu Narodzenia Pańskiego.
