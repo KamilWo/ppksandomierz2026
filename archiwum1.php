@@ -1423,6 +1423,20 @@ include 'head.php';
 
                         <div class="card">
                             <div class="card-header">
+                                <h3>25-lecie Parafii</h3>
+                            </div>
+                            <div class="col">
+                                <p>
+                                    W dniach <strong>14-17 czerwca 2012&nbsp;r.</strong> odbyły się uroczystości liturgiczne
+                                    z&nbsp;okazji obchodów Jubileuszu 25-lecia Parafii p.w. Podwyższenia Krzyża Świętego
+                                    w&nbsp;Sandomierzu.
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
                                 <h3>17. czerwca 2012 r.</h3>
                                 <h3>XI niedziela zwykła Rok B</h3>
                             </div>

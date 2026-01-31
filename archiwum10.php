@@ -8009,6 +8009,33 @@ include 'head.php';
                             </div>
                         </div>
                         <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Informacja o&nbsp;zbiórce w&nbsp;Kościele - Pomoc dla Ukrainy</h3>
+                            </div>
+                            <div class="col">
+                                <p>
+                                    <a href="static/download/Informacja_o_zbiorce_w_Kosciele_-_Pomoc_dla_Ukrainy.pdf">
+                                        Tekst do pobrania
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>
+                                    Apel przewodniczącego Konferencji Episkopatu Polski
+                                    Arcybiskupa Stanisława Gądeckiego ws. pomocy migrantom
+                                </h3>
+                            </div>
+                            <div class="col">
+                                <p><a href="static/download/2021_Apel_przewodniczacego_Episkopatu_ws_pomocy_migrantom.pdf">Plik do pobrania</a></p>
+                            </div>
+                        </div>
+                        <br>
                     </div>
                     <!-- koniec treści głównej -->
                 </div>
