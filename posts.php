@@ -1,63 +1,47 @@
 <div class="card">
     <div class="card-header">
-        <h3>1.&nbsp;lutego 2025&nbsp;r.</h3>
-        <h3>IV&nbsp;niedziela zwykła, Rok A</h3>
+        <h3>8.&nbsp;lutego 2025&nbsp;r.</h3>
+        <h3>V&nbsp;niedziela zwykła, Rok A</h3>
     </div>
     <div class="col">
-        <p>1. Jutro, w&nbsp;poniedziałek 2&nbsp;lutego, obchodzimy Święto
-        Ofiarowania Pańskiego. Nie jest to&nbsp;święto obowiązkowe, ale
-        zachęcamy, aby na&nbsp;znaleźć czas na&nbsp;spotkanie
-        z&nbsp;Chrystusem w&nbsp;Eucharystii. Msze Święte, w&nbsp;czasie
-        których poświęcimy świece, o&nbsp;godz.&nbsp;6.30 i&nbsp;18.00.</p>
-        <p>2. W&nbsp;ten dzień obchodzimy także Święto Życia Konsekrowanego.
-        Pamiętajmy o&nbsp;siostrach i&nbsp;braciach zakonnych. Taca
-        z&nbsp;tego dnia przeznaczona dla naszych Sióstr Klarysek.</p>
-        <p>3. We&nbsp;wtorek 3&nbsp;lutego wspomnienie świętego Błażeja,
-        a&nbsp;w&nbsp;czwartek 5&nbsp;lutego świętej Agaty.</p>
-        <p>4. W&nbsp;tym tygodniu przypadają pierwszy czwartek, piątek
-        i&nbsp;sobota miesiąca.</p>
-        <p>5. W&nbsp;czwartek adoracja Pana Jezusa od&nbsp;godziny 17.30.</p>
-        <p>6. W&nbsp;piątek spowiedź od&nbsp;godziny 17.00. Przypominamy
-        szczególnie tym, którzy obchodzą pierwsze piątki miesiąca,
-        że&nbsp;istotą nabożeństwa pierwszopiątkowego jest przyjęcie komunii
-        świętej. Jeśli ktoś nie będzie uczestniczył we&nbsp;Mszy Świętej tego
-        dnia, będzie mógł przyjąć komunię o&nbsp;godz.&nbsp;17.30.</p>
-        <p>7. Spotkanie uczniów klas ósmych i&nbsp;przyjmujących w&nbsp;tym
-        roku sakrament bierzmowania odbędzie się w&nbsp;najbliższy piątek.
-        Rozpoczęcie Mszą Świętą, a&nbsp;następnie katecheza
-        w&nbsp;kościele.</p>
-        <p>8. Także w&nbsp;piątek odwiedzimy chorych. Początek
-        o&nbsp;godz.&nbsp;8.00.</p>
-        <p>9. W&nbsp;sobotę adoracja Pana Jezusa od&nbsp;godziny 17.00.
-        O&nbsp;17.30 różaniec wynagradzający.</p>
-        <p>10. W&nbsp;przyszłą niedzielę 8&nbsp;lutego obchodzony jest
-        Światowy Dzień Małżeństw. Zapraszamy małżonków na&nbsp;Mszę świętą
-        o&nbsp;godz.&nbsp;11.15, w&nbsp;czasie której odbędzie się obrzęd
-        odnowienia przyrzeczeń małżeńskich.</p>
-        <p>11. W&nbsp;wielkim poście w&nbsp;dni powszednie w&nbsp;bocznej
-        kaplicy naszego kościoła wystawiony będzie Najświętszy Sakrament.
-        Zachęcamy już teraz, aby w&nbsp;czasie Wielkiego Postu pomyśleć
-        o&nbsp;znalezieniu czasu na&nbsp;dłuższą modlitwę w&nbsp;milczeniu
-        przed Chrystusem obecnym w&nbsp;Eucharystii. Co&nbsp;prawda Pan Jezus
-        będzie zamknięty za&nbsp;kratą w&nbsp;kaplicy, ale dobrze byłoby,
-        żeby w&nbsp;każdej godzinie dnia znalazł się ktoś, kto będzie trwał
-        na&nbsp;modlitwie i&nbsp;po&nbsp;prostu będzie obecny w&nbsp;kościele.
-        Od&nbsp;przyszłej niedzieli będzie przygotowany grafik adoracji,
-        do&nbsp;którego będzie można się wpisywać na&nbsp;konkretne dni
-        i&nbsp;godziny modlitwy. Serdecznie zachęcamy do&nbsp;włączenia się
-        w&nbsp;to&nbsp;dzieło modlitewne.</p>
-        <p>12. Dzięki Waszej ofiarności w&nbsp;czasie kolędy możliwe będą
-        prace przy parafii. W&nbsp;najbliższych miesiącach planujemy
-        całościową wymianę nagłośnienia oraz montaż stałego zamykanego
-        konfesjonału.</p>
-        <p>13. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończył
-        nasz parafianin Tomasz Nowak. Polećmy Go&nbsp;Bożemu miłosierdziu.</p>
-        <p>14. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
-        naszej parafii! Wszystkim obchodzącym imieniny, rocznice
-        i&nbsp;jubileusze składamy serdeczne życzenia. Wszystkim Parafianom
-        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>1. W&nbsp;najbliższą środę 11&nbsp;lutego we&nbsp;wspomnienie NMP
+        z&nbsp;Louredes obchodzony jest Światowy Dzień Chorego. Msza&nbsp;św.
+        pod przewodnictwem Biskupa Ordynariusza Krzysztofa Nitkiewicza
+        o&nbsp;godz.&nbsp;11 w&nbsp;Bazylice Katedralnej.</p>
+        <p>2. 12&nbsp;lutego w&nbsp;Wyższym Seminarium Duchownym odbędzie się
+        spotkanie autorskie Biskupa Ordynariusza Krzysztofa Nitkiewicza
+        dotyczące Jego najnowszej książki pt.&nbsp;„Baranki Boże”. Początek
+        o&nbsp;godz.&nbsp;18.30.</p>
+        <p>3. Kandydatów do&nbsp;bierzmowania z&nbsp;klas&nbsp;8
+        i&nbsp;starszych, nieobecnych na&nbsp;ostatnim spotkaniu, zapraszamy
+        na&nbsp;obowiązkowe spotkanie w&nbsp;najbliższą środę. Rozpoczęcie
+        Mszą Świętą, a&nbsp;następnie katecheza w&nbsp;kościele.</p>
+        <p>4. Dzieci komunijne będą miały swoje spotkanie w&nbsp;najbliższą
+        sobotę w&nbsp;kościele. Początek o&nbsp;godzinie 9.00.</p>
+        <p>5. W&nbsp;najbliższą niedzielę na&nbsp;Mszy Świętej o&nbsp;godzinie
+        12.30 dzieciom przygotowującym się do&nbsp;pierwszej spowiedzi
+        i&nbsp;Komunii Świętej zostaną poświęcone, i&nbsp;wręczone modlitewniki.</p>
+        <p>6. Jak już wspominaliśmy w&nbsp;zeszłą niedzielę, chcielibyśmy
+        w&nbsp;Wielkim Poście zaprosić wszystkich Parafian do&nbsp;adoracji
+        Pana Jezusa Najświętszym Sakramencie. Pan Jezus będzie wystawiony
+        do&nbsp;adoracji w&nbsp;bocznej kaplicy od&nbsp;godziny&nbsp;7
+        do&nbsp;18. Zachęcamy, aby zapisywać się na&nbsp;konkretne godziny
+        adoracji. Na&nbsp;stoliku pod chórem wystawiona jest lista
+        z&nbsp;godzinami na&nbsp;pierwsze trzy tygodnie Wielkiego Postu.</p>
+        <p>7. Rekolekcje Wielkopostne w&nbsp;naszym kościele parafialnym
+        rozpoczniemy w&nbsp;środę popielcową. Nauki rekolekcyjne będzie
+        głosił o.&nbsp;Michał Śliż&nbsp;OP, były przeor naszego
+        sandomierskiego klasztoru Dominikanów, a&nbsp;obecnie proboszcz
+        parafii oo.&nbsp;Dominikanów w&nbsp;Tarnobrzegu.</p>
+        <p>8. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończyli
+        nasi parafianie: Barbara Chorab oraz Adam Socha. Polećmy Ich Bożemu
+        miłosierdziu.</p>
+        <p>9. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli!</p>
         <p>
-            <span style="float: left;">Sandomierz, 1.&nbsp;lutego 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 8.&nbsp;lutego 2025&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
