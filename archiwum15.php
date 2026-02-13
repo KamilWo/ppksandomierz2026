@@ -197,7 +197,7 @@ O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla rodzin
 
 <div class="card">
     <div class="card-header">
-        <h3>8.&nbsp;lutego 2025&nbsp;r.</h3>
+        <h3>8.&nbsp;lutego 2026&nbsp;r.</h3>
         <h3>V&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -238,7 +238,7 @@ O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla rodzin
         i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
         i&nbsp;Gościom życzymy błogosławionej niedzieli!</p>
         <p>
-            <span style="float: left;">Sandomierz, 8.&nbsp;lutego 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 8.&nbsp;lutego 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
@@ -436,7 +436,7 @@ W&nbsp;intencji Parafian
 
 <div class="card">
     <div class="card-header">
-        <h3>1.&nbsp;lutego 2025&nbsp;r.</h3>
+        <h3>1.&nbsp;lutego 2026&nbsp;r.</h3>
         <h3>IV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -493,7 +493,7 @@ W&nbsp;intencji Parafian
         i&nbsp;jubileusze składamy serdeczne życzenia. Wszystkim Parafianom
         i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 1.&nbsp;lutego 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 1.&nbsp;lutego 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
@@ -685,7 +685,7 @@ O&nbsp;Boże błogosławieństwo dla Barbary i&nbsp;Kazimierza
 
 <div class="card">
     <div class="card-header">
-        <h3>25.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>25.&nbsp;stycznia 2026&nbsp;r.</h3>
         <h3>III&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -717,7 +717,7 @@ O&nbsp;Boże błogosławieństwo dla Barbary i&nbsp;Kazimierza
         i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
         i&nbsp;Gościom życzymy błogosławionej niedzieli!</p>
         <p>
-            <span style="float: left;">Sandomierz, 25.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 25.&nbsp;stycznia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
@@ -908,7 +908,7 @@ O&nbsp;Boże błogosławieństwo dla Barbary i&nbsp;Kazimierza
 
 <div class="card">
     <div class="card-header">
-        <h3>18.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>18.&nbsp;stycznia 2026&nbsp;r.</h3>
         <h3>II&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -936,7 +936,7 @@ O&nbsp;Boże błogosławieństwo dla Barbary i&nbsp;Kazimierza
         rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
         parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 18.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 18.&nbsp;stycznia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
@@ -1129,7 +1129,7 @@ W&nbsp;intencji parafian
 
 <div class="card">
     <div class="card-header">
-        <h3>11.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>11.&nbsp;stycznia 2026&nbsp;r.</h3>
         <h3>Niedziela Chrztu Pańskiego, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -1158,7 +1158,7 @@ W&nbsp;intencji parafian
         imieniny, rocznice i&nbsp;jubileusze składamy serdeczne życzenia.
         Naszym parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 11.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 11.&nbsp;stycznia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
@@ -1368,7 +1368,7 @@ W&nbsp;intencji parafian
 
 <div class="card">
     <div class="card-header">
-        <h3>4.&nbsp;stycznia 2025&nbsp;r.</h3>
+        <h3>4.&nbsp;stycznia 2026&nbsp;r.</h3>
         <h3>II&nbsp;niedziela po&nbsp;Narodzeniu Pańskim, Rok&nbsp;A</h3>
     </div>
     <div class="col">
@@ -1413,7 +1413,7 @@ W&nbsp;intencji parafian
         serdeczne życzenia. Naszym parafianom i&nbsp;gościom życzymy
         błogosławionej niedzieli!</p>
         <p>
-            <span style="float: left;">Sandomierz, 4.&nbsp;stycznia 2025&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 4.&nbsp;stycznia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
