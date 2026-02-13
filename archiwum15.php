@@ -19,7 +19,231 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;lutego 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;lutego 2026&nbsp;r.</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            9.02 – 15.02.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 9&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny<br>
+2. + Jerzego (rocz.), Mariannę, Janinę, Mariana Polaków<br>
+3. + Marka Ziębę (Poza parafią)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 10&nbsp;lutego</b></td>
+            <td><b>Św.&nbsp;Scholastyki</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;łaskę doświadczenia Bożej miłości dla ojca Tadeusza
+    i&nbsp;męża Piotra
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;wyzwolenie z&nbsp;lęku dla osób uzależnionych i&nbsp;ich
+    rodzin<br>
+2. + Mariannę i&nbsp;Juliana Godwinów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 11&nbsp;lutego</b></td>
+            <td><b>NMP z&nbsp;Lourdes; Światowy Dzień Chorego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Rafała z&nbsp;okazji urodzin<br>
+2. + Mariannę Zając<br>
+3. O&nbsp;zdrowie i&nbsp;potrzebne łaski dla Agnieszki (poza parafią)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 12&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Małgorzatę Michalską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Teresę i&nbsp;Janusza Tworowskich<br>
+2. + Mariannę Zając
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 13&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jadwigę (rocz.) i&nbsp;Aleksego (rocz.) Kaczmarczyków,
+    i&nbsp;zmarłych, i&nbsp;rodziny<br>
+2. + Władysławę Bulirę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 14&nbsp;lutego</b></td>
+            <td><b>Św.&nbsp;Cyryla i&nbsp;Metodego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Andrzeja Bidasa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jadwigę i&nbsp;Stanisława Łaganowskich, Zofię Kulczycką<br>
+2. + Jacka Łukasiewicza
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 15&nbsp;lutego</b></td>
+            <td><b>
+                <span style="color: red">VI&nbsp;niedziela zwykła, Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Danutę (16&nbsp;rocz. śm.), Mieczysława, Michała, Helenę Pawlikowskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Henryka Kordosa, Stanisława Pliżgę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla rodzin
+    z&nbsp;Domowego Kościoła
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Helenę i&nbsp;Władysława Anwajlerów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Parafian<br>
+2. + Mariana Patynę i&nbsp;Józefę Palińską
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>8.&nbsp;lutego 2025&nbsp;r.</h3>
+        <h3>V&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;najbliższą środę 11&nbsp;lutego we&nbsp;wspomnienie NMP
+        z&nbsp;Louredes obchodzony jest Światowy Dzień Chorego. Msza&nbsp;św.
+        pod przewodnictwem Biskupa Ordynariusza Krzysztofa Nitkiewicza
+        o&nbsp;godz.&nbsp;11 w&nbsp;Bazylice Katedralnej.</p>
+        <p>2. 12&nbsp;lutego w&nbsp;Wyższym Seminarium Duchownym odbędzie się
+        spotkanie autorskie Biskupa Ordynariusza Krzysztofa Nitkiewicza
+        dotyczące Jego najnowszej książki pt.&nbsp;„Baranki Boże”. Początek
+        o&nbsp;godz.&nbsp;18.30.</p>
+        <p>3. Kandydatów do&nbsp;bierzmowania z&nbsp;klas&nbsp;8
+        i&nbsp;starszych, nieobecnych na&nbsp;ostatnim spotkaniu, zapraszamy
+        na&nbsp;obowiązkowe spotkanie w&nbsp;najbliższą środę. Rozpoczęcie
+        Mszą Świętą, a&nbsp;następnie katecheza w&nbsp;kościele.</p>
+        <p>4. Dzieci komunijne będą miały swoje spotkanie w&nbsp;najbliższą
+        sobotę w&nbsp;kościele. Początek o&nbsp;godzinie 9.00.</p>
+        <p>5. W&nbsp;najbliższą niedzielę na&nbsp;Mszy Świętej o&nbsp;godzinie
+        12.30 dzieciom przygotowującym się do&nbsp;pierwszej spowiedzi
+        i&nbsp;Komunii Świętej zostaną poświęcone, i&nbsp;wręczone modlitewniki.</p>
+        <p>6. Jak już wspominaliśmy w&nbsp;zeszłą niedzielę, chcielibyśmy
+        w&nbsp;Wielkim Poście zaprosić wszystkich Parafian do&nbsp;adoracji
+        Pana Jezusa Najświętszym Sakramencie. Pan Jezus będzie wystawiony
+        do&nbsp;adoracji w&nbsp;bocznej kaplicy od&nbsp;godziny&nbsp;7
+        do&nbsp;18. Zachęcamy, aby zapisywać się na&nbsp;konkretne godziny
+        adoracji. Na&nbsp;stoliku pod chórem wystawiona jest lista
+        z&nbsp;godzinami na&nbsp;pierwsze trzy tygodnie Wielkiego Postu.</p>
+        <p>7. Rekolekcje Wielkopostne w&nbsp;naszym kościele parafialnym
+        rozpoczniemy w&nbsp;środę popielcową. Nauki rekolekcyjne będzie
+        głosił o.&nbsp;Michał Śliż&nbsp;OP, były przeor naszego
+        sandomierskiego klasztoru Dominikanów, a&nbsp;obecnie proboszcz
+        parafii oo.&nbsp;Dominikanów w&nbsp;Tarnobrzegu.</p>
+        <p>8. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończyli
+        nasi parafianie: Barbara Chorab oraz Adam Socha. Polećmy Ich Bożemu
+        miłosierdziu.</p>
+        <p>9. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 8.&nbsp;lutego 2025&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
 
 <div class="card">
     <div class="card-header">
@@ -213,7 +437,7 @@ W&nbsp;intencji Parafian
 <div class="card">
     <div class="card-header">
         <h3>1.&nbsp;lutego 2025&nbsp;r.</h3>
-        <h3>IV&nbsp;niedziela zwykła, Rok A</h3>
+        <h3>IV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
         <p>1. Jutro, w&nbsp;poniedziałek 2&nbsp;lutego, obchodzimy Święto
@@ -462,7 +686,7 @@ O&nbsp;Boże błogosławieństwo dla Barbary i&nbsp;Kazimierza
 <div class="card">
     <div class="card-header">
         <h3>25.&nbsp;stycznia 2025&nbsp;r.</h3>
-        <h3>III&nbsp;niedziela zwykła, Rok A</h3>
+        <h3>III&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
         <p>1. Zakończyliśmy wizytę duszpasterską. Bardzo dziękujemy
