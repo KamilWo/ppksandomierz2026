@@ -19,7 +19,304 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;lutego 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;lutego 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            16.02 – 22.02.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 16&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Ryszarda Kwitka<br>
+2. + Stanisławę 15&nbsp;rocz. śm. i&nbsp;Mariana Mądrych, zm.
+z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące - <strong>poza
+parafią</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisława Sapielaka<br>
+2. + Ryszarda Kwitka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 17&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Małgorzatę Michalską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski dla Magdaleny<br>
+2. + Jacka Łukasiewicza
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 18&nbsp;lutego</b></td>
+            <td><b>Popielec</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Rędziak
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. + Janinę i&nbsp;Stefana Plachów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Teresę Janas (10&nbsp;rocz. śm.)<br>
+2. + Jacka Łukasiewicza
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 19&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariannę Rojek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. O&nbsp;Boże błog., opiekę MB, potrzebne łaski dla Jolanty
+    i&nbsp;Piotra w&nbsp;11&nbsp;rocz. ślubu i&nbsp;dzieci
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Helenę i&nbsp;Piotra Grządkowskich, i&nbsp;zmarłych z&nbsp;rodziny<br>
+2. + Mariannę Zając
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 20&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariannę Rojek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. + Mirosława Kosa, Janinę i&nbsp;Mariana Reczek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">16.00</td>
+            <td>
+<strong>DROGA KRZYŻOWA dla dzieci</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>DROGA KRZYŻOWA</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę Zając<br>
+2. + Tomasza Mroczkowskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 21&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jacka Łukasiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+W&nbsp;intencji chorych parafian o&nbsp;łaskę zdrowia
+    i&nbsp;umocnienia w&nbsp;chorobie
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Witolda z&nbsp;okazji urodzin<br>
+2. + ks.&nbsp;Stanisława Chmielewskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 22&nbsp;lutego</b></td>
+            <td><b>
+                <span style="color: red">I&nbsp;niedziela Wielkiego Postu</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Antoniego i&nbsp;Helenę Wrzosków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Zenona Mądrego (16&nbsp;rocz. śm.), zmarłych rodziców, Teresę
+    i&nbsp;Eugeniusza Paciochów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
+O&nbsp;Boże błogosławieństwo dla Maćka i&nbsp;Madzi Wódz
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>GORZKIE ŻALE</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Tadeusza i&nbsp;Zbigniewa Piechowskich<br>
+2. + Wandę Wiatrowską
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>15.&nbsp;lutego 2026&nbsp;r.</h3>
+        <h3>VI&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Dzisiaj po&nbsp;Mszach świętych odbywa się zbiórka
+        do&nbsp;puszek na&nbsp;pomoc ofiarom wojny w&nbsp;Ukrainie. Ofiarę
+        można złożyć do&nbsp;puszek, które są&nbsp;na&nbsp;stoliku pod chórem,
+        w&nbsp;zakrystii lub wpłacić bezpośrednio na&nbsp;konto Caritas
+        Diecezji Sandomierskiej, numer konta podany jest w&nbsp;gablocie.</p>
+        <p>Nr&nbsp;konta <a href="https://sandomierz.caritas.pl/sandomierz">
+        Caritas Diecezji Sandomierskiej</a>:<br>
+        PEKAO O/Sandomierz 33&nbsp;1240 2786 1111 0010 5670 9561
+        z&nbsp;dopiskiem „Pomoc Ukrainie - Lwów”.</p>
+        <p>2. W&nbsp;najbliższy wtorek - <strong>17&nbsp;lutego</strong> -
+        o&nbsp;godz.&nbsp;18.45 w&nbsp;auli Wyższego Seminarium
+        Duchownego odbędzie się kolejne spotkanie Akademii Biblijnej
+        w&nbsp;Sandomierzu. Tematem tego spotkania będzie: <strong>List
+        św.&nbsp;Pawła do&nbsp;Efezjan.</strong> W&nbsp;spotkaniach
+        będzie można uczestniczyć także internetowo, będą ono
+        transmitowane przez Facebooka, na&nbsp;profilu WSDSandomierz
+        [ <a href="https://www.facebook.com/wsdsandomierz">https://www.facebook.com/wsdsandomierz</a>].
+        Serdecznie zapraszamy!</p>
+        <p>3. W&nbsp;najbliższą środę - <strong>18&nbsp;lutego</strong> -
+        rozpoczynamy Wielki Post. Msze Święte z&nbsp;obrzędem posypania głów
+        popiołem o&nbsp;godz.&nbsp;6.30, 9.00 i&nbsp;18.00.</p>
+        <p>4. Środa Popielcowa jest dniem postu i&nbsp;pokuty.
+        Wstrzemięźliwość od&nbsp;pokarmów mięsnych obowiązuje wszystkich,
+        którzy ukończyli 14&nbsp;rok życia i&nbsp;nie mają przeciwskazań
+        zdrowotnych. Natomiast wierni, którzy ukończyli 18&nbsp;rok życia,
+        aż&nbsp;do&nbsp;rozpoczęcia 60&nbsp;roku życia, oprócz
+        wstrzemięźliwości od&nbsp;pokarmów mięsnych, są&nbsp;zobowiązani
+        do&nbsp;zachowania postu ścisłego. Post ścisły w&nbsp;Środę Popielcową
+        pozwala na&nbsp;jednorazowy posiłek do&nbsp;syta oraz na&nbsp;dwa
+        skromne posiłki w&nbsp;ciągu dnia.</p>
+        <p>5. W&nbsp;czwartek – 19&nbsp;lutego – Legion Maryi zaprasza
+        na&nbsp;modlitwę różańcową w&nbsp;ramach Nowenny Pompejańskiej.
+        Początek modlitwy o&nbsp;godz.&nbsp;16.00 w&nbsp;kościele.</p>
+        <p><strong>REKOLEKCJE WIELKOPOSTNE</strong>.</p>
+        <p>6. W&nbsp;Środę Popielcową rozpoczniemy nasze rekolekcje parafialne.
+        Nauki rekolekcyjne w&nbsp;środę, czwartek i&nbsp;piątek na&nbsp;Mszach
+        Świętych o&nbsp;godz.&nbsp;9.00 i&nbsp;18.00. Zakończenie rekolekcji
+        w&nbsp;niedzielę. Nauki rekolekcyjne będzie głosił o.&nbsp;Michał Śliż
+        OP. Były przeor naszego sandomierskiego klasztoru Dominikanów,
+        a&nbsp;obecnie proboszcz parafii oo.&nbsp;Dominikanów
+        w&nbsp;Tarnobrzegu.</p>
+        <p>7. W&nbsp;sobotę – <strong>21&nbsp;lutego</strong> - nie będzie
+        nauk rekolekcyjnych, ale na&nbsp;Mszę Świętą o&nbsp;godzinie 9.00
+        zapraszamy wszystkich chorych. Możliwość spowiedzi dla chorych przed
+        Mszą Świętą. Podczas Mszy Świętej udzielimy sakramentu namaszczenia
+        chorych.</p>
+        <p>8. Także w sobotę – <strong>21&nbsp;lutego</strong> - spotkanie dla
+        młodzieży z&nbsp;klas&nbsp;6 i&nbsp;7&nbsp;przygotowującej się
+        do&nbsp;sakramentu bierzmowania. Początek spotkania
+        o&nbsp;godz.&nbsp;11.00. Spotkanie potrwa do&nbsp;godz.&nbsp;13.30.</p>
+        <p>9. <strong>ZAPRASZAMY NA NABOŻEŃSTWA WIELKOPOSTNE:</strong></p>
+        <p><strong>Drogi Krzyżowe</strong> w&nbsp;piątki:
+        o&nbsp;godz.&nbsp;16.00 dla dzieci i&nbsp;o&nbsp;godz.&nbsp;17.15 dla
+        dorosłych.</p>
+        <p><strong>Gorzkie żale</strong> z&nbsp;rozważaniem pasyjnym
+        w&nbsp;niedzielę o&nbsp;godz.&nbsp;17.15.</p>
+        <p>10. W&nbsp;Wielkim Poście chcemy zaprosić wszystkich Parafian
+        do&nbsp;adoracji Pana Jezusa Najświętszym Sakramencie. Pan Jezus
+        będzie wystawiony do&nbsp;adoracji w&nbsp;bocznej kaplicy
+        od&nbsp;godziny 7.00 do&nbsp;18.00. Zachęcamy, aby zapisywać się
+        na&nbsp;konkretne godziny adoracji. Na&nbsp;stoliku pod chórem
+        wystawiona jest lista z&nbsp;godzinami na&nbsp;pierwsze trzy tygodnie
+        Wielkiego Postu.</p>
+        <p>11. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończył
+        nasz parafianin: Karol Malec. Polećmy go&nbsp;Bożemu miłosierdziu.</p>
+        <p>12. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;lutego 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
 
 <div class="card">
     <div class="card-header">

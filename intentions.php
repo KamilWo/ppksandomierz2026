@@ -1,56 +1,35 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            16.02 – 22.02.2026&nbsp;r.
+            23.02 – 1.03.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 16&nbsp;lutego</b></td>
-            <td><b>Dzień powszedni</b></td>
+            <td><b>PONIEDZIAŁEK, 23&nbsp;lutego</b></td>
+            <td><b>Św.&nbsp;Polikarpa, biskupa i&nbsp;męczennika</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Ryszarda Kwitka<br>
-2. + Stanisławę 15&nbsp;rocz. śm. i&nbsp;Mariana Mądrych, zm.
-z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu cierpiące - <strong>poza
-parafią</strong>
+1. + Mariannę Zając
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Sapielaka<br>
+1. + Franciszka Muchę, Władysława i&nbsp;Władysławę Grudzień,
+    i&nbsp;zmarłych z&nbsp;rodziny<br>
 2. + Ryszarda Kwitka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 17&nbsp;lutego</b></td>
+            <td><b>WTOREK, 24&nbsp;lutego</b></td>
             <td><b>Dzień powszedni</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Małgorzatę Michalską
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski dla Magdaleny<br>
-2. + Jacka Łukasiewicza
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 18&nbsp;lutego</b></td>
-            <td><b>Popielec</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
@@ -59,60 +38,62 @@ parafią</strong>
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>
-1. + Janinę i&nbsp;Stefana Plachów
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Teresę Janas (10&nbsp;rocz. śm.)<br>
+1. + Andrzeja Bidasa<br>
 2. + Jacka Łukasiewicza
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 19&nbsp;lutego</b></td>
+            <td><b>ŚRODA, 25&nbsp;lutego</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariannę Rojek
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>
-1. O&nbsp;Boże błog., opiekę MB, potrzebne łaski dla Jolanty
-    i&nbsp;Piotra w&nbsp;11&nbsp;rocz. ślubu i&nbsp;dzieci
+1. + Mariannę Zając
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Helenę i&nbsp;Piotra Grządkowskich, i&nbsp;zmarłych z&nbsp;rodziny<br>
-2. + Mariannę Zając
+1. + Marka Płazę<br>
+2. + Ks. Stanisława Chmielewskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 20&nbsp;lutego</b></td>
+            <td><b>CZWARTEK, 26&nbsp;lutego</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariannę Rojek
+1. + Jacka Łukasiewicza
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
+            <td class="center">18.00</td>
             <td>
-1. + Mirosława Kosa, Janinę i&nbsp;Mariana Reczek
+1. + Sylwestra, Kazimierza Wojnów, Halinę, Józefa Bartłomiejczyków,
+    Piotra, Mariannę, Leszka Krawczyków<br>
+2. + Ks.&nbsp;Stanisława Chmielewskiego<br>
+3. + Marka Ziębę <strong>(Poza parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 27&nbsp;lutego</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Ks.&nbsp;Stanisława Chmielewskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -130,68 +111,64 @@ parafią</strong>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariannę Zając<br>
-2. + Tomasza Mroczkowskiego
+1. + Władysławę Bulirę (rocz. śm.)<br>
+2. + Janinę Rędziak<br>
+3. + Krystyna Przyłuckiego<br>
+4. + Wiesława Gacha <strong>(Poza parafią)</strong>
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 21&nbsp;lutego</b></td>
+            <td><b>SOBOTA, 28&nbsp;lutego</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Jacka Łukasiewicza
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-W&nbsp;intencji chorych parafian o&nbsp;łaskę zdrowia
-    i&nbsp;umocnienia w&nbsp;chorobie
+1. + Marię Woś (rocz. śm.), Stefanię, Franciszka Kowalskich, Wiesławę
+    Wałcerz
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Witolda z&nbsp;okazji urodzin<br>
-2. + ks.&nbsp;Stanisława Chmielewskiego
+1. + Ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Ryszarda Kwitka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 22&nbsp;lutego</b></td>
+            <td><b>NIEDZIELA, 1&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">I&nbsp;niedziela Wielkiego Postu</span>
+                <span style="color: red">II&nbsp;niedziela Wielkiego Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Antoniego i&nbsp;Helenę Wrzosków
++ Helenę i&nbsp;Mariana Przyłuckich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-W&nbsp;intencji Parafian
++ Bogusławę i&nbsp;Józefa Cukrowskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Zenona Mądrego (16&nbsp;rocz. śm.), zmarłych rodziców, Teresę
-    i&nbsp;Eugeniusza Paciochów
+O&nbsp;Boże błogosławieństwo, opiekę Matki Najświętszej
+    i&nbsp;wszelkie potrzebne łaski dla członkiń Koła Żywego Różańca
+    (zelator Teodora Kwiecień)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-O&nbsp;Boże błogosławieństwo dla Maćka i&nbsp;Madzi Wódz
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -203,8 +180,8 @@ O&nbsp;Boże błogosławieństwo dla Maćka i&nbsp;Madzi Wódz
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Tadeusza i&nbsp;Zbigniewa Piechowskich<br>
-2. + Wandę Wiatrowską
+1. + Marka Płazę<br>
+2. + Wiesława Gacha
             </td>
         </tr>
     </tbody>
