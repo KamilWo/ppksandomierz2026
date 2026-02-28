@@ -1,174 +1,186 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            23.02 – 1.03.2026&nbsp;r.
+            2.03 – 8.03.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 23&nbsp;lutego</b></td>
-            <td><b>Św.&nbsp;Polikarpa, biskupa i&nbsp;męczennika</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Mariannę Zając
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Franciszka Muchę, Władysława i&nbsp;Władysławę Grudzień,
-    i&nbsp;zmarłych z&nbsp;rodziny<br>
-2. + Ryszarda Kwitka
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 24&nbsp;lutego</b></td>
+            <td><b>PONIEDZIAŁEK, 2&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Janinę Rędziak
+1. + Mariana i&nbsp;Stanisławę, zmarłych z&nbsp;rodziny i&nbsp;dusze
+w&nbsp;czyśćcu cierpiące
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Andrzeja Bidasa<br>
-2. + Jacka Łukasiewicza
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Barbary z&nbsp;okazji urodzin<br>
+2. + Jacka Łukasiewicza<br>
+3. + ks.&nbsp;Stanisława Chmielewskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 25&nbsp;lutego</b></td>
+            <td><b>WTOREK, 3&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariannę Zając
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Roberta Mikołajczyka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Marka Płazę<br>
-2. + Ks. Stanisława Chmielewskiego
+1. + Kazimierza Woźniaka<br>
+2. + Władysława Marca (10&nbsp;rocz. śm.)<br>
+3. + Zuzannę Marzec
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 26&nbsp;lutego</b></td>
-            <td><b>Dzień powszedni</b></td>
+            <td><b>ŚRODA, 4&nbsp;marca</b></td>
+            <td><b>Święto św. Kazimierza, królewicza</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Jacka Łukasiewicza
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Ani
+    z&nbsp;okazji urodzin<br>
+2. + Genowefę, Andrzeja Toś, Mariannę Sendrowicz i&nbsp;Stanisława Wróbla
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Sylwestra, Kazimierza Wojnów, Halinę, Józefa Bartłomiejczyków,
-    Piotra, Mariannę, Leszka Krawczyków<br>
-2. + Ks.&nbsp;Stanisława Chmielewskiego<br>
-3. + Marka Ziębę <strong>(Poza parafią)</strong>
+1. + Stanisława Kudelskiego (5&nbsp;rocz. śm.)<br>
+2. + Kazimierza Kaczmarskiego, Małgorzatę i&nbsp;Waldemara Walczynów<br>
+3. + Janinę Rędziak
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 27&nbsp;lutego</b></td>
-            <td><b>Dzień powszedni</b></td>
+            <td><b>CZWARTEK, 5&nbsp;marca</b></td>
+            <td><b>Pierwszy czwartek miesiąca<br>
+Rocznica sakry księdza biskupa Edwarda Frankowskiego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Ks.&nbsp;Stanisława Chmielewskiego
+1. O&nbsp;świętość kapłanów i&nbsp;o&nbsp;nowe powołania kapłańskie<br>
+2. + Roberta Mikołajczyka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Kazimierę, Wacława, Jana, Wiesława, Kazimierę Wojnów, zmarłych
+    z&nbsp;rodziny Wojnów i&nbsp;Mielczarków<br>
+2. + Helenę Gajewską<br>
+3. + Krystyna Przyłuckiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 6&nbsp;marca</b></td>
+            <td><b>Pierwszy piątek miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;łaskę dobrej śmierci<br>
+2. + Idę i&nbsp;Stanisława Głazów i&nbsp;zmarłych z&nbsp;rodziny
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">16.00</td>
             <td>
-<strong>DROGA KRZYŻOWA dla dzieci</strong>
+<strong>DROGA KRZYŻOWA DLA DZIECI</strong>
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">17.15</td>
             <td>
-<strong>DROGA KRZYŻOWA</strong>
+<strong>DROGA KRZYŻOWA DLA DOROSŁYCH</strong>
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Władysławę Bulirę (rocz. śm.)<br>
+1. + Kazimierza Woźniaka<br>
 2. + Janinę Rędziak<br>
-3. + Krystyna Przyłuckiego<br>
-4. + Wiesława Gacha <strong>(Poza parafią)</strong>
+2. + Krystyna Przyłuckiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 28&nbsp;lutego</b></td>
-            <td><b>Dzień powszedni</b></td>
+            <td><b>SOBOTA, 7&nbsp;marca</b></td>
+            <td><b>Pierwsza sobota miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Marię Woś (rocz. śm.), Stefanię, Franciszka Kowalskich, Wiesławę
-    Wałcerz
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    dzieci i&nbsp;chrześniaków<br>
+2. + Wacława Boryckiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Ryszarda Kwitka
+1. W&nbsp;intencji wynagradzającej za&nbsp;grzechy popełnione przeciw
+    Niepokalanemu Sercu Maryi<br>
+2. + Zofię, Władysława Szczudło, Mariana Czerepaka, Jana Kędzierskiego<br>
+3. + Zofię Miękina (17&nbsp;rocz. śm.)
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 1&nbsp;marca</b></td>
+            <td><b>NIEDZIELA, 8&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">II&nbsp;niedziela Wielkiego Postu</span>
+                <span style="color: red">III&nbsp;niedziela Wielkiego Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Helenę i&nbsp;Mariana Przyłuckich
++ Helenę, Jerzego, Waldemara Bażantów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Bogusławę i&nbsp;Józefa Cukrowskich
++ Edwarda Nowińskiego, Stefanię i&nbsp;Stefana Szpakowskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-O&nbsp;Boże błogosławieństwo, opiekę Matki Najświętszej
-    i&nbsp;wszelkie potrzebne łaski dla członkiń Koła Żywego Różańca
-    (zelator Teodora Kwiecień)
++ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława Rożmiejów, Zofię,
+    Mikołaja, Eugeniusza Kapustów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-W&nbsp;intencji Parafian
++ Kazimierę Czajkę, Kazimierza Gacha, zmarłych z&nbsp;rodzin Gachów
+    i&nbsp;Czajków
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -180,8 +192,8 @@ W&nbsp;intencji Parafian
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Marka Płazę<br>
-2. + Wiesława Gacha
+1. + Henryka Górczyńskiego (17&nbsp;rocz. śm.)<br>
+2. W&nbsp;intencji parafian
             </td>
         </tr>
     </tbody>
