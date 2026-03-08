@@ -1,109 +1,109 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            2.03 – 8.03.2026&nbsp;r.
+            9.03 – 15.03.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 2&nbsp;marca</b></td>
+            <td><b>PONIEDZIAŁEK, 9&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariana i&nbsp;Stanisławę, zmarłych z&nbsp;rodziny i&nbsp;dusze
-w&nbsp;czyśćcu cierpiące
+1. + Bogdana Kozakiewicza<br>
+2. + Kazimierza Woźniaka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Barbary z&nbsp;okazji urodzin<br>
-2. + Jacka Łukasiewicza<br>
-3. + ks.&nbsp;Stanisława Chmielewskiego
+1. + Józefę Kowalczyka (rocz. śm.)<br>
+2. + Zdzisława Rewerę<br>
+3. + Bożenkę Zybałę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 3&nbsp;marca</b></td>
+            <td><b>WTOREK, 10&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+1. O łaskę doświadczenia Bożej miłości dla ojca Tadeusza i męża Piotra<br>
 2. + Roberta Mikołajczyka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Kazimierza Woźniaka<br>
-2. + Władysława Marca (10&nbsp;rocz. śm.)<br>
-3. + Zuzannę Marzec
+1. O&nbsp;wyzwolenie z&nbsp;lęku i&nbsp;nałogów dla osób uzależnionych
+    i&nbsp;ich rodzin<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Tomasza<br>
+3. + Romualda Furmana
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 4&nbsp;marca</b></td>
-            <td><b>Święto św. Kazimierza, królewicza</b></td>
+            <td><b>ŚRODA, 11&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Ani
-    z&nbsp;okazji urodzin<br>
-2. + Genowefę, Andrzeja Toś, Mariannę Sendrowicz i&nbsp;Stanisława Wróbla
+1. + Małgorzatę Michalską<br>
+2. + Stanisława Muchę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Kudelskiego (5&nbsp;rocz. śm.)<br>
-2. + Kazimierza Kaczmarskiego, Małgorzatę i&nbsp;Waldemara Walczynów<br>
-3. + Janinę Rędziak
+1. + Andrzeja Bidasa<br>
+2. + Ryszarda Kołeczka (2&nbsp;rocz. śm.)<br>
+3. + Andrzeja Hysa, Andrzeja Kopra, Marka Młodochowskiego, Romana
+    Mazgaja, dusze w&nbsp;czyśćcu cierpiące
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 5&nbsp;marca</b></td>
-            <td><b>Pierwszy czwartek miesiąca<br>
-Rocznica sakry księdza biskupa Edwarda Frankowskiego</b></td>
+            <td><b>CZWARTEK, 12&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;świętość kapłanów i&nbsp;o&nbsp;nowe powołania kapłańskie<br>
+1. + Za zmarłych z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
+    cierpiące<br>
 2. + Roberta Mikołajczyka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Kazimierę, Wacława, Jana, Wiesława, Kazimierę Wojnów, zmarłych
-    z&nbsp;rodziny Wojnów i&nbsp;Mielczarków<br>
-2. + Helenę Gajewską<br>
+1. + Jana Gajdę<br>
+2. + Gustawa Kaniosa<br>
 3. + Krystyna Przyłuckiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 6&nbsp;marca</b></td>
-            <td><b>Pierwszy piątek miesiąca</b></td>
+            <td><b>PIĄTEK, 13&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;łaskę dobrej śmierci<br>
-2. + Idę i&nbsp;Stanisława Głazów i&nbsp;zmarłych z&nbsp;rodziny
+1. + Ryszarda Kwitka<br>
+2. + Mateusza Frańczaka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -121,66 +121,65 @@ Rocznica sakry księdza biskupa Edwarda Frankowskiego</b></td>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Kazimierza Woźniaka<br>
-2. + Janinę Rędziak<br>
-2. + Krystyna Przyłuckiego
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Marię, Władysława, Czesława Barańskich, Władysławę
+    i&nbsp;Andrzeja Krawczyków<br>
+2. + Tomasza Nowaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 7&nbsp;marca</b></td>
-            <td><b>Pierwsza sobota miesiąca</b></td>
+            <td><b>SOBOTA, 14&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    dzieci i&nbsp;chrześniaków<br>
-2. + Wacława Boryckiego
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Krystynę Kuśmirę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. W&nbsp;intencji wynagradzającej za&nbsp;grzechy popełnione przeciw
-    Niepokalanemu Sercu Maryi<br>
-2. + Zofię, Władysława Szczudło, Mariana Czerepaka, Jana Kędzierskiego<br>
-3. + Zofię Miękina (17&nbsp;rocz. śm.)
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Bogusława z&nbsp;okazji urodzin<br>
+2. + Krystyna Przyłuckiego<br>
+3. + Leonarda i&nbsp;Anielę Konopków
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 8&nbsp;marca</b></td>
+            <td><b>NIEDZIELA, 15&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">III&nbsp;niedziela Wielkiego Postu</span>
+                <span style="color: red">IV&nbsp;niedziela Wielkiego Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Helenę, Jerzego, Waldemara Bażantów
++ Mariannę i&nbsp;Wacława Kaczmarskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Edwarda Nowińskiego, Stefanię i&nbsp;Stefana Szpakowskich
++ Bogusławę Józefa Cukrowskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława Rożmiejów, Zofię,
-    Mikołaja, Eugeniusza Kapustów
+O&nbsp;Boże błogosławieństwo i&nbsp;potrzebne łaski dla rodzin
+    z&nbsp;Domowego Kościoła
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Kazimierę Czajkę, Kazimierza Gacha, zmarłych z&nbsp;rodzin Gachów
-    i&nbsp;Czajków
++ Janinę i&nbsp;Wacława Orłowskich, Stefana Szpakowskiego, Mariannę Dyl
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -192,8 +191,8 @@ Rocznica sakry księdza biskupa Edwarda Frankowskiego</b></td>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Henryka Górczyńskiego (17&nbsp;rocz. śm.)<br>
-2. W&nbsp;intencji parafian
+1. + Stefanię, Wojciecha i&nbsp;zmarłych z&nbsp;rodziny Błasiaków<br>
+2. W&nbsp;intencji Parafian
             </td>
         </tr>
     </tbody>
