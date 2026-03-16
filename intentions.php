@@ -1,109 +1,107 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            9.03 – 15.03.2026&nbsp;r.
+            16.03 – 22.03.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 9&nbsp;marca</b></td>
+            <td><b>PONIEDZIAŁEK, 16&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Bogdana Kozakiewicza<br>
-2. + Kazimierza Woźniaka
+1. + ks.&nbsp;Stanisława Chmielewskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Józefę Kowalczyka (rocz. śm.)<br>
-2. + Zdzisława Rewerę<br>
-3. + Bożenkę Zybałę
+1. + Krystyna Przyłuckiego<br>
+2. + Jana Gajdę<br>
+3. + Mariannę Chmiel
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 10&nbsp;marca</b></td>
+            <td><b>WTOREK, 17&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O łaskę doświadczenia Bożej miłości dla ojca Tadeusza i męża Piotra<br>
-2. + Roberta Mikołajczyka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;wyzwolenie z&nbsp;lęku i&nbsp;nałogów dla osób uzależnionych
-    i&nbsp;ich rodzin<br>
-2. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    Tomasza<br>
-3. + Romualda Furmana
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 11&nbsp;marca</b></td>
-            <td><b>Dzień powszedni</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Małgorzatę Michalską<br>
-2. + Stanisława Muchę
+1. + Jana Gajdę<br>
+2. + Zofię Kuminek
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
 1. + Andrzeja Bidasa<br>
-2. + Ryszarda Kołeczka (2&nbsp;rocz. śm.)<br>
-3. + Andrzeja Hysa, Andrzeja Kopra, Marka Młodochowskiego, Romana
-    Mazgaja, dusze w&nbsp;czyśćcu cierpiące
+2. + Krystyna Przyłuckiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 12&nbsp;marca</b></td>
+            <td><b>ŚRODA, 18&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Za zmarłych z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
-    cierpiące<br>
-2. + Roberta Mikołajczyka
+1. + Bogdana Kozakiewicza<br>
+2. + Wacława Boryckiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Jana Gajdę<br>
-2. + Gustawa Kaniosa<br>
-3. + Krystyna Przyłuckiego
+1. + Danutę Chruściel<br>
+2. + Zmarłych z&nbsp;rodziny Erkolani<br>
+3. + Seweryna Polewskiego<br>
+4. + Andrzeja Wosia
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 13&nbsp;marca</b></td>
+            <td><b>CZWARTEK, 19&nbsp;marca</b></td>
+            <td><b>Uroczystość świętego Józefa, Oblubieńca NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
+    i&nbsp;św.&nbsp;Józefa dla ks.&nbsp;Józefa Śmigla<br>
+2. + Józefa Tenderendę<br>
+3. + Henryka i&nbsp;Józefę Marciniak<br>
+4. + Tomasza Nowaka<br>
+5. + Józefa Stanka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 20&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Ryszarda Kwitka<br>
-2. + Mateusza Frańczaka
+1. + Małgorzatę Michalską<br>
+2. + Andrzeja Aleksandrowicza
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -121,65 +119,65 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Marię, Władysława, Czesława Barańskich, Władysławę
-    i&nbsp;Andrzeja Krawczyków<br>
+1. + Stanisława Sapielaka<br>
+2. + Janinę Rędziak<br>
 2. + Tomasza Nowaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 14&nbsp;marca</b></td>
+            <td><b>SOBOTA, 21&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Krystynę Kuśmirę
+1. + Jadwigę (rocz. śm.) i&nbsp;Szczepana Kasprzyckich. Zmarłych
+    z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. + Marka Grębowca
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    Bogusława z&nbsp;okazji urodzin<br>
+1. + Tadeusza Ziębę<br>
 2. + Krystyna Przyłuckiego<br>
-3. + Leonarda i&nbsp;Anielę Konopków
+3. + Tomasza Nowaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 15&nbsp;marca</b></td>
+            <td><b>NIEDZIELA, 22&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">IV&nbsp;niedziela Wielkiego Postu</span>
+                <span style="color: red">V&nbsp;niedziela Wielkiego Postu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Mariannę i&nbsp;Wacława Kaczmarskich
++ Janinę i&nbsp;Jana, Katarzynę, Antoniego, Anielę i&nbsp;Karola
+    z&nbsp;rodziny Kudelskich, zmarłych z&nbsp;rodziny Wieczorków
+    i&nbsp;Draganów oraz za&nbsp;wszystkich zmarłych z&nbsp;rodziny
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Bogusławę Józefa Cukrowskich
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-O&nbsp;Boże błogosławieństwo i&nbsp;potrzebne łaski dla rodzin
-    z&nbsp;Domowego Kościoła
++ Witolda Harę (2&nbsp;rocz. śm.), Zenona i&nbsp;Helenę Marów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Janinę i&nbsp;Wacława Orłowskich, Stefana Szpakowskiego, Mariannę Dyl
++ Mariannę, Józefa i&nbsp;zmarłych z&nbsp;rodziny Liśkiewiczów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -191,8 +189,9 @@ O&nbsp;Boże błogosławieństwo i&nbsp;potrzebne łaski dla rodzin
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stefanię, Wojciecha i&nbsp;zmarłych z&nbsp;rodziny Błasiaków<br>
-2. W&nbsp;intencji Parafian
+1. + Andrzeja Bidasa<br>
+2. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski dla Jakuba
+    i&nbsp;Natalii
             </td>
         </tr>
     </tbody>
