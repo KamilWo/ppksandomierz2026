@@ -19,7 +19,269 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;marca 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;marca 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            16.03 – 22.03.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 16&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Jana Gajdę<br>
+3. + Mariannę Chmiel
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 17&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Zofię Kuminek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Andrzeja Bidasa<br>
+2. + Krystyna Przyłuckiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 18&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Bogdana Kozakiewicza<br>
+2. + Wacława Boryckiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Danutę Chruściel<br>
+2. + Zmarłych z&nbsp;rodziny Erkolani<br>
+3. + Seweryna Polewskiego<br>
+4. + Andrzeja Wosia
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 19&nbsp;marca</b></td>
+            <td><b>Uroczystość świętego Józefa, Oblubieńca NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
+    i&nbsp;św.&nbsp;Józefa dla ks.&nbsp;Józefa Śmigla<br>
+2. + Józefa Tenderendę<br>
+3. + Henryka i&nbsp;Józefę Marciniak<br>
+4. + Tomasza Nowaka<br>
+5. + Józefa Stanka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 20&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Małgorzatę Michalską<br>
+2. + Andrzeja Aleksandrowicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">16.00</td>
+            <td>
+<strong>DROGA KRZYŻOWA DLA DZIECI</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>DROGA KRZYŻOWA DLA DOROSŁYCH</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisława Sapielaka<br>
+2. + Janinę Rędziak<br>
+2. + Tomasza Nowaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 21&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jadwigę (rocz. śm.) i&nbsp;Szczepana Kasprzyckich. Zmarłych
+    z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. + Marka Grębowca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Tadeusza Ziębę<br>
+2. + Krystyna Przyłuckiego<br>
+3. + Tomasza Nowaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 22&nbsp;marca</b></td>
+            <td><b>
+                <span style="color: red">V&nbsp;niedziela Wielkiego Postu</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Janinę i&nbsp;Jana, Katarzynę, Antoniego, Anielę i&nbsp;Karola
+    z&nbsp;rodziny Kudelskich, zmarłych z&nbsp;rodziny Wieczorków
+    i&nbsp;Draganów oraz za&nbsp;wszystkich zmarłych z&nbsp;rodziny
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Witolda Harę (2&nbsp;rocz. śm.), Zenona i&nbsp;Helenę Marów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Mariannę, Józefa i&nbsp;zmarłych z&nbsp;rodziny Liśkiewiczów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>GORZKIE ŻALE</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Andrzeja Bidasa<br>
+2. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski dla Jakuba
+    i&nbsp;Natalii
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>15.&nbsp;marca 2026&nbsp;r.</h3>
+        <h3>IV&nbsp;niedziela Wielkiego Postu, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Przeżywając okres Wielkiego Postu zapraszamy do&nbsp;udziału
+        w&nbsp;nabożeństwach pasyjnych. Droga Krzyżowa w&nbsp;piątek
+        o&nbsp;16.00 i&nbsp;17.15, Gorzkie Żale z&nbsp;nauką pasyjną
+        w&nbsp;niedzielę o&nbsp;17.15. Zapraszamy także do&nbsp;codziennej
+        adoracji Najświętszego Sakramentu.</p>
+        <p>2. W&nbsp;<strong>czwartek 19&nbsp;marca</strong> obchodzimy
+        uroczystość Świętego Józefa Oblubieńca NMP i&nbsp;opiekuna Kościoła
+        Świętego. Jest to&nbsp;także dzień imienin Księdza Seniora Józefa
+        Śmigla. Zapraszamy do&nbsp;wspólnej modlitwy za&nbsp;naszego
+        Solenizanta na&nbsp;Mszy Świętej o&nbsp;godz.&nbsp;18.00.</p>
+        <p>3. W&nbsp;<strong>sobotę 28&nbsp;marca</strong> zapraszamy
+        na&nbsp;Wieczór Uwielbienia. Początek o&nbsp;godz.&nbsp;18.00.</p>
+        <p>4. W&nbsp;najbliższy <strong>wtorek 17&nbsp;marca</strong>
+        zapraszamy na&nbsp;kolejne spotkanie Akademii Biblijnej
+        w&nbsp;Sandomierzu; poprowadzi je&nbsp;wykładowca Pisma świętego
+        w&nbsp;naszym seminarium, ks.&nbsp;Paweł Lasek. Tematem tego
+        spotkania będzie: <strong>Pierwszy List św.&nbsp;Pawła
+        do&nbsp;Koryntian</strong>. Spotkanie rozpocznie się
+        o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium Duchownego.
+        W&nbsp;spotkaniu będzie można uczestniczyć także internetowo przez
+        Facebooka, na&nbsp;profilu WSD&nbsp;Sandomierz. Serdecznie
+        zapraszamy!</p>
+        <p>5. <strong>21&nbsp;marca</strong> w&nbsp;Wyższym Seminarium
+        Duchownym odbędzie się „Dzień Pustyni dla Sandomierza”. Będzie
+        to&nbsp;jednodniowe zasłuchanie w&nbsp;Słowo Boże metodą <em>lectio
+        divina</em> dla tych, którzy potrzebują ciszy i&nbsp;modlitwy.
+        Szczegóły na&nbsp;stronie internetowej i&nbsp;facebooku WSD. Zapisy
+        przez formularz Google do&nbsp;17&nbsp;marca.</p>
+        <p>6. W&nbsp;<strong>sobotę 21&nbsp;marca</strong> w&nbsp;parafii
+        pw.&nbsp;św.&nbsp;Floriana w&nbsp;Stalowej Woli odbędzie się Dzień
+        Skupienia dla osób będących w&nbsp;żałobie. Początek
+        o&nbsp;godz.&nbsp;9.00. Szczegóły na&nbsp;plakacie.</p>
+        <p>7. Siostry Jadwiżanki zapraszają do&nbsp;Zawichostu
+        na&nbsp;rekolekcje Triduum Paschalnego. To&nbsp;propozycja dla tych,
+        którzy chcieliby przeżyć Triduum Paschalne w&nbsp;głębszym wyciszeniu
+        i&nbsp;modlitwie. Szczegóły na&nbsp;stronie internetowej
+        i&nbsp;facebooku ośrodka liturgicznego w&nbsp;Zawichoście.</p>
+        <p>8. Osoby udające się na&nbsp;pielgrzymkę do&nbsp;Portugalii
+        proszone są&nbsp;o&nbsp;wpłatę euro do&nbsp;20&nbsp;kwietnia.</p>
+        <p>9. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończyli nasi
+        parafianie: Józef Stanek, Andrzej Woś i&nbsp;Anna Gach. Polećmy ich
+        Bożemu miłosierdziu.</p>
+        <p>10. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;marca 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>

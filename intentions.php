@@ -1,34 +1,34 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            16.03 – 22.03.2026&nbsp;r.
+            23.03 – 29.03.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 16&nbsp;marca</b></td>
+            <td><b>PONIEDZIAŁEK, 23&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego
+1. + + Krystyna Przyłuckiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Krystyna Przyłuckiego<br>
-2. + Jana Gajdę<br>
-3. + Mariannę Chmiel
+1. + Zdzisława Rewerę<br>
+2. + Stefana Bieleckiego<br>
+3. + Józefa Stanka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 17&nbsp;marca</b></td>
+            <td><b>WTOREK, 24&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -41,67 +41,65 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Andrzeja Bidasa<br>
-2. + Krystyna Przyłuckiego
+1. + Roberta Mikołajczyka<br>
+2. + Stanisława Klimkiewicza<br>
+3. + Józefa Stanka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 18&nbsp;marca</b></td>
-            <td><b>Dzień powszedni</b></td>
+            <td><b>ŚRODA, 25&nbsp;marca</b></td>
+            <td><b>Uroczystość Zwiastowania Pańskiego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Bogdana Kozakiewicza<br>
-2. + Wacława Boryckiego
+1. + Jana Radzimowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Danutę Chruściel<br>
-2. + Zmarłych z&nbsp;rodziny Erkolani<br>
-3. + Seweryna Polewskiego<br>
-4. + Andrzeja Wosia
+1. + ks. Stanisława Chmielewskiego<br>
+2. + Roberta Mikołajczyka<br>
+3. + Andrzeja Wosia
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 19&nbsp;marca</b></td>
-            <td><b>Uroczystość świętego Józefa, Oblubieńca NMP</b></td>
+            <td><b>CZWARTEK, 26&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
 1. + Krystyna Przyłuckiego<br>
-2. + Alojzego Ciszkiewicza
+2. + Stanisława Muchę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
-    i&nbsp;św.&nbsp;Józefa dla ks.&nbsp;Józefa Śmigla<br>
-2. + Józefa Tenderendę<br>
-3. + Henryka i&nbsp;Józefę Marciniak<br>
-4. + Tomasza Nowaka<br>
-5. + Józefa Stanka
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Błażeja, Alana, Dawida i&nbsp;Ksawerego<br>
+2. + Jana Skorupskiego<br>
+3. + Leszka i&nbsp;Dorotę Budzińskich<br>
+4. + Kazimierza Woźniaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 20&nbsp;marca</b></td>
+            <td><b>PIĄTEK, 27&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Małgorzatę Michalską<br>
-2. + Andrzeja Aleksandrowicza
+1. + Krystyna Przyłuckiego<br>
+2. + Andrzeja (15&nbsp;rocz. śm.), Idziego i&nbsp;Józefę Dudków
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -119,65 +117,62 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Sapielaka<br>
-2. + Janinę Rędziak<br>
+1. + Jana, Józefę Ochmerak, Agnieszkę Terlecką<br>
+2. + Krystynę i&nbsp;Witolda Szwed<br>
 2. + Tomasza Nowaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 21&nbsp;marca</b></td>
+            <td><b>SOBOTA, 28&nbsp;marca</b></td>
             <td><b>Dzień powszedni</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Jadwigę (rocz. śm.) i&nbsp;Szczepana Kasprzyckich. Zmarłych
-    z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
-2. + Marka Grębowca
+1. + Janinę Rędziak<br>
+2. + Mateusza Frańczaka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Tadeusza Ziębę<br>
-2. + Krystyna Przyłuckiego<br>
+1. + Jadwigę i&nbsp;Wacława Wieczorków<br>
+2. + Mariannę, Tadeusza, Teresę, Marka Niemczyków<br>
 3. + Tomasza Nowaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 22&nbsp;marca</b></td>
+            <td><b>NIEDZIELA, 29&nbsp;marca</b></td>
             <td><b>
-                <span style="color: red">V&nbsp;niedziela Wielkiego Postu</span>
+                <span style="color: red">Niedziela Palmowa</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Janinę i&nbsp;Jana, Katarzynę, Antoniego, Anielę i&nbsp;Karola
-    z&nbsp;rodziny Kudelskich, zmarłych z&nbsp;rodziny Wieczorków
-    i&nbsp;Draganów oraz za&nbsp;wszystkich zmarłych z&nbsp;rodziny
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-W&nbsp;intencji Parafian
++ Klarę, Jana, Ryszarda Chrząstowskich, Jana Makowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Witolda Harę (2&nbsp;rocz. śm.), Zenona i&nbsp;Helenę Marów
++ Helenę, Jana, Bożenę, Ireneusza Kiliańskich, Sylwię Pawłowską
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Mariannę, Józefa i&nbsp;zmarłych z&nbsp;rodziny Liśkiewiczów
++ Małgorzatę Krawczyk (1&nbsp;rocz. śm.), Otolię i&nbsp;Czesława Ciach
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
@@ -189,9 +184,9 @@ W&nbsp;intencji Parafian
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Andrzeja Bidasa<br>
-2. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski dla Jakuba
-    i&nbsp;Natalii
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Marii
+    Hajduk w&nbsp;18&nbsp;rocz. urodzin.<br>
+2. + Mariannę Chmiel
             </td>
         </tr>
     </tbody>
