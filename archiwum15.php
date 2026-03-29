@@ -19,7 +19,276 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;marca 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 29.&nbsp;marca 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            23.03 – 29.03.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 23&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + + Krystyna Przyłuckiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława Rewerę<br>
+2. + Stefana Bieleckiego<br>
+3. + Józefa Stanka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 24&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Zofię Kuminek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Roberta Mikołajczyka<br>
+2. + Stanisława Klimkiewicza<br>
+3. + Józefa Stanka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 25&nbsp;marca</b></td>
+            <td><b>Uroczystość Zwiastowania Pańskiego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Radzimowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks. Stanisława Chmielewskiego<br>
+2. + Roberta Mikołajczyka<br>
+3. + Andrzeja Wosia
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 26&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Stanisława Muchę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Błażeja, Alana, Dawida i&nbsp;Ksawerego<br>
+2. + Jana Skorupskiego<br>
+3. + Leszka i&nbsp;Dorotę Budzińskich<br>
+4. + Kazimierza Woźniaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 27&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Andrzeja (15&nbsp;rocz. śm.), Idziego i&nbsp;Józefę Dudków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">16.00</td>
+            <td>
+<strong>DROGA KRZYŻOWA DLA DZIECI</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>DROGA KRZYŻOWA DLA DOROSŁYCH</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana, Józefę Ochmerak, Agnieszkę Terlecką<br>
+2. + Krystynę i&nbsp;Witolda Szwed<br>
+2. + Tomasza Nowaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 28&nbsp;marca</b></td>
+            <td><b>Dzień powszedni</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Rędziak<br>
+2. + Mateusza Frańczaka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jadwigę i&nbsp;Wacława Wieczorków<br>
+2. + Mariannę, Tadeusza, Teresę, Marka Niemczyków<br>
+3. + Tomasza Nowaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 29&nbsp;marca</b></td>
+            <td><b>
+                <span style="color: red">Niedziela Palmowa</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Klarę, Jana, Ryszarda Chrząstowskich, Jana Makowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Helenę, Jana, Bożenę, Ireneusza Kiliańskich, Sylwię Pawłowską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Małgorzatę Krawczyk (1&nbsp;rocz. śm.), Otolię i&nbsp;Czesława Ciach
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">17.15</td>
+            <td>
+<strong>GORZKIE ŻALE</strong>
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Marii
+    Hajduk w&nbsp;18&nbsp;rocz. urodzin.<br>
+2. + Mariannę Chmiel
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>22.&nbsp;marca 2026&nbsp;r.</h3>
+        <h3>V&nbsp;niedziela Wielkiego Postu, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Dzisiejszą niedzielą rozpoczynamy drugą część Wielkiego Postu,
+        w&nbsp;której w&nbsp;szczególny sposób koncentrujemy się na&nbsp;Męce
+        Pańskiej. Droga Krzyżowa w&nbsp;piątek o&nbsp;16.00 i&nbsp;17.15.</p>
+        <p>2. Przyszła niedziela to&nbsp;Niedziela Meki Pańskiej, czyli
+        Niedziela Palmowa. Poświęcenia palm na&nbsp;każdej Mszy Świętej.
+        Wiernych, którzy będą uczestniczyć we&nbsp;Mszy Świętej
+        o&nbsp;godz.&nbsp;11.15 zapraszamy na&nbsp;godz.&nbsp;11.00.
+        Po&nbsp;odczytaniu Ewangelii i&nbsp;poświęceniu palm przejdziemy
+        w&nbsp;procesji wokół kościoła.</p>
+        <p>3. W&nbsp;Niedzielę Palmową odbędzie się także droga krzyżowa
+        ulicami starego miasta. Początek w&nbsp;kościele świętego Michała
+        po&nbsp;koronce o&nbsp;godz.&nbsp;15.00. Zapraszamy do&nbsp;modlitwy
+        w&nbsp;intencji pokoju na&nbsp;świecie.</p>
+        <p>4. Również w&nbsp;przyszłą niedzielę w&nbsp;naszym kościele
+        od&nbsp;godz.&nbsp;13.30 do&nbsp;17.15 będzie możliwość adoracji Pana
+        Jezusa w&nbsp;Najświętszym Sakramencie. Pan Jezus będzie wystawiony
+        na&nbsp;ołtarzu w&nbsp;monstrancji fatimskiej z&nbsp;Narodowego
+        Sanktuarium na&nbsp;Krzeptówkach w&nbsp;Zakopanem. Taka sama
+        monstrancja została przekazana do&nbsp;Fatimy jako wotum narodu
+        polskiego w&nbsp;100-lecie objawień w&nbsp;Fatimie. Serdecznie
+        zapraszamy do&nbsp;modlitwy w&nbsp;intencji parafii oraz pokoju
+        na&nbsp;świcie szczególnie tych, którzy nie będą mogli uczestniczyć
+        w&nbsp;drodze krzyżowej ulicami miasta. Zakończenie adoracji
+        o&nbsp;17.15 ostatnim w&nbsp;tym roku nabożeństwem Gorzkich Żali.</p>
+        <p>5. W&nbsp;środę 25&nbsp;marca obchodzimy uroczystość Zwiastowania
+        Pańskiego. Jest to&nbsp;dzień świętości życia. Zachęcamy
+        do&nbsp;rozpoczęcia tego dnia duchowej adopcji dziecka poczętego.
+        Przyjęcie deklaracji o&nbsp;Duchowej Adopcji Dziecka Poczętego,
+        będzie miało miejsce na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;18.00.
+        <em>Duchowa Adopcja Dziecka Poczętego, to&nbsp;zobowiązanie
+        do&nbsp;codziennego odmawiania jednej dziesiątki różańca&nbsp;św. oraz
+        specjalnej krótkiej modlitwy przez dziewięć miesięcy w&nbsp;intencji
+        poczętego dziecka, by&nbsp;przyjęte z&nbsp;miłością mogło urodzić się
+        w&nbsp;kochającej rodzinie.</em> Przyrzeczenia duchowej adopcji można
+        zabrać ze&nbsp;stolika pod chórem.</p>
+        <p>6. Także 25&nbsp;marca na&nbsp;naszą parafię przypada dzień
+        modlitwy w&nbsp;intencji powołań kapłańskich. Zapraszamy
+        do&nbsp;modlitwy różańcowej na&nbsp;godz.&nbsp;17.30. Zachęcamy też,
+        aby tego dnia modlić się także indywidualnie w&nbsp;intencji
+        powołań.</p>
+        <p>7. Spowiedź przedświąteczna w&nbsp;najbliższą sobotę
+        od&nbsp;godz.&nbsp;10.00 do&nbsp;11.30 i&nbsp;po&nbsp;południu
+        od&nbsp;16.00 do&nbsp;18.00. Bardzo zachęcamy, aby skorzystać
+        ze&nbsp;spowiedzi w&nbsp;sobotę. Gdyby ktoś nie mógł w&nbsp;tym
+        czasie, to&nbsp;w&nbsp;gablocie wywieszony jest grafik spowiedzi
+        przedświątecznych w&nbsp;dekanacie.</p>
+        <p>8. Także w&nbsp;najbliższą sobotę wieczór uwielbienia. Początek
+        o&nbsp;godz.&nbsp;18.00.</p>
+        <p>9. Chorych z&nbsp;posługą sakramentalną odwiedzimy w&nbsp;Wielki
+        Poniedziałek 30&nbsp;marca. Początek o&nbsp;godz.&nbsp;8.00. Zapisy
+        chorych w&nbsp;zakrystii.</p>
+        <p>10. Na&nbsp;stoliku pod chórem wystawione są&nbsp;baranki
+        wielkanocne w&nbsp;cenie 8&nbsp;zł. Dochód ze&nbsp;sprzedaży
+        przeznaczony jest na&nbsp;Caritas.</p>
+        <p>11. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 22.&nbsp;marca 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
