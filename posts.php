@@ -33,80 +33,46 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>29.&nbsp;marca 2026&nbsp;r.</h3>
-        <h3>Niedziela Palmowa</h3>
+        <h3>5.&nbsp;kwietnia 2026&nbsp;r.</h3>
+        <h3>Niedziela Zmartwychwstania Pańskiego</h3>
     </div>
     <div class="col">
-        <p>1. Dzisiaj rozpoczęliśmy Wielki Tydzień. Poprzez obrzędy
-        liturgiczne tego tygodnia chcemy towarzyszyć Chrystusowi w&nbsp;Jego
-        męce, śmierci i&nbsp;zmartwychwstaniu.</p>
-        <p>2. Zapraszamy dzisiaj na&nbsp;Drogę Krzyżową ulicami starego
-        miasta. Początek o&nbsp;godz.&nbsp;15.00 w&nbsp;kościele
-        św.&nbsp;Michała. Zakończenie w&nbsp;katedrze.</p>
-        <p>3. Jeśli ktoś nie może uczestniczyć w&nbsp;tej drodze krzyżowej,
-        zaproszony jest do&nbsp;modlitwy adoracji w&nbsp;naszym kościele. Pan
-        Jezus będzie wystawiony na&nbsp;ołtarzu po&nbsp;Mszy&nbsp;Św.
-        o&nbsp;godz.&nbsp;12.30 do&nbsp;godz.&nbsp;17.15. Następnie Gorzkie
-        Żale z&nbsp;nauką pasyjną i&nbsp;błogosławieństwem. Monstrancję
-        fatimską z&nbsp;narodowego sanktuarium na&nbsp;Krzeptówkach,
-        w&nbsp;której będziemy dziś adorować Pana Jezusa, można obejrzeć
-        w&nbsp;bocznej kaplicy naszego kościoła.</p>
-        <p>4. W&nbsp;poniedziałek, wtorek i&nbsp;środę nie będzie adoracji,
-        ze&nbsp;względu na&nbsp;przygotowanie kościoła do&nbsp;świąt.
-        Tą&nbsp;dzisiejszą adoracją zakończymy adorację wielkopostną. Bardzo
-        chciałbym podziękować, za&nbsp;to, że&nbsp;przez czas Wielkiego Postu
-        wielu z&nbsp;Was przychodziło na&nbsp;choćby krótkie chwile modlitwy.
-        Dziękuję, szczególnie tym osobom, które przychodziły
-        na&nbsp;zaplanowane wcześniej godziny adoracji. Dzięki temu, było
-        naprawdę niewiele takich chwil, gdy nie byłoby nikogo przed
-        Najświętszym Sakramentem. Jednej rodzinie dziękuję za&nbsp;zakup
-        kwiatów do&nbsp;kaplicy adoracji. Spróbujemy adorację kontynuować
-        w&nbsp;okresie zmartwychwstania.</p>
-        <p>5. Triduum Paschalne to&nbsp;najważniejsze dni w&nbsp;roku
-        liturgicznym.</p>
-        <p><strong>Wielki Czwartek</strong>: Nie ma&nbsp;Mszy Świętej
-        porannej. Msza Święta Wieczerzy Pańskiej o&nbsp;godz.&nbsp;18.00.</p>
-        <p><strong>Wielki Piątek</strong>: Droga Krzyżowa o&nbsp;17.15,
-        liturgia Męki Pańskiej o&nbsp;godz.&nbsp;18.00.</p>
-        <p><strong>Wielka Sobota</strong>: to&nbsp;dzień ciszy i&nbsp;czuwania
-        przy grobie Chrystusa. Kościół nie sprawuje tego dnia Mszy Świętej,
-        ani innych nabożeństw. Poświęcenie pokarmów od&nbsp;9.00 do&nbsp;12.00
-        co&nbsp;20&nbsp;minut.</p>
-        <p><strong>Msza Wigilii Paschalnej w&nbsp;sobotni wieczór
-        o&nbsp;godz.&nbsp;19.00.</strong> Ta&nbsp;Msza Święta należy już
-        do&nbsp;Niedzieli Zmartwychwstania. To&nbsp;najważniejsza
-        i&nbsp;najbardziej rozbudowana Eucharystia w&nbsp;ciągu roku.
-        W&nbsp;niej w&nbsp;sakramentalnych znakach w&nbsp;najbardziej
-        uroczysty sposób czcimy Chrystusowe zmartwychwstanie.</p>
-        <p>6. Adoracje Pana Jezusa. W&nbsp;Wielki Czwartek w&nbsp;ciemnicy:
-        po&nbsp;zakończeniu liturgii, do&nbsp;godz.&nbsp;22.00. W&nbsp;Wielki
-        Piątek od&nbsp;8.00 do&nbsp;17.15. Następnie po&nbsp;liturgii adoracja
-        w&nbsp;grobie do&nbsp;22.00. W&nbsp;Wielką Sobotę od&nbsp;8.00
-        do&nbsp;19.00.</p>
-        <p>7. Msza Święta z&nbsp;procesją rezurekcyjną w&nbsp;niedzielę
-        o&nbsp;godz.&nbsp;6.00.</p>
-        <p>8. Zapraszamy wszystkich ministrantów na&nbsp;zbiórki przed
-        liturgiami Triduum Paschalnego w&nbsp;czwartek, piątek i&nbsp;sobotę
-        o&nbsp;godz.&nbsp;12.30.</p>
-        <p>9. Ministranci z&nbsp;księdzem Wojciechem przygotowali buteleczki
-        z&nbsp;wodą, która będzie poświęcona podczas Wigilii Paschalnej.
-        Po&nbsp;liturgii będzie je&nbsp;można zabrać do&nbsp;domu,
-        a&nbsp;ewentualne ofiary przeznaczone będą na&nbsp;wsparcie
-        i&nbsp;rozwój drużyny LSO Sandomierz.</p>
-        <p>10. Jutro od&nbsp;godziny 8.00 będziemy odwiedzać chorych
-        w&nbsp;domach z&nbsp;posługą sakramentalną. Chorych można jeszcze
-        zapisać w&nbsp;zakrystii.</p>
-        <p>11. Dziękujemy bardzo wszystkim, którzy już skorzystali
-        z&nbsp;sakramentu pokuty. Jeśli ktoś chciałby przystąpić
-        do&nbsp;spowiedzi to&nbsp;będziemy do&nbsp;dyspozycji
-        w&nbsp;poniedziałek, wtorek i&nbsp;środę o&nbsp;godz.&nbsp;17.30. Nie
-        planujemy godzin spowiedzi w&nbsp;Triduum Paschalne.</p>
-        <p>12. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
-        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
-        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
-        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>1. Dziś wieczorem kończymy Święte Triduum Paschalne. Chciałbym
+        bardzo podziękować najpierw Wam, drodzy Parafianie i&nbsp;mili Goście
+        za&nbsp;liczną obecność na&nbsp;liturgiach w&nbsp;te&nbsp;najważniejsze
+        dla nas dni. Ta&nbsp;wspólna modlitwa daje nam głębokie poczucie
+        jedności z&nbsp;Chrystusem, który umarł i&nbsp;zmartwychwstał, ale
+        także poczucie naszej wspólnoty parafialnej.</p>
+        <p>2. Szczególnie chciałbym podziękować tym, którzy w&nbsp;jakikolwiek
+        sposób pomogli ten czas zorganizować. Księdzu Biskupowi Edwardowi
+        za&nbsp;obecność wśród nas na&nbsp;Wigilii Paschalnej,
+        za&nbsp;wygłoszone słowo i&nbsp;za&nbsp;ogromną życzliwość. Księżom
+        wikariuszom: Krystianowi za&nbsp;słowo w&nbsp;tych dniach głoszone,
+        Wojciechowi za&nbsp;czuwanie nad służbą liturgiczną. Wszystkim, którzy
+        pomogli przygotować dekoracje, przywieźli kamień do&nbsp;grobu,
+        posprzątali kościół, którzy pomogli na&nbsp;plebanii. Nie wymieniam
+        imiennie ze&nbsp;względu na&nbsp;to, żeby nikogo nie pominąć.</p>
+        <p>3. Dziękuję za&nbsp;ofiary na&nbsp;kwiaty: zarówno różom różańcowym,
+        jak i&nbsp;osobom indywidualnym. W&nbsp;tym roku dekoracja kwiatowa
+        przynajmniej w&nbsp;grobie jest dość minimalistyczna, więc pozostałą
+        część z&nbsp;ofiar, które złożyliście przeznaczę na&nbsp;to, żeby
+        w&nbsp;kaplicy adoracji pojawiały się regularnie świeże kwiaty.</p>
+        <p>4. Przypominamy, w&nbsp;Poniedziałek Wielkanocny Msze Święte
+        odprawiamy według porządku niedzielnego. Nie będzie Mszy Świętej
+        o&nbsp;godz.&nbsp;18.00.</p>
+        <p>5. Na&nbsp;koniec chciałbym złożyć Wam Drodzy Parafianie
+        i&nbsp;Mili Goście serdeczne życzenia. Niech to&nbsp;spotkanie
+        z&nbsp;Chrystusem Zmartwychwstałym, którego doświadczyliśmy
+        w&nbsp;liturgii Kościoła, będzie miało wpływ na&nbsp;całe Wasze życie.
+        Bo&nbsp;dopiero życie przeżywane w&nbsp;perspektywie zmartwychwstania
+        jest życiem pełnym nadziei, spełnionym i&nbsp;radosnym. Niech światło
+        Zmartwychwstałego oświetla każdy trud i&nbsp;powiększa radość. Niech
+        nadzieja nieba pomaga dobrze wykorzystywać czas jaki mamy
+        w&nbsp;doczesności. Błogosławionego, spokojnego czasu w&nbsp;gronie
+        rodziny i&nbsp;przyjaciół oraz odpoczynku, który pomoże nabrać sił
+        do&nbsp;dalszych życiowych zmagań. Szczęść Boże!</p>
         <p>
-            <span style="float: left;">Sandomierz, 29.&nbsp;marca 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 5.&nbsp;kwietnia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
         </p>
     </div>
