@@ -125,7 +125,7 @@
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.00</td>
+            <td class="center">7.30</td>
             <td>
 + Stanisława Sapielaka
             </td>
