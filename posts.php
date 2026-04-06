@@ -1,5 +1,55 @@
 <div class="card">
     <div class="card-header">
+        <h3>6.&nbsp;kwietnia 2026&nbsp;r.</h3>
+        <h3>Poniedziałek Wielkanocny</h3>
+    </div>
+    <div class="col">
+        <p>1. Wczoraj rozpoczęliśmy Okres Wielkanocny. 50&nbsp;dni
+        aż&nbsp;do&nbsp;Uroczystości Zesłania Ducha Świętego to&nbsp;czas
+        radości z&nbsp;faktu Zmartwychwstania Pana. Czas, który ma&nbsp;nam
+        jeszcze mocniej uświadomić, że&nbsp;jako ochrzczeni jesteśmy już
+        zjednoczeni z&nbsp;Chrystusem, który zmartwychwstał i&nbsp;dlatego
+        głęboko wierzymy, że&nbsp;i&nbsp;my&nbsp;zmartwychwstaniemy.
+        Szczególnie ta&nbsp;radość wybrzmiewa w&nbsp;oktawie Zmartwychwstania.
+        Dni do&nbsp;niedzieli miłosierdzia traktowane są&nbsp;jako jeden
+        uroczysty dzień Zmartwychwstania. W&nbsp;związku z&nbsp;tym
+        w&nbsp;najbliższy piątek nie obowiązuje wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych.</p>
+        <p>2. Przyszła <strong>niedziela 12&nbsp;kwietnia</strong>, to&nbsp;Niedziela
+        Miłosierdzia Bożego. W&nbsp;naszej diecezji, Mszą Świętą
+        o&nbsp;godz.&nbsp;12.00 w&nbsp;sanktuarium Miłosierdzia Bożego
+        w&nbsp;Ostrowcu Świętokrzyskim, rozpoczyna się peregrynacja obrazu
+        Jezusa Miłosiernego. Jest organizowany wyjazd busem z&nbsp;dekanatu
+        na&nbsp;tę&nbsp;uroczystość. Jeśli ktoś chciałby się wybrać, proszony
+        jest o&nbsp;kontakt z&nbsp;księdzem Proboszczem.</p>
+        <p>3. Kandydatów przyjmujących w&nbsp;tym roku sakrament bierzmowania
+        zapraszamy wraz z&nbsp;Rodzicami na&nbsp;obowiązkowe spotkanie
+        liturgiczne. Rozpoczęcie <strong>w&nbsp;środę 8&nbsp;kwietnia</strong>
+        o&nbsp;godz.&nbsp;18.30. W&nbsp;czwartek i&nbsp;piątek
+        po&nbsp;Mszy&nbsp;Św. wieczornej egzamin dla bierzmowanych.</p>
+        <p>4. W&nbsp;najbliższą <strong>sobotę 11&nbsp;kwietnia</strong> kandydaci
+        do&nbsp;bierzmowania w&nbsp;tym roku będą mieli dzień skupienia
+        w&nbsp;Zawichoście. Szczegóły przekaże ksiądz Wojciech
+        na&nbsp;spotkaniu w&nbsp;środę.</p>
+        <p>5. W&nbsp;<strong>niedzielę 12&nbsp;kwietnia</strong> zapraszamy ministrantów
+        i&nbsp;ich Rodziców na&nbsp;spotkanie wielkanocne. Rozpoczęcie
+        spotkania Mszą Świętą o&nbsp;godzinie 12.30, a&nbsp;następnie obiad
+        w&nbsp;budynku parafialnym.</p>
+        <p>6. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończył nasz
+        parafianin Janusz Pawelec. Polećmy Go&nbsp;Bożemu miłosierdziu.</p>
+        <p>7. Wszystkim naszym Parafianom i&nbsp;Gościom życzymy nadal
+        spokojnego, i&nbsp;radosnego czasu świętowania zmartwychwstania
+        Naszego Pana.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 6.&nbsp;kwietnia 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3 style="text-decoration: underline;">Plan nabożeństw
         w&nbsp;Triduum Paschalne i&nbsp;Poniedziałek Wielkanocny</h3>
     </div>
