@@ -19,7 +19,251 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 12.&nbsp;kwietnia 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;kwietnia 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            13.04 – 19.04.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 13&nbsp;kwietnia</b></td>
+            <td><b>Poniedziałek 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Marię, Władysława, Czesława Barańskich, Władysławę i&nbsp;Andrzeja
+    Krawczyków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Adama Sochę<br>
+2. + Krystynę Wziątek, zmarłych z&nbsp;rodziny Chorabów, Andrzeja
+    i&nbsp;Wiesława Wączyńskich<br>
+3. + Władysławę Bulirę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 14&nbsp;kwietnia</b></td>
+            <td><b>Wtorek 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Tadeusza i&nbsp;Krystynę Karasińskich<br>
+2. + Roberta Mikołajczyka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;wyzwolenie z&nbsp;lęku dla pogrążonych w&nbsp;nałogach
+    i&nbsp;ich rodzin<br>
+2. + Janusza Kuźdub, Władysławę Nowak
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 15&nbsp;kwietnia</b></td>
+            <td><b>Środa 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
+    Patryka w&nbsp;18&nbsp;rocz. urodzin<br>
+2. + Bogdana Kozakiewicza<br>
+3. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Andrzeja Bidasa<br>
+2. + Helenę (26&nbsp;rocz. śm.) i&nbsp;Stanisława Bodułów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 16&nbsp;kwietnia</b></td>
+            <td><b>Czwartek 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Alfonsa Kiliańskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
+    Oliwi Korzep<br>
+2. Mariannę (rocz.), Jerzego, Janinę, Mariana Polaków<br>
+3. + Andrzeja Wosia
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 17&nbsp;kwietnia</b></td>
+            <td><b>Piątek 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mateusza Frańczaka<br>
+2. + Zofię Kuminek
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisława Muchę<br>
+2. + Krystynę Kuśmirę<br>
+3. + Andrzeja Kurka i&nbsp;dusze w&nbsp;czyśćcu cierpiące
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 18&nbsp;kwietnia</b></td>
+            <td><b>Sobota 2&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Wacława Boryckiego<br>
+2. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">15.00</td>
+            <td>
+Msza święta ślubna
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
+2. O&nbsp;światło Ducha Świętego na&nbsp;czas egzaminów maturalnych
+    dla Mai Rogowskiej
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 19&nbsp;kwietnia</b></td>
+            <td><b>
+                <span style="color: red">III&nbsp;niedziela wielkanocna</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Andrzeja Bidasa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
+    rodziny Sapielaków, i&nbsp;Garów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, opiekę Matki Najświętszej
+    i&nbsp;wszelkie potrzebne łaski dla rodzin z&nbsp;Domowego Kościoła
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Ireneusza Cichosza i&nbsp;Wojciecha Kaczmarka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę, Tadeusza Musiałów, Helenę i&nbsp;Józefa Prychocen,
+    zmarłych z&nbsp;rodeziny Musiałów i&nbsp;Prychocenów<br>
+2. W&nbsp;intencji Parafian
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>12.&nbsp;kwietnia 2026&nbsp;r.</h3>
+        <h3>II niedziela wielkanocna</h3>
+    </div>
+    <div class="col">
+        <p>1. Dzisiaj, w&nbsp;Niedzielę Miłosierdzia, rozpoczyna się
+        peregrynacja obrazu Jezusa Miłosiernego w&nbsp;naszej diecezji. Obraz
+        Jezusa Miłosiernego przez najbliższy rok nawiedzi wszystkie parafie
+        diecezji. Dzień nawiedzenia w&nbsp;naszej wspólnocie wypada
+        7&nbsp;marca 2027 roku.</p>
+        <p>2. W&nbsp;związku z&nbsp;tym Penitencjaria apostolska udzieliła
+        specjalnego odpustu na&nbsp;cały rok nawiedzenia.</p>
+        <p>3. Jako głosiciele miłosierdzia, przygotowujący peregrynację
+        w&nbsp;parafiach w&nbsp;diecezji, zostali wyznaczeni między innymi
+        ksiądz Proboszcz oraz Ksiądz Krystian – nasz Wikariusz. Prosimy
+        o&nbsp;modlitewne wsparcie ich posługi w&nbsp;najbliższym roku
+        i&nbsp;wyrozumiałość, że&nbsp;będzie ich nieco trudniej spotkać
+        na&nbsp;Mszach wieczornych w&nbsp;ciągu tygodnia
+        i&nbsp;w&nbsp;niektóre niedziele.</p>
+        <p>4. Kandydatów przyjmujących w&nbsp;tym roku sakrament bierzmowania
+        zapraszamy na&nbsp;próbę liturgiczną w&nbsp;najbliższą <strong>środę
+        15&nbsp;kwietnia</strong>, o&nbsp;godz.&nbsp;18.30.</p>
+        <p>5. W&nbsp;<strong>piątek 17&nbsp;kwietnia</strong> zapraszam
+        serdecznie rodziców dzieci pierwszokomunijnych na&nbsp;ostatnią
+        katechezę przed pierwszą komunią. Katecheza będzie dotyczyć sakramentu
+        małżeństwa, dlatego, w&nbsp;miarę możliwości zapraszam oboje rodziców
+        każdego z&nbsp;dzieci.</p>
+        <p>6. W&nbsp;<strong>sobotę 18&nbsp;kwietnia</strong> spotkanie dzieci
+        pierwszokomunijnych. Rozpoczęcie w&nbsp;kościele
+        o&nbsp;godz.&nbsp;9.00. Zakończenie około godz.&nbsp;10.00.</p>
+        <p>7. Zapraszamy na&nbsp;adorację Najświętszego Sakramentu w&nbsp;dni
+        powszednie od&nbsp;7.00 do&nbsp;18.00. W&nbsp;tym tygodniu nie będzie
+        adoracji w&nbsp;poniedziałek, ze&nbsp;względu na&nbsp;konieczność
+        uporządkowania kościoła po&nbsp;świętach.</p>
+        <p>8. Przypominamy, że&nbsp;do&nbsp;20&nbsp;kwietnia należy uregulować
+        wpłatę na&nbsp;pielgrzymkę do&nbsp;Portugalii.</p>
+        <p>9. Społeczność Katolickiego Liceum Ogólnokształcącego zaprasza
+        na&nbsp;Dzień Otwarty, który odbędzie się 14&nbsp;kwietnia
+        w&nbsp;godz.&nbsp;9.00-13.00.</p>
+        <p>10. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończyła
+        Małgorzata Juda. Polećmy ją&nbsp;Bożemu miłosierdziu.</p>
+        <p>11. Wszystkim Parafianom i&nbsp;Gościom życzymy trwania
+        w&nbsp;radości ze&nbsp;zmartwychwstania Chrystusa i&nbsp;coraz
+        głębszego doświadczenia Bożego Miłosierdzia.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 12.&nbsp;kwietnia 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks. proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>

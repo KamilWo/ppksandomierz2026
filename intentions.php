@@ -1,186 +1,189 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            13.04 – 19.04.2026&nbsp;r.
+            20.04 – 26.04.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 13&nbsp;kwietnia</b></td>
-            <td><b>Poniedziałek 2&nbsp;tygodnia wielkanocnego</b></td>
+            <td><b>PONIEDZIAŁEK, 20&nbsp;kwietnia</b></td>
+            <td><b>Poniedziałek 3&nbsp;tygodnia wielkanocnego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Krystyna Przyłuckiego<br>
-2. + Marię, Władysława, Czesława Barańskich, Władysławę i&nbsp;Andrzeja
-    Krawczyków
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Adama Sochę<br>
-2. + Krystynę Wziątek, zmarłych z&nbsp;rodziny Chorabów, Andrzeja
-    i&nbsp;Wiesława Wączyńskich<br>
-3. + Władysławę Bulirę
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 14&nbsp;kwietnia</b></td>
-            <td><b>Wtorek 2&nbsp;tygodnia wielkanocnego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Tadeusza i&nbsp;Krystynę Karasińskich<br>
-2. + Roberta Mikołajczyka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;wyzwolenie z&nbsp;lęku dla pogrążonych w&nbsp;nałogach
-    i&nbsp;ich rodzin<br>
-2. + Janusza Kuźdub, Władysławę Nowak
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 15&nbsp;kwietnia</b></td>
-            <td><b>Środa 2&nbsp;tygodnia wielkanocnego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
-    Patryka w&nbsp;18&nbsp;rocz. urodzin<br>
-2. + Bogdana Kozakiewicza<br>
-3. + Alojzego Ciszkiewicza
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Andrzeja Bidasa<br>
-2. + Helenę (26&nbsp;rocz. śm.) i&nbsp;Stanisława Bodułów
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 16&nbsp;kwietnia</b></td>
-            <td><b>Czwartek 2&nbsp;tygodnia wielkanocnego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Jana Gajdę<br>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
 2. + Alfonsa Kiliańskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
-    Oliwi Korzep<br>
-2. Mariannę (rocz.), Jerzego, Janinę, Mariana Polaków<br>
-3. + Andrzeja Wosia
+1. + Kazimierę Kiljańską (10&nbsp;rocz. śm.)<br>
+2. + Stanisławę, Wiesława, Krzysztofa Zwolskich<br>
+3. + Gustawa Kaniosa<br>
+4. + Andrzeja Wosia
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 17&nbsp;kwietnia</b></td>
-            <td><b>Piątek 2&nbsp;tygodnia wielkanocnego</b></td>
+            <td><b>WTOREK, 21&nbsp;kwietnia</b></td>
+            <td><b>Wtorek 3&nbsp;tygodnia wielkanocnego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mateusza Frańczaka<br>
-2. + Zofię Kuminek
+1. + Piotra Wnuka<br>
+2. + Elżbietę (20&nbsp;rocz. śm.) i&nbsp;Sebastiana (29&nbsp;rocz.
+    śm.) Stefanek
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Muchę<br>
-2. + Krystynę Kuśmirę<br>
-3. + Andrzeja Kurka i&nbsp;dusze w&nbsp;czyśćcu cierpiące
+<strong>Msza Święta z&nbsp;udzieleniem sakramentu bierzmowania</strong><br>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Jana Gajdę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 18&nbsp;kwietnia</b></td>
-            <td><b>Sobota 2&nbsp;tygodnia wielkanocnego</b></td>
+            <td><b>ŚRODA, 22&nbsp;kwietnia</b></td>
+            <td><b>Środa 3&nbsp;tygodnia wielkanocnego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Wacława Boryckiego<br>
-2. + Alojzego Ciszkiewicza
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">15.00</td>
-            <td>
-Msza święta ślubna
+1. + Zofię Skorupską<br>
+2. + Mieczysława Frydla<br>
+3. O&nbsp;szczęśliwy przebieg operacji
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariannę i&nbsp;Eugeniusza Jedlińskich<br>
-2. O&nbsp;światło Ducha Świętego na&nbsp;czas egzaminów maturalnych
-    dla Mai Rogowskiej
+1. + Andrzeja Bidasa<br>
+2. + Roberta Mikołajczyka<br>
+3. O&nbsp;udaną operację dla Barbary
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 19&nbsp;kwietnia</b></td>
+            <td><b>CZWARTEK, 23&nbsp;kwietnia</b></td>
+            <td><b>Uroczystość św.&nbsp;Wojciecha, głównego patrona Polski</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
+    i&nbsp;świętego Patrona dla księdza Wojciecha.<br>
+2. + Teodorę i&nbsp;Stanisława Judów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
+    i&nbsp;świętego Patrona dla księdza Wojciecha<br>
+2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Małżonków w&nbsp;rocznicę zawarcia małżeństwa<br>
+3. + Tadeusza Iwańskiego (17&nbsp;rocz. śm.)<br>
+4. + Andrzeja Wosia<br>
+5. + Zofię i&nbsp;Stefana Kędzierskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 24&nbsp;kwietnia</b></td>
+            <td><b>Piątek 3&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Anastazję, Wacaława, Walentego Bogusława Siudów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Jana Kędzierskiego (2 rocz. śm.)<br>
+3. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Sary <strong>(Poza Parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 25&nbsp;kwietnia</b></td>
+            <td><b>Święto św.&nbsp;Marka Ewangelisty</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Reginę i&nbsp;Kazimierza Kaniów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Marysi i&nbsp;Klary w&nbsp;1&nbsp;rocznicę urodzin<br>
+2. + Jana Gajdę<br>
+3. + Wojciecha Łukawskiego<br>
+4. Za&nbsp;dusze zmarłych z&nbsp;rodziny Danuty i&nbsp;Ryszarda
+    <strong>(Poza Parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 26&nbsp;kwietnia</b></td>
             <td><b>
-                <span style="color: red">III&nbsp;niedziela wielkanocna</span>
+                <span style="color: red">IV&nbsp;niedziela wielkanocna</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Andrzeja Bidasa
+1. + Antoninę i&nbsp;Władysława Materkowskich,
+    i&nbsp;zm.&nbsp;z&nbsp;rodziny<br>
+2. + ks.&nbsp;Jana Rejczaka <strong>(Poza Parafią)</strong>
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-O&nbsp;Boże błogosławieństwo, opiekę NMP, i&nbsp;potrzebne łaski dla
-    rodziny Sapielaków, i&nbsp;Garów
+Sabinę, Jana, Eugeniusza, Stanisława Kaczorów, Zenobię i&nbsp;Jana
+    Kaczmarzyków
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-O&nbsp;Boże błogosławieństwo, opiekę Matki Najświętszej
-    i&nbsp;wszelkie potrzebne łaski dla rodzin z&nbsp;Domowego Kościoła
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Barbary i&nbsp;Wacława
+    w&nbsp;50&nbsp;rocznicę zawarcia małżeństwa
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Ireneusza Cichosza i&nbsp;Wojciecha Kaczmarka
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariannę, Tadeusza Musiałów, Helenę i&nbsp;Józefa Prychocen,
-    zmarłych z&nbsp;rodeziny Musiałów i&nbsp;Prychocenów<br>
-2. W&nbsp;intencji Parafian
+1. + Mariannę i&nbsp;Jana Plachów<br>
+2. + Helenę Gajewską
             </td>
         </tr>
     </tbody>
