@@ -19,7 +19,222 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 3.&nbsp;maja 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 10.&nbsp;maja 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            4.05 – 10.04.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 4&nbsp;maja</b></td>
+            <td><b>Poniedziałek 5&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Moniki
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 5&nbsp;maja</b></td>
+            <td><b>Wtorek 5&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. Krzysztofa, Barbarę, Henryka i&nbsp;Małgorzatę Zawidzkich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 6&nbsp;maja</b></td>
+            <td><b>Święto świętych Apostołów Filipa i&nbsp;Jakuba</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana, Józefę Mirosław<br>
+2. + Mieczysława Frydla
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisława, Leokadię Mjacher, Stanisława, Jadwigę Karasińskich,
+    Zuzannę Kędzierską, Zofię Woźniak<br>
+2. + Marka Grębowca
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 7&nbsp;maja</b></td>
+            <td><b>Czwartek 5&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;świętość kapłanów i&nbsp;nowe powołana kapłańskie<br>
+2. + Zofię Skorupską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Chmurę (5&nbsp;rocz. śm.)<br>
+2. + Stanisławę i&nbsp;Stanisława Bokwów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 8&nbsp;maja</b></td>
+            <td><b>Uroczystość św.&nbsp;Stanisława Biskupa
+                i&nbsp;Męczennika, Głównego Patrona Polski
+                i&nbsp;Diecezji</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Stanisławy i&nbsp;Stanisława Niezgodów<br>
+2. + Mariana Cąbrowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisławę i&nbsp;Stanisława Statuchów<br>
+2. + Stanisława Kabzę, Mariannę i&nbsp;Bronisława Wójcików
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 9&nbsp;maja</b></td>
+            <td><b>Sobota 5&nbsp;tygodnia wielkanocnego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Salomeę, Weronikę i&nbsp;Rafała Pawelców<br>
+2. + Mariana Cąbrowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">15.15</td>
+            <td>
+Msza Święta ślubna
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Stanisława, Zofię, Stanisława i&nbsp;zmarłych z&nbsp;ich rodziny<br>
+2. + Genowefę i&nbsp;Stanisława Rusaków, Krystynę i&nbsp;Stanisława
+    Pietrzykowskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 10&nbsp;maja</b></td>
+            <td><b>
+                <span style="color: red">VI&nbsp;niedziela wielkanocna</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+1. + Stanisława Pliżgę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+O&nbsp;łaskę doświadczenia Bożej miłości dla ojca Tadeusza i&nbsp;męża
+    Piotra
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Stefana, Eugenię, Marię, Teresę Koronów, Stanisława Sapielaka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Józefa Stanka<br>
+2. + Lucjana Sałka
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>3.&nbsp;maja 2026&nbsp;r.</h3>
+        <h3>V&nbsp;Niedziela Wielkanocna</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;miesiącu maju, w&nbsp;sposób szczególny oddajemy cześć
+        Maryi poprzez śpiew litanii loretańskiej. Zapraszamy
+        na&nbsp;nabożeństwa majowe do&nbsp;kościoła codziennie
+        na&nbsp;godz.&nbsp;17.30. Zachęcamy także do&nbsp;kultywowania śpiewu
+        litanii przy kapliczkach.</p>
+        <p>2. W&nbsp;piątek 8&nbsp;maja obchodzimy Uroczystość świętego
+        Stanisława, głównego patrona Polski i&nbsp;Diecezji Sandomierskiej.
+        W&nbsp;związku z&nbsp;uroczystością, nie obowiązuje piątkowa
+        wstrzemięźliwość od&nbsp;pokarmów mięsnych.</p>
+        <p>3. W&nbsp;sobotę 9&nbsp;maja zapraszamy na&nbsp;spotkanie dzieci
+        pierwszokomunijne i&nbsp;ich rodziców. Początek
+        o&nbsp;godz.&nbsp;9.00.</p>
+        <p>4. W&nbsp;ostatnim tygodniu swoją ziemską pielgrzymkę zakończył
+        nasz parafianin Jerzy Jakubczyk. Polećmy go&nbsp;Bożemu
+        miłosierdziu.</p>
+        <p>5. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Wszystkim Parafianom i&nbsp;Gościom
+        życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 3.&nbsp;maja 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
