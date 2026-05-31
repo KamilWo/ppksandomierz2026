@@ -1,180 +1,197 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            25.05 – 31.05.2026&nbsp;r.
+            1.06 – 7.06.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 25&nbsp;maja</b></td>
-            <td><b>Święto NMP Matki Kościoła</b></td>
+            <td><b>PONIEDZIAŁEK, 1&nbsp;czerwca</b></td>
+            <td><b>Poniedziałek 9&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>
-1. + Mariana Biało (2&nbsp;rocz. śm.)<br>
-2. + Kazimierza Woźniaka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Stefanię i&nbsp;Ludwika Karoniów<br>
-2. + ks.&nbsp;Stanisława Chmielewskiego<br>
-3. + Andrzeja Wosia
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 26&nbsp;maja</b></td>
-            <td><b>Wspomnienie św. Filipa Neri, Dzień Matki</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    księdza Damiana w&nbsp;rocznicę święceń<br>
-2. + Mateusza Frańczaka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
             <td>
 1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Mariannę, Stefana, Krzysztofa Kwietniów i&nbsp;zmarłych
-    z&nbsp;rodzin Kwietniów, Zybałów, Wiśniewskich i&nbsp;Misiudów
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 27&nbsp;maja</b></td>
-            <td><b>Środa 8&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Albinę Borkowską<br>
-2. + Mariana Cąbrowskiego
+2. + Jerzego Jakubczyka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Judę (2&nbsp;rocz. śm.)<br>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Kingi
+    z&nbsp;okazji 18&nbsp;rocznicy urodzin<br>
+2. + Barbarę Chorab<br>
+3. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 2&nbsp;czerwca</b></td>
+            <td><b>Wtorek 9&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
 2. + Marka Grębowca
             </td>
         </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mateusza Frańczaka<br>
+2. + Alojzego Ciszkiewicza<br>
+3. + Karola Malca<br>
+4. + Krystynę Myl
+            </td>
+        </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 28&nbsp;maja</b></td>
-            <td><b>Święto Jezusa Chrystusa Najwyższego i&nbsp;Wiecznego
-            Kapłana</b></td>
+            <td><b>ŚRODA, 3&nbsp;czerwca</b></td>
+            <td><b>Środa 9&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Jana Gajdę<br>
-2. + Marka Ziębę
+1. O&nbsp;świetość kapłanów i&nbsp;o&nbsp;nowe powołania<br>
+2. + Ludwikę Szczębara, zmarłych z&nbsp;rodzin Szczębarów
+    i&nbsp;Królów oraz dusze w&nbsp;czyśćcu cierpiące
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Agnieszkę Pietrusińską (3&nbsp;rocz. śm.)<br>
-2. + Stanisława i Elżbietę Komorowskich
+1. + Wiesława Napieracza, Halinę i&nbsp;Wacława Bryłów<br>
+2. + Andrzeja Aleksandrowicza<br>
+2. + Karola Malca
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 29&nbsp;maja</b></td>
-            <td><b>Wspomnienie św.&nbsp;Urszuli Ledóchowskiej</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Teodozję i&nbsp;Zdzisława Dudków, Stanisławę i&nbsp;Mariana
-    Mądrych, zmarłych z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
-    cierpiące<br>
-2. + Kazimierza Woźniaka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Ryszarda Kubickiego (18&nbsp;rocz. śm.), Stanisława
-    Niewiadomskiego<br>
-3. + Karola Malca
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 30&nbsp;maja</b></td>
-            <td><b>Sobota 8&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Michaliny<br>
-2. + Stanisława Łukawskiego
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Adama, Stefana Osuchów, Kazimierę, Stanisława, Sławomira
-    Rykowskich<br>
-3. + Karola Malca
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 31&nbsp;maja</b></td>
-            <td><b>
-                <span style="color: red">Niedziela Trójcy Świętej</span>
-            </b></td>
+            <td><b>CZWARTEK, 4&nbsp;czerwca</b></td>
+            <td><b>Uroczystość Najświętszego Ciała i&nbsp;Krwi
+            Chrystusa</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Mariannę Brzyszcz
+1. + Zbigniewa Kamińskiego (11&nbsp;rocz. śm.), Ludwikę i&nbsp;Jana
+    Kamińskich<br>
+2. + Jana Gajdę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Anielę, Romualda, Pamelę, Aleksandra Kapisów
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">11.15</td>
-            <td>
-+ Mariannę i&nbsp;Witolda
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">12.30</td>
-            <td>
-1. W&nbsp;intencji Parafian<br>
-2. W&nbsp;intencji młodzieży, która przyjęła w&nbsp;tym roku
-    sakrament bierzmowania
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Sapielaka<br>
-2. + Annę Gach
+1. + Jana i&nbsp;Andrzeja Popków, Zofię Janusza, Wiesława, Jerzego
+    Potrzebowskich, Annę, Michała Sajurów<br>
+2. + Stanisława i&nbsp;Elżbietę Komorowskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 5&nbsp;czerwca</b></td>
+            <td><b>Pierwszy piątek miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;łaskę dobrej śmierci<br>
+2. + Alojzego Ciszkiewicza
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Aleksandrę Ciamagę (3&nbsp;rocz. śm.) i&nbsp;zm. z&nbsp;rodziny<br>
+2. + Alfredę i&nbsp;Franciszka Kawiorskich<br>
+3. + Karola Malca<br>
+4. O&nbsp;Boże błogosławieństwo i&nbsp;potrzebne łaski dla rodziny
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 6&nbsp;czerwca</b></td>
+            <td><b>Pierwsza sobota miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    dzieci i&nbsp;chrześniaków<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Zuzanny w&nbsp;18&nbsp;rocznicę urodzin
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">15.00</td>
+            <td>
+Msza Święta ślubna
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Intencja wynagradzająca za&nbsp;grzechy popełnione przeciwko
+    Niepokalanemu Sercu NMP<br>
+2. + Jana Gajdę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 7&nbsp;czerwca</b></td>
+            <td><b>
+                <span style="color: red">10&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Mariana i&nbsp;Helenę Przyłuckich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Mariannę i&nbsp;Kazimierza Kieszkowskich, zmarłych z&nbsp;rodzin
+    Kieszkowskich i&nbsp;Nizielskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla członkiń
+    Koła Żywego Różańca (zelatorka Jadwiga Mojduszko)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
+1. + Zofię, Wawrzyńca Kwietniów, zmarłych z&nbsp;rodzin Kondeuszów
+    i&nbsp;Kwietniów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Parafian<br>
+2. + Wiesława Gach
             </td>
         </tr>
     </tbody>
