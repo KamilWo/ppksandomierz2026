@@ -1,189 +1,188 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            8.06 – 14.06.2026&nbsp;r.
+            15.06 – 21.06.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 8&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie św.&nbsp;królowej Jadwigi</b></td>
+            <td><b>PONIEDZIAŁEK, 15&nbsp;czerwca</b></td>
+            <td><b>Poniedziałek 11&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Wacława Boryckiego
+1. + Jana Gajdę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Heleny<br>
-2. + ks. Stanisława Chmielewskiego
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 9&nbsp;czerwca</b></td>
-            <td><b>Wtorek 10&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Marka Steca<br>
-2. + Mariana Cąbrowskiego
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Amelii w&nbsp;18 rocz. urodzin<br>
-2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Aleksandry<br>
-3. O&nbsp;wyzwolenie z&nbsp;lęku i&nbsp;odwagę życia w&nbsp;prawdzie
-    dla osób uzależnionych i&nbsp;ich rodzin
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 10&nbsp;czerwca</b></td>
-            <td><b>Środa 10&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Marka Ziębę<br>
-2. + Marka Grębowca
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Helenę i&nbsp;Ludwika Wabiów (rocz.), i&nbsp;zmarłych
-    z&nbsp;rodziny<br>
-2. O&nbsp;łaskę doświadczenia Bożej miłości dla ojca Tadeusza
-    i&nbsp;męża Piotra
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 11&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie św.&nbsp;Barnaby Apostoła</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Romualda Furmana
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Apolonię Kuśmierz, Barbarę Wrześniewską, Bolesława Barana, dusze
-    w&nbsp;czyśćcu cierpiące<br>
-2. + Irenę i&nbsp;Wojciecha Wasilewskich<br>
+1. + Mariannę i&nbsp;Henryka Kwietniów<br>
+2. + Zofię i&nbsp;Tadeusza Baranów<br>
 3. + Adama Sochę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 12&nbsp;czerwca</b></td>
-            <td><b>Uroczystość Najświętszego Serca Pana Jezusa</b></td>
+            <td><b>WTOREK, 16&nbsp;czerwca</b></td>
+            <td><b>Wtorek 11&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Stanisława Łukawskiego
+1. + Halinę i&nbsp;Kazimierza Masztaleruk<br>
+2. + Gustawa Kaniosa
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Andrzeja (1&nbsp;rocz. śm.), Mariannę, Józefa Łatkowskich,
-    zmarłych z&nbsp;rodz. Łatkowskich i&nbsp;Długowolskich<br>
-2. + Gustawa Sadłochę (16&nbsp;rocz. śm.), zmarłych z&nbsp;rodz.
-    Sadłochów i&nbsp;Sojdów
+1. + Michalinę i&nbsp;Józefa Strawczyńskich<br>
+2. + Mariannę, Franciszka, Henryka Banasiewiczów, Stanisława Asik,
+    Telę Pastuszak<br>
+3. + Adama Sochę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 13&nbsp;czerwca</b></td>
-            <td><b>Wspomnienie Niepokalanego Serca Maryi</b></td>
+            <td><b>ŚRODA, 17&nbsp;czerwca</b></td>
+            <td><b>Świętego Brata Alberta – odpust parafialny</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Anielę i&nbsp;Antoniego Gospodarczyków<br>
-2. + Marię, Władysława, Czesława Barańskich, Władysławę
-    i&nbsp;Andrzeja Krawczyków
+1. + Jana Gajdę<br>
+2. + Janinę, Czesława, Krzysztofa Płazów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo dla dobroczyńców Parafii<br>
+2. + Alinę Przyłucką, Annę i&nbsp;Zygmunta Stylskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Ani
-    w&nbsp;11&nbsp;rocz. urodzin<br>
-2. + Władysławę Bulira<br>
-3. + Helenę Gajewską
+1. W&nbsp;intencji Parafian<br>
+2. + Michalinę i&nbsp;Józefa Strawczyńskich, Stanisława Nawarę
+    i&nbsp;zm. z&nbsp;rodziny<br>
+3. + Alicję Bieżanek
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 14&nbsp;czerwca</b></td>
+            <td><b>CZWARTEK, 18&nbsp;czerwca</b></td>
+            <td><b>Czwartek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Wiesława Gacha<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski, Boże
+    błogosławieństwo i&nbsp;opiekę NMP dla Katarzyny z&nbsp;okazji
+    urodzin<br>
+2. + Krystyna Przyłuckiego<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 19&nbsp;czerwca</b></td>
+            <td><b>Piątek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Roberta w&nbsp;35&nbsp;rocz. ślubu.<br>
+2. + Za&nbsp;zmarłych z&nbsp;rodziny Ziębów i&nbsp;Bęców
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Teresę i&nbsp;Józefa Janasów<br>
+2. + Krystyna Przyłuckiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 20&nbsp;czerwca</b></td>
+            <td><b>Sobota 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Daniela w&nbsp;6&nbsp;rocz. ślubu<br>
+2. + Kazimierza Woźniaka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Jarosława w&nbsp;33&nbsp;rocz. ślubu<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    księdza Krystiana Musiała<br>
+3. + Barbarę, Stanisława Staniek, Andrzeja Stolińskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 21&nbsp;czerwca</b></td>
             <td><b>
-                <span style="color: red">11&nbsp;niedziela zwykła,
+                <span style="color: red">12&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-W&nbsp;intencji Parafian
++ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława Rożmiejów, Zofię,
+    Mikołaja, Eugeniusza Kapustów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Jana Rogowskiego, Stanisława Kozacza
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Wiesławę, Weronikę, Zygmunta Szpatowiczów, Janinę i&nbsp;Kazimierza
-    Malarzów
+W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Małgorzatę Krawczyk, Otolię i&nbsp;Czesława Ciach
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">14.00</td>
-            <td>
-Msza Święta ślubna
++ Mieczysława Chmiela (6&nbsp;rocz. śm.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Hanny
-    w&nbsp;18&nbsp;rocz. urodzin<br>
-2. + Mariannę Chmiel
+1. + Zygmunta i&nbsp;Urszulę oraz zmarłych z&nbsp;rodziny<br>
+2. + Romualda Furmana
             </td>
         </tr>
     </tbody>
