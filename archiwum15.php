@@ -19,7 +19,262 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 14.&nbsp;czerwca 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 21.&nbsp;czerwca 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            15.06 – 21.06.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 15&nbsp;czerwca</b></td>
+            <td><b>Poniedziałek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę i&nbsp;Henryka Kwietniów<br>
+2. + Zofię i&nbsp;Tadeusza Baranów<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 16&nbsp;czerwca</b></td>
+            <td><b>Wtorek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Halinę i&nbsp;Kazimierza Masztaleruk<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Michalinę i&nbsp;Józefa Strawczyńskich<br>
+2. + Mariannę, Franciszka, Henryka Banasiewiczów, Stanisława Asik,
+    Telę Pastuszak<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 17&nbsp;czerwca</b></td>
+            <td><b>Świętego Brata Alberta – odpust parafialny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę<br>
+2. + Janinę, Czesława, Krzysztofa Płazów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo dla dobroczyńców Parafii<br>
+2. + Alinę Przyłucką, Annę i&nbsp;Zygmunta Stylskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Parafian<br>
+2. + Michalinę i&nbsp;Józefa Strawczyńskich, Stanisława Nawarę
+    i&nbsp;zm. z&nbsp;rodziny<br>
+3. + Alicję Bieżanek
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 18&nbsp;czerwca</b></td>
+            <td><b>Czwartek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Wiesława Gacha<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;potrzebne łaski, Boże
+    błogosławieństwo i&nbsp;opiekę NMP dla Katarzyny z&nbsp;okazji
+    urodzin<br>
+2. + Krystyna Przyłuckiego<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 19&nbsp;czerwca</b></td>
+            <td><b>Piątek 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Roberta w&nbsp;35&nbsp;rocz. ślubu.<br>
+2. + Za&nbsp;zmarłych z&nbsp;rodziny Ziębów i&nbsp;Bęców
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Teresę i&nbsp;Józefa Janasów<br>
+2. + Krystyna Przyłuckiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 20&nbsp;czerwca</b></td>
+            <td><b>Sobota 11&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Daniela w&nbsp;6&nbsp;rocz. ślubu<br>
+2. + Kazimierza Woźniaka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Joanny i&nbsp;Jarosława w&nbsp;33&nbsp;rocz. ślubu<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    księdza Krystiana Musiała<br>
+3. + Barbarę, Stanisława Staniek, Andrzeja Stolińskiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 21&nbsp;czerwca</b></td>
+            <td><b>
+                <span style="color: red">XII&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława Rożmiejów, Zofię,
+    Mikołaja, Eugeniusza Kapustów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Mieczysława Chmiela (6&nbsp;rocz. śm.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zygmunta i&nbsp;Urszulę oraz zmarłych z&nbsp;rodziny<br>
+2. + Romualda Furmana
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>14.&nbsp;czerwca 2026&nbsp;r.</h3>
+        <h3>XI&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;najbliższą środę, 17&nbsp;czerwca, obchodzimy wspomnienie
+        św.&nbsp;Brata Alberta, patrona naszej parafii. Serdecznie zapraszamy
+        na&nbsp;Msze Święte odpustowe o&nbsp;6.30, 9.00 oraz 18.00.
+        Na&nbsp;Mszach świętych o&nbsp;godz.&nbsp;9.00 i&nbsp;18.00 homilie
+        wygłosi ks.&nbsp;Łukasz Białk, proboszcz parafii św.&nbsp;Wojciecha
+        w&nbsp;Kielnie w&nbsp;archidiecezji gdańskiej.</p>
+        <p>2. Mszę Świętą odpustową o&nbsp;godz.&nbsp;9.00, będę sprawował
+        w&nbsp;intencji tych, którzy w&nbsp;jakikolwiek sposób pomagają przy
+        parafii poprzez swoją pracę praz wspomagają finansowo.</p>
+        <p>3. Dzisiaj po&nbsp;każdej Mszy ministranci z&nbsp;naszej parafialnej
+        drużyny LSO SANDOMIERZ będą rozdawać dla wszystkich obecnych
+        w&nbsp;kościele słodkie upominki z&nbsp;prośbą o&nbsp;modlitwę
+        w&nbsp;intencji owocnego wyjazdu na&nbsp;Mistrzostwa Polski LSO
+        w&nbsp;Gnieźnie. Przy okazji można wesprzeć drużynę przez dowolną
+        ofiarę do&nbsp;koszyka.</p>
+        <p>4. Wszystkich, którzy chcieliby dołączyć do&nbsp;ministrantów
+        w&nbsp;naszej parafii albo chcą dowiedzieć się co&nbsp;to&nbsp;znaczy
+        być ministrantem zapraszamy na&nbsp;spotkanie w&nbsp;czwartek
+        o&nbsp;godz.&nbsp;18.30 w&nbsp;kościele. Zaproszenie kierujemy
+        do&nbsp;chłopaków w&nbsp;każdym wieku, a&nbsp;szczególnie
+        do&nbsp;chłopaków po&nbsp;Pierwszej Komunii świętej.</p>
+        <p>5. W&nbsp;najbliższy wtorek, 16&nbsp;czerwca, jak w&nbsp;każdy
+        trzeci wtorek miesiąca w&nbsp;tym roku, zapraszamy na&nbsp;kolejne
+        spotkanie Akademii Biblijnej w&nbsp;Sandomierzu; poprowadzi
+        je&nbsp;wykładowca Pisma świętego w&nbsp;naszym seminarium,
+        ks.&nbsp;Paweł Lasek. Tematem tego spotkania będą Listy św.&nbsp;Pawła
+        do&nbsp;Tymoteusza i&nbsp;Tytusa. Spotkanie rozpocznie się
+        o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium Duchownego.
+        W&nbsp;spotkaniu będzie można uczestniczyć także internetowo, będzie
+        ono transmitowane przez Facebooka, na &nbsp;profilu
+        <em><a href="https://www.facebook.com/wsdsandomierz/">WSD
+        Sandomierz</a></em>. Serdecznie zapraszamy!</p>
+        <p>6. W&nbsp;sobotę 20&nbsp;czerwca zapraszamy na&nbsp;kolejny wieczór
+        uwielbienia.</p>
+        <p>7. W&nbsp;niedzielę 21&nbsp;czerwca odbędzie się w&nbsp;naszym
+        mieście Marsz dla Życia i&nbsp;Rodziny oraz piknik rodzinny.
+        O&nbsp;14.30 w&nbsp;kościele św.&nbsp;Józefa Msza Święta
+        w&nbsp;intencji dzieci i&nbsp;rodzin z&nbsp;zawierzeniem rodzin
+        św.&nbsp;Józefowi; następnie marsz, który przejdzie z&nbsp;kościoła
+        św.&nbsp;Józefa do&nbsp;placu przy ul.&nbsp;Żółkiewskiego 9, gdzie
+        w&nbsp;godz.&nbsp;16.00-20.00 odbędzie się piknik rodzinny.</p>
+        <p>8. Bardzo dziękujemy panom Wacławowi i&nbsp;Leszkowi
+        za&nbsp;całodzienną pracę przy naprawie kościelnych ławek. <em>Bóg
+        zapłać!</em></p>
+        <p>9. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 14.&nbsp;czerwca 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
@@ -165,7 +420,7 @@ include 'head.php';
         <tr class="aktualnosci_day">
             <td><b>NIEDZIELA, 14&nbsp;czerwca</b></td>
             <td><b>
-                <span style="color: red">11&nbsp;niedziela zwykła,
+                <span style="color: red">XI&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
@@ -217,7 +472,7 @@ Msza Święta ślubna
 <div class="card">
     <div class="card-header">
         <h3>7.&nbsp;czerwca 2026&nbsp;r.</h3>
-        <h3>10&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>X&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
         <p>1. Trwamy w&nbsp;oktawie Uroczystości Bożego Ciała. Zapraszamy
@@ -447,7 +702,7 @@ Msza Święta ślubna
         <tr class="aktualnosci_day">
             <td><b>NIEDZIELA, 7&nbsp;czerwca</b></td>
             <td><b>
-                <span style="color: red">10&nbsp;niedziela zwykła,
+                <span style="color: red">X&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>

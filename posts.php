@@ -1,59 +1,55 @@
 <div class="card">
     <div class="card-header">
-        <h3>14.&nbsp;czerwca 2026&nbsp;r.</h3>
-        <h3>11&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>21.&nbsp;czerwca 2026&nbsp;r.</h3>
+        <h3>XII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;najbliższą środę, 17&nbsp;czerwca, obchodzimy wspomnienie
-        św.&nbsp;Brata Alberta, patrona naszej parafii. Serdecznie zapraszamy
-        na&nbsp;Msze Święte odpustowe o&nbsp;6.30, 9.00 oraz 18.00.
-        Na&nbsp;Mszach świętych o&nbsp;godz.&nbsp;9.00 i&nbsp;18.00 homilie
-        wygłosi ks.&nbsp;Łukasz Białk, proboszcz parafii św.&nbsp;Wojciecha
-        w&nbsp;Kielnie w&nbsp;archidiecezji gdańskiej.</p>
-        <p>2. Mszę Świętą odpustową o&nbsp;godz.&nbsp;9.00, będę sprawował
-        w&nbsp;intencji tych, którzy w&nbsp;jakikolwiek sposób pomagają przy
-        parafii poprzez swoją pracę praz wspomagają finansowo.</p>
-        <p>3. Dzisiaj po&nbsp;każdej Mszy ministranci z&nbsp;naszej parafialnej
-        drużyny LSO SANDOMIERZ będą rozdawać dla wszystkich obecnych
-        w&nbsp;kościele słodkie upominki z&nbsp;prośbą o&nbsp;modlitwę
-        w&nbsp;intencji owocnego wyjazdu na&nbsp;Mistrzostwa Polski LSO
-        w&nbsp;Gnieźnie. Przy okazji można wesprzeć drużynę przez dowolną
-        ofiarę do&nbsp;koszyka.</p>
-        <p>4. Wszystkich, którzy chcieliby dołączyć do&nbsp;ministrantów
-        w&nbsp;naszej parafii albo chcą dowiedzieć się co&nbsp;to&nbsp;znaczy
-        być ministrantem zapraszamy na&nbsp;spotkanie w&nbsp;czwartek
-        o&nbsp;godz.&nbsp;18.30 w&nbsp;kościele. Zaproszenie kierujemy
-        do&nbsp;chłopaków w&nbsp;każdym wieku, a&nbsp;szczególnie
-        do&nbsp;chłopaków po&nbsp;Pierwszej Komunii świętej.</p>
-        <p>5. W&nbsp;najbliższy wtorek, 16&nbsp;czerwca, jak w&nbsp;każdy
-        trzeci wtorek miesiąca w&nbsp;tym roku, zapraszamy na&nbsp;kolejne
-        spotkanie Akademii Biblijnej w&nbsp;Sandomierzu; poprowadzi
-        je&nbsp;wykładowca Pisma świętego w&nbsp;naszym seminarium,
-        ks.&nbsp;Paweł Lasek. Tematem tego spotkania będą Listy św.&nbsp;Pawła
-        do&nbsp;Tymoteusza i&nbsp;Tytusa. Spotkanie rozpocznie się
-        o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium Duchownego.
-        W&nbsp;spotkaniu będzie można uczestniczyć także internetowo, będzie
-        ono transmitowane przez Facebooka, na &nbsp;profilu
-        <em><a href="https://www.facebook.com/wsdsandomierz/">WSD
-        Sandomierz</a></em>. Serdecznie zapraszamy!</p>
-        <p>6. W&nbsp;sobotę 20&nbsp;czerwca zapraszamy na&nbsp;kolejny wieczór
-        uwielbienia.</p>
-        <p>7. W&nbsp;niedzielę 21&nbsp;czerwca odbędzie się w&nbsp;naszym
-        mieście Marsz dla Życia i&nbsp;Rodziny oraz piknik rodzinny.
-        O&nbsp;14.30 w&nbsp;kościele św.&nbsp;Józefa Msza Święta
-        w&nbsp;intencji dzieci i&nbsp;rodzin z&nbsp;zawierzeniem rodzin
-        św.&nbsp;Józefowi; następnie marsz, który przejdzie z&nbsp;kościoła
-        św.&nbsp;Józefa do&nbsp;placu przy ul.&nbsp;Żółkiewskiego 9, gdzie
-        w&nbsp;godz.&nbsp;16.00-20.00 odbędzie się piknik rodzinny.</p>
-        <p>8. Bardzo dziękujemy panom Wacławowi i&nbsp;Leszkowi
-        za&nbsp;całodzienną pracę przy naprawie kościelnych ławek. <em>Bóg
-        zapłać!</em></p>
-        <p>9. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        <p>1. W&nbsp;środę 24&nbsp;czerwca obchodzimy uroczystość narodzin
+        św.&nbsp;Jana Chrzciciela.</p>
+        <p>2. Przed nami ostatni tydzień roku szkolnego. Zapraszamy serdecznie
+        uczniów i&nbsp;nauczycieli na&nbsp;Mszę Świętą dziękczynną
+        na&nbsp;zakończenie roku szkolnego w&nbsp;piątek o&nbsp;godzinie
+        8.00.</p>
+        <p>3. W&nbsp;czerwcu oddajemy cześć Najświętszemu Sercu Jezusowemu.
+        Litanię odmawiamy w&nbsp;dni powszednie o&nbsp;godz.&nbsp;17.50.</p>
+        <p>4. Dzisiaj odbędzie się w&nbsp;naszym mieście Marsz dla Życia
+        i&nbsp;Rodziny oraz piknik rodzinny. O&nbsp;godz.&nbsp;14.30 -
+        Msza&nbsp;Św. w&nbsp;kościele św.&nbsp;Józefa, 15.30 - Rozpoczęcie
+        Marszu ulicami miasta, 16.00 - finał Marszu i&nbsp;piknik rodzinny
+        na&nbsp;placu przy ul.&nbsp;Żółkiewskiego 9. Zapraszamy rodziny,
+        dzieci, młodzież, dziadków, wszystkich, którzy pragną ukazać wartość
+        rodziny do&nbsp;wspólnego świętowania. W&nbsp;czasie pikniku będą
+        występy dzieci, orkiestry, zabawy dla dzieci, stoiska z&nbsp;lokalnymi
+        produktami, będzie także możliwość zarejestrowania się jako
+        potencjalny dawca szpiku. Ok.&nbsp;godz.&nbsp;19.00 - koncert
+        ze&nbsp;świadectwem życia pana Krzysztofa Antkowiaka.</p>
+        <p>5. Składamy serdeczne podziękowania za&nbsp;finansowe wsparcie
+        naszej drużyny LSO SANDOMIERZ, która będzie reprezentować naszą
+        parafię na&nbsp;Mistrzostwach Polski w&nbsp;Gnieźnie. W&nbsp;ubiegłą
+        niedzielę ministranci zebrali 8948,13&nbsp;zł. <em>Bóg zapłać</em>.</p>
+        <p>6. W&nbsp;ramach wdzięczności za&nbsp;złożone ofiary nasza młodzież
+        zaprasza wszystkich na&nbsp;modlitewne czuwanie, w&nbsp;najbliższy
+        piątek. Rozpoczęcie o&nbsp;godz.&nbsp;18:00 Mszą Świętą,
+        a&nbsp;po&nbsp;Mszy adoracja prowadzona przez młodzież. Będziemy się
+        modlić za&nbsp;uczniów kończących rok szkolny, zawodników jadących
+        do&nbsp;Gniezna i&nbsp;wszystkich parafian wspierających dzieci
+        i&nbsp;młodzież modlitwą, i&nbsp;ofiarami. Adoracja zakończy się
+        ok.&nbsp;19:15.</p>
+        <p>7. Najmłodszych ministrantów i&nbsp;kandydatów zapraszamy
+        na&nbsp;przedwakacyjne spotkanie filmowe z&nbsp;pizzą we&nbsp;wtorek
+        o&nbsp;godz.&nbsp;16 w&nbsp;salce parafialnej.</p>
+        <p>8. Bardzo dziękujemy wszystkim, którzy uczestniczyli
+        w&nbsp;odpuście ku&nbsp;czci św.&nbsp;Brata Alberta, oraz szczególnie
+        tym osobom, które pomagały na&nbsp;plebanii i&nbsp;w&nbsp;kościele.</p>
+        <p>9. Bardzo dziękujemy panom Wacławowi i&nbsp;Leszkowi za&nbsp;pracę
+        przy konserwacji i&nbsp;malowaniu drzwi wejściowych. <em>Bóg
+        zapłać</em>!</p>
+        <p>10. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
         naszej parafii. Wszystkim obchodzącym imieniny, rocznice
         i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
         i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 14.&nbsp;czerwca 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 21.&nbsp;czerwca 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>
