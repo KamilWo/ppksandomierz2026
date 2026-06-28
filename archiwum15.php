@@ -19,7 +19,254 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 21.&nbsp;czerwca 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 28.&nbsp;czerwca 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            22.06 – 28.06.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 22&nbsp;czerwca</b></td>
+            <td><b>Poniedziałek 12&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Mariannę i&nbsp;Franciszka Zająców<br>
+3. + Monikę Bernaś
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Zdzisława, Bronisława, zmarłych z&nbsp;rodziny i&nbsp;dusze
+    w&nbsp;czyśćcu cierpiące<br>
+2. + Wacława Boryckiego
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 23&nbsp;czerwca</b></td>
+            <td><b>Wtorek 12&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Krystyna Przyłuckiego<br>
+2. + Józefę, Stanisława Patyna i&nbsp;zmarłych z&nbsp;rodziny Patynów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Antoniego i&nbsp;Henryka<br>
+2. + Andrzeja, Jana, Mariannę Wojnów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 24&nbsp;czerwca</b></td>
+            <td><b>Uroczystość Narodzin św.&nbsp;Jana Chrzciciela</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Radzimowskiego<br>
+2. + Jana Mikulskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Chmiel<br>
+2. + Jana Makowskiego, Klarę, Jana, Ryszarda Chrząstowskich
+    i&nbsp;zmarłych z&nbsp;rodziny<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 25&nbsp;czerwca</b></td>
+            <td><b>Czwartek 12&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mateusza Frańczaka<br>
+2. + Stanisława Łukawskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Gajdę, Irenę, Wiktora, Danutę, Stanisława, Dariusza, Barbarę
+    Gajdów<br>
+2. + Marka Furmana<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 26&nbsp;czerwca</b></td>
+            <td><b>Piątek 12&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Gajdę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">8.00</td>
+            <td>
+Msza na&nbsp;zakończenie roku szkolnego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Piotra, Bronisławę Pęk, zmarłych z&nbsp;rodziny Pęków
+    i&nbsp;Dobków<br>
+2. + Ewę Wrzosek (27&nbsp;rocz. śm.), Bartłomieja, Jana, Teresę,
+    Janinę<br>
+3. + Adama Sochę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 27&nbsp;czerwca</b></td>
+            <td><b>Sobota 12&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Zofię Skorupską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Annę i&nbsp;Jana Kapisów<br>
+2. + Włodzimierza, Karolinę, Stanisława Bartosików, Mariannę
+    i&nbsp;Romana Patynów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 28&nbsp;czerwca</b></td>
+            <td><b>
+                <span style="color: red">XIII&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Henryka Stefańskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, opiekę NMP dla
+    Elżbiety z&nbsp;okazji urodzin
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Mieczysława, Helenę, Jana, Wnuków, Katarzynę Stanisława
+    Wyrzykowskich, Tadeusza Judę, Piotra Bogdańskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Władysławę i&nbsp;Władysława Mrówków, zm. z&nbsp;rodz. Mrówków
+    i&nbsp;Wódzów
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>21.&nbsp;czerwca 2026&nbsp;r.</h3>
+        <h3>XII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;środę 24&nbsp;czerwca obchodzimy uroczystość narodzin
+        św.&nbsp;Jana Chrzciciela.</p>
+        <p>2. Przed nami ostatni tydzień roku szkolnego. Zapraszamy serdecznie
+        uczniów i&nbsp;nauczycieli na&nbsp;Mszę Świętą dziękczynną
+        na&nbsp;zakończenie roku szkolnego w&nbsp;piątek o&nbsp;godzinie
+        8.00.</p>
+        <p>3. W&nbsp;czerwcu oddajemy cześć Najświętszemu Sercu Jezusowemu.
+        Litanię odmawiamy w&nbsp;dni powszednie o&nbsp;godz.&nbsp;17.50.</p>
+        <p>4. Dzisiaj odbędzie się w&nbsp;naszym mieście Marsz dla Życia
+        i&nbsp;Rodziny oraz piknik rodzinny. O&nbsp;godz.&nbsp;14.30 -
+        Msza&nbsp;Św. w&nbsp;kościele św.&nbsp;Józefa, 15.30 - Rozpoczęcie
+        Marszu ulicami miasta, 16.00 - finał Marszu i&nbsp;piknik rodzinny
+        na&nbsp;placu przy ul.&nbsp;Żółkiewskiego 9. Zapraszamy rodziny,
+        dzieci, młodzież, dziadków, wszystkich, którzy pragną ukazać wartość
+        rodziny do&nbsp;wspólnego świętowania. W&nbsp;czasie pikniku będą
+        występy dzieci, orkiestry, zabawy dla dzieci, stoiska z&nbsp;lokalnymi
+        produktami, będzie także możliwość zarejestrowania się jako
+        potencjalny dawca szpiku. Ok.&nbsp;godz.&nbsp;19.00 - koncert
+        ze&nbsp;świadectwem życia pana Krzysztofa Antkowiaka.</p>
+        <p>5. Składamy serdeczne podziękowania za&nbsp;finansowe wsparcie
+        naszej drużyny LSO SANDOMIERZ, która będzie reprezentować naszą
+        parafię na&nbsp;Mistrzostwach Polski w&nbsp;Gnieźnie. W&nbsp;ubiegłą
+        niedzielę ministranci zebrali 8948,13&nbsp;zł. <em>Bóg zapłać</em>.</p>
+        <p>6. W&nbsp;ramach wdzięczności za&nbsp;złożone ofiary nasza młodzież
+        zaprasza wszystkich na&nbsp;modlitewne czuwanie, w&nbsp;najbliższy
+        piątek. Rozpoczęcie o&nbsp;godz.&nbsp;18:00 Mszą Świętą,
+        a&nbsp;po&nbsp;Mszy adoracja prowadzona przez młodzież. Będziemy się
+        modlić za&nbsp;uczniów kończących rok szkolny, zawodników jadących
+        do&nbsp;Gniezna i&nbsp;wszystkich parafian wspierających dzieci
+        i&nbsp;młodzież modlitwą, i&nbsp;ofiarami. Adoracja zakończy się
+        ok.&nbsp;19:15.</p>
+        <p>7. Najmłodszych ministrantów i&nbsp;kandydatów zapraszamy
+        na&nbsp;przedwakacyjne spotkanie filmowe z&nbsp;pizzą we&nbsp;wtorek
+        o&nbsp;godz.&nbsp;16 w&nbsp;salce parafialnej.</p>
+        <p>8. Bardzo dziękujemy wszystkim, którzy uczestniczyli
+        w&nbsp;odpuście ku&nbsp;czci św.&nbsp;Brata Alberta, oraz szczególnie
+        tym osobom, które pomagały na&nbsp;plebanii i&nbsp;w&nbsp;kościele.</p>
+        <p>9. Bardzo dziękujemy panom Wacławowi i&nbsp;Leszkowi za&nbsp;pracę
+        przy konserwacji i&nbsp;malowaniu drzwi wejściowych. <em>Bóg
+        zapłać</em>!</p>
+        <p>10. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym imieniny, rocznice
+        i&nbsp;jubileusze składamy serdeczne życzenia. Naszym Parafianom
+        i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 21.&nbsp;czerwca 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
