@@ -1,6 +1,23 @@
 <div class="card">
     <div class="card-header">
         <h3>5.&nbsp;lipca 2026&nbsp;r.</h3>
+        <h3>Wieczory organowe</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2026_Wieczory-Organowe-2026-scaled.jpg"
+             alt="2026 Wieczory organowe"
+             style="width: 100%;"/>
+        <p>
+            <span style="float: left;">Sandomierz, 5.&nbsp;lipca 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>5.&nbsp;lipca 2026&nbsp;r.</h3>
         <h3>XIV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
