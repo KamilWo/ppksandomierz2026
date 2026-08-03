@@ -1,31 +1,31 @@
 <div class="card">
     <div class="card-header">
-        <h3>26.&nbsp;lipca 2026&nbsp;r.</h3>
-        <h3>XVII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>2.&nbsp;sierpnia 2026&nbsp;r.</h3>
+        <h3>XVIII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;tym tygodniu oddajemy cześć świętym: w&nbsp;środę
-        rodzeństwu z&nbsp;Betanii – Marcie, Marii i&nbsp;Łazarzowi,
-        w&nbsp;piątek św.&nbsp;Ignacemu z&nbsp;Loyoli, w&nbsp;sobotę
-        św.&nbsp;Alfonsowi de&nbsp;Liguori.</p>
-        <p>2. W&nbsp;przyszły wtorek, 4&nbsp;sierpnia, wyruszy
-        z&nbsp;Sandomierza piesza pielgrzymka na&nbsp;Jasną Górę. Serdecznie
-        zachęcamy do&nbsp;udziału. Szczegóły na&nbsp;plakacie
-        w&nbsp;gablocie.</p>
-        <p>3. Do&nbsp;18&nbsp;września trwa rekrutacja do&nbsp;Wyższego
-        Seminarium Duchownego.</p>
-        <p>4. Wydział Duszpasterstwa Rodzin serdecznie zaprasza
-        do&nbsp;podjęcia nauki w&nbsp;Diecezjalnym Studium Życia
-        i&nbsp;Rodziny. Szczegółowe informacje na&nbsp;plakacie
-        w&nbsp;gablocie.</p>
-        <p>5. Po&nbsp;Mszy Świętej można wesprzeć ofiarą leczenie chorej
-        Wiktorii Bednarz.</p>
-        <p>6. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
-        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
-        składamy serdeczne życzenia. Wszystkim Parafianom i&nbsp;Gościom
-        życzymy błogosławionej niedzieli.</p>
+        <p>1. W&nbsp;tym tygodniu oddajemy cześć świętym: we&nbsp;wtorek
+        św.&nbsp;Janowi Marii Vianneyowi, w&nbsp;sobotę św.&nbsp;Dominikowi.
+        W&nbsp;czwartek obchodzimy święto Przemienienia Pańskiego.</p>
+        <p>2. W&nbsp;najbliższy wtorek, 4&nbsp;sierpnia, wyruszy piesza
+        pielgrzymka z&nbsp;Sandomierza na&nbsp;Jasną Górą.</p>
+        <p>3. W&nbsp;tym tygodniu wypada pierwszy piątek miesiąca. Możliwość
+        spowiedzi od&nbsp;godziny 17.00.</p>
+        <p>4. W&nbsp;miesiącach wakacyjnych odwiedzamy chorych
+        po&nbsp;indywidualnym umówieniu.</p>
+        <p>5. Sierpień jest tradycyjnie miesiącem trzeźwości. Zachęcamy
+        do&nbsp;podejmowania abstynencji jako postu w&nbsp;intencji osób
+        uzależnionych.</p>
+        <p>6. Przekazujemy podziękowania od&nbsp;pani Anny Bednarz, która
+        tydzień temu prowadziła zbiórkę na&nbsp;rzecz swojej chorej córki.
+        Złożyliście na&nbsp;ten cel 8608,85&nbsp;zł i&nbsp;10&nbsp;euro.
+        <em>Bóg zapłać!</em></p>
+        <p>7. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice, jubileusze składamy
+        serdeczne życzenia. Wszystkim życzymy dobrej niedzieli
+        i&nbsp;spokojnego wakacyjnego wypoczynku.</p>
         <p>
-            <span style="float: left;">Sandomierz, 26.&nbsp;lipca 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 2.&nbsp;sierpnia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>
