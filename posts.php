@@ -1,49 +1,35 @@
 <div class="card">
     <div class="card-header">
-        <h3>9.&nbsp;sierpnia 2026&nbsp;r.</h3>
-        <h3>XIX&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>16.&nbsp;sierpnia 2026&nbsp;r.</h3>
+        <h3>XX&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;tym tygodniu w&nbsp;liturgii obchodzimy:</p>
-        <ul>
-        <li>Poniedziałek – święto Św.&nbsp;Wawrzyńca, diakona
-        i&nbsp;męczennika</li>
-        <li>Wtorek – wspomnienie Św.&nbsp;Klary, dziewicy</li>
-        <li>Piątek – wspomnienie Św.&nbsp;Maksymiliana Marii Kolbego,
-        prezbitera i&nbsp;męczennika</li>
-        <li>Sobota – uroczystość Wniebowzięcia Najświętszej Maryi Panny</li>
-        </ul>
-        <p>2. Uroczystość Wniebowzięcia NMP, 15&nbsp;sierpnia jest świętem
-        nakazanym w&nbsp;związku z&nbsp;tym, jako wierzący, jesteśmy
-        zobowiązani uczestniczyć w&nbsp;tym dniu we&nbsp;Mszy Świętej
-        i&nbsp;powstrzymać się od&nbsp;prac niekoniecznych. Porządek Mszy
-        świętych w&nbsp;uroczystość – niedzielny. Na&nbsp;każdej Mszy Świętej
-        będzie błogosławieństwo ziół i&nbsp;kwiatów.</p>
-        <p>3. W&nbsp;sobotę w&nbsp;naszej parafii będziemy przeżywać dożynki.
-        Msza Święta dziękczynna za&nbsp;tegoroczne plony w&nbsp;sobotę
-        o&nbsp;godz.&nbsp;15:00, a&nbsp;po&nbsp;Mszy Świętej dalsza część
-        uroczystości na&nbsp;placu przy świetlicy wiejskiej w&nbsp;Milczanach
-        o&nbsp;godz.&nbsp;16:30. Zapraszamy do&nbsp;wspólnego świętowania.</p>
-        <p>4. Serdecznie zapraszamy na&nbsp;koncert śpiewu gregoriańskiego
+        <p>1. W&nbsp;tym tygodniu oddajemy cześć świętym: w&nbsp;poniedziałek
+        św.&nbsp;Jackowi, pierwszemu polskiemu dominikaninowi, w&nbsp;czwartek
+        św.&nbsp;Bernardowi opatowi, w&nbsp;piątek św.&nbsp;Piusowi X,
+        papieżowi, a&nbsp;w&nbsp;sobotę Najświętszej Maryi Pannie Królowej.</p>
+        <p>2. W&nbsp;tym tygodniu firma z&nbsp;Kalisza będzie czyściła,
+        szlifowała i&nbsp;impregnowała posadzkę w&nbsp;naszym kościele.
+        W&nbsp;związku z&nbsp;tym poprosilibyśmy o&nbsp;pomoc
+        w&nbsp;przesunięciu ławek kilku mężczyzn, we&nbsp;wtorek po&nbsp;Mszy
+        Świętej wieczornej. Gdyby ktoś dysponował czasem poprosimy
+        o&nbsp;podejście do&nbsp;zakrystii dzisiaj po&nbsp;Mszy Świętej.</p>
+        <p>3. Z&nbsp;uwagi na&nbsp;prace w&nbsp;naszym kościele nie będzie
+        w&nbsp;tym tygodniu adoracji Najświętszego Sakramentu.</p>
+        <p>4. Msze Święte codziennie o&nbsp;6.30 i&nbsp;18.00. W&nbsp;tym
+        tygodniu niektóre Msze od&nbsp;wtorku do&nbsp;soboty mogą być
+        odprawiane w&nbsp;bocznej kaplicy.</p>
+        <p>5. Serdecznie zapraszamy na&nbsp;koncert śpiewu gregoriańskiego
         ku&nbsp;czci Najświętszej Maryi Panny Wniebowziętej w&nbsp;wykonaniu
-        zespołu Schola Gregoriana Sandomiriensis. Koncert odbędzie się
-        w&nbsp;niedzielę, 16&nbsp;sierpnia o&nbsp;godz.&nbsp;16:00
+        zespołu <em>Schola Gregoriana Sandomiriensis</em>. Koncert odbędzie
+        się w&nbsp;niedzielę, 16&nbsp;sierpnia o&nbsp;godz.&nbsp;16:00
         w&nbsp;Bazylice Katedralnej w&nbsp;Sandomierzu.</p>
-        <p>5. Przypominamy, że&nbsp;trwa sierpień, który jest miesiącem
-        modlitw o&nbsp;trzeźwość narodu polskiego.</p>
-        <p>6. Wyższe Seminarium Duchowne w&nbsp;Sandomierzu przyjmuje
-        zgłoszenia nowych kandydatów, którzy chcieliby rozpocząć studia
-        i&nbsp;formację przygotowujące do&nbsp;sakramentu kapłaństwa. Chętni
-        mogą zgłaszać się osobiście w&nbsp;budynku seminarium, przy
-        ul.&nbsp;Żeromskiego 6.</p>
-        <p>7. Dziękujemy wszystkim parafianom za&nbsp;modlitwę, wszelką pomoc
-        i&nbsp;składane ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy
-        błogosławionej niedzieli.</p>
-        <p>8. W&nbsp;tym tygodniu do&nbsp;wieczności odszedł nasz parafianin
-        śp.&nbsp;Jan Kucharczak. Polecamy go&nbsp;Bożemu Miłosierdziu.
-        <em>Wieczne odpoczywanie racz mu dać, Panie.</em></p>
+        <p>6. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice, jubileusze składamy
+        serdeczne życzenia. Drogim Parafianom i&nbsp;miłym Gościom życzymy
+        dobrej niedzieli i&nbsp;spokojnego wakacyjnego wypoczynku.</p>
         <p>
-            <span style="float: left;">Sandomierz, 9.&nbsp;sierpnia 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 16.&nbsp;sierpnia 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>

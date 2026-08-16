@@ -19,7 +19,268 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;sierpnia 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;sierpnia 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            10.08 – 16.08.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 10&nbsp;sierpnia</b></td>
+            <td><b>Święto św.&nbsp;Wawrzyńca, diakona
+                i&nbsp;męczennika</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Zofię Skorupską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Mariannę, Henryka, Józefa Surowców<br>
+2. O&nbsp;łaskę doświadczenia Bożej miłości dla ojca Tadeusza
+    i&nbsp;męża Piotra
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 11&nbsp;sierpnia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Klary</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Mieczysława Frydla
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;łaskę wyzwolenia z&nbsp;lęku dla pogrążonych w&nbsp;nałogach
+    i&nbsp;ich rodzin<br>
+2. + Aleksandrę Kowalską <strong>(poza parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 12&nbsp;sierpnia</b></td>
+            <td><b>Środa 19&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Stanisława Muchę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Borkowskiego (5&nbsp;rocz. śm.)<br>
+2. + Kazimierę Sadaj <strong>(poza parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 13&nbsp;sierpnia</b></td>
+            <td><b>Czwartek 19&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Andrzeja Kijanię (22&nbsp;rocz. śm.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stanisławę Banasiewicz<br>
+2. + Marię, Władysława, Czesława Barańkich, Władysławę i&nbsp;Andrzeja
+    Krawczyków
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 14&nbsp;sierpnia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Maksymiliana, męczennika</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Marka Grębowca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Aleksandry i&nbsp;Tomasza
+    w&nbsp;5&nbsp;rocznicę ślubu<br>
+2. + Monikę Bernaś
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 15&nbsp;sierpnia</b></td>
+            <td><b>Uroczystość Wniebowzięcia NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Ewy i&nbsp;Tomasza w&nbsp;28&nbsp;rocznicę
+    ślubu
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Stanisława Nawarę, Michalinę i&nbsp;Józefa Strawczyńskich
+    i&nbsp;zmarłych z&nbsp;rodziny
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Bronisławę i&nbsp;Feliksa Mądrych, zmarłych z&nbsp;rodzin Mądrych
+    i&nbsp;Gierachów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Antoniego w&nbsp;18&nbsp;rocznicę urodzin<br>
+2. Za&nbsp;osoby duchowne i&nbsp;konsekrowane oraz nowe powołania
+    kapłańskie i&nbsp;zakonne
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">15.00</td>
+            <td>
+Msza dziękczynna za&nbsp;plony
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Parafian<br>
+2. + Mariusza Skubidę oraz zmarłych z&nbsp;rodzin Skubidów
+    i&nbsp;Weberów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 16&nbsp;sierpnia</b></td>
+            <td><b>
+                <span style="color: red">XX&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Andrzeja Bidasa (1&nbsp;rocz. śm.) i&nbsp;jego rodziców
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Bartosza w&nbsp;18&nbsp;rocznicę urodzin
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla małżonków w&nbsp;20&nbsp;rocznicę ślubu<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    rodzin z&nbsp;Domowego Kościoła
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Zofie i&nbsp;Władysława Libickich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Marię Wrzosek, Henrykę i&nbsp;Józefa Kowal, Floriana Sado<br>
+2. + Kazimierę Sadaj
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>9.&nbsp;sierpnia 2026&nbsp;r.</h3>
+        <h3>XIX&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;tym tygodniu w&nbsp;liturgii obchodzimy:</p>
+        <ul>
+        <li>Poniedziałek – święto Św.&nbsp;Wawrzyńca, diakona
+        i&nbsp;męczennika</li>
+        <li>Wtorek – wspomnienie Św.&nbsp;Klary, dziewicy</li>
+        <li>Piątek – wspomnienie Św.&nbsp;Maksymiliana Marii Kolbego,
+        prezbitera i&nbsp;męczennika</li>
+        <li>Sobota – uroczystość Wniebowzięcia Najświętszej Maryi Panny</li>
+        </ul>
+        <p>2. Uroczystość Wniebowzięcia NMP, 15&nbsp;sierpnia jest świętem
+        nakazanym w&nbsp;związku z&nbsp;tym, jako wierzący, jesteśmy
+        zobowiązani uczestniczyć w&nbsp;tym dniu we&nbsp;Mszy Świętej
+        i&nbsp;powstrzymać się od&nbsp;prac niekoniecznych. Porządek Mszy
+        świętych w&nbsp;uroczystość – niedzielny. Na&nbsp;każdej Mszy Świętej
+        będzie błogosławieństwo ziół i&nbsp;kwiatów.</p>
+        <p>3. W&nbsp;sobotę w&nbsp;naszej parafii będziemy przeżywać dożynki.
+        Msza Święta dziękczynna za&nbsp;tegoroczne plony w&nbsp;sobotę
+        o&nbsp;godz.&nbsp;15:00, a&nbsp;po&nbsp;Mszy Świętej dalsza część
+        uroczystości na&nbsp;placu przy świetlicy wiejskiej w&nbsp;Milczanach
+        o&nbsp;godz.&nbsp;16:30. Zapraszamy do&nbsp;wspólnego świętowania.</p>
+        <p>4. Serdecznie zapraszamy na&nbsp;koncert śpiewu gregoriańskiego
+        ku&nbsp;czci Najświętszej Maryi Panny Wniebowziętej w&nbsp;wykonaniu
+        zespołu Schola Gregoriana Sandomiriensis. Koncert odbędzie się
+        w&nbsp;niedzielę, 16&nbsp;sierpnia o&nbsp;godz.&nbsp;16:00
+        w&nbsp;Bazylice Katedralnej w&nbsp;Sandomierzu.</p>
+        <p>5. Przypominamy, że&nbsp;trwa sierpień, który jest miesiącem
+        modlitw o&nbsp;trzeźwość narodu polskiego.</p>
+        <p>6. Wyższe Seminarium Duchowne w&nbsp;Sandomierzu przyjmuje
+        zgłoszenia nowych kandydatów, którzy chcieliby rozpocząć studia
+        i&nbsp;formację przygotowujące do&nbsp;sakramentu kapłaństwa. Chętni
+        mogą zgłaszać się osobiście w&nbsp;budynku seminarium, przy
+        ul.&nbsp;Żeromskiego 6.</p>
+        <p>7. Dziękujemy wszystkim parafianom za&nbsp;modlitwę, wszelką pomoc
+        i&nbsp;składane ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy
+        błogosławionej niedzieli.</p>
+        <p>8. W&nbsp;tym tygodniu do&nbsp;wieczności odszedł nasz parafianin
+        śp.&nbsp;Jan Kucharczak. Polecamy go&nbsp;Bożemu Miłosierdziu.
+        <em>Wieczne odpoczywanie racz mu dać, Panie.</em></p>
+        <p>
+            <span style="float: left;">Sandomierz, 9.&nbsp;sierpnia 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
