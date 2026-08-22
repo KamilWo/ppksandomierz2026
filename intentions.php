@@ -1,175 +1,172 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            17.08 – 23.08.2026&nbsp;r.
+            24.08 – 30.08.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 17&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Jacka</b></td>
+            <td><b>PONIEDZIAŁEK, 24&nbsp;sierpnia</b></td>
+            <td><b>Święto św.&nbsp;Bartłomieja Apostoła</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Marka Steca
++ Stanisława Łukawskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Tomasza Płatosa<br>
-2. Dziękczynna za&nbsp;dar życia Witka<br>
-3. + Marka Ziębę <strong>(poza parafią)</strong>
+1. + Martę Łabęcką<br>
+2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Marii i&nbsp;Adama w&nbsp;55&nbsp;rocznicę ślubu
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 18&nbsp;sierpnia</b></td>
-            <td><b>Wtorek 20&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 25&nbsp;sierpnia</b></td>
+            <td><b>Wtorek 21&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Wacława Boryckiego
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Marzeny i&nbsp;Sylwestra
+    w&nbsp;30&nbsp;rocznicę ślubu
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Stanisława Kabzę, Otylię i&nbsp;Józefa Kabzów<br>
-2. O&nbsp;Boże błogosławieństwo i&nbsp;opiekę NMP<br>
-2. + Zofię Świerkulę <strong>(poza parafią)</strong>
+1. + Zofię Kuminek<br>
+2. + Monikę Bernaś
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 19&nbsp;sierpnia</b></td>
-            <td><b>Środa 20&nbsp;tygodnia zwykłego</b></td>
+            <td><b>ŚRODA, 26&nbsp;sierpnia</b></td>
+            <td><b>Uroczystość NMP Częstochowskiej</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Mariana Cąbrowskiego
+Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, zdrowie,
+    potrzebne łaski, opiekę NMP dla matki i&nbsp;syna
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    rodzin Biało i&nbsp;Spadło<br>
-2. + Henrykę Kulczycką<br>
-3. + Jerzego Jakubczyka <strong>(poza parafią)</strong>
+1. + Zofie i&nbsp;Mariana Krawczyków, Mariannę i&nbsp;Józefa Mądrych<br>
+2. + Dorotę i&nbsp;Leszka Budzińskich
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 20&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Bernarda</b></td>
+            <td><b>CZWARTEK, 27&nbsp;sierpnia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Moniki</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Jerzego Janiszewskiego (2&nbsp;rocz. śm.)
++ Marka Ziębę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Jerzego Gawrońskiego, Stanisława i&nbsp;Stefanię Kołodziej<br>
-2. + Krystynę Szlufik<br>
-3. + Jana Jakułę <strong>(poza parafią)</strong>
+1. + Gustawa Polita (10&nbsp;rocz. śm.)<br>
+2. + Adama Mazura
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 21&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Piusa&nbsp;X, papieża</b></td>
+            <td><b>PIĄTEK, 28&nbsp;sierpnia</b></td>
+            <td><b>Wspomnienie św.&nbsp;Augustyna, biskupa
+            i&nbsp;doktora Kościoła</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Helenę Gajewską
++ Mieczysława Kunkiewicza
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Macieja w&nbsp;30&nbsp;rocznicę urodzin<br>
-2. + Stanisława Sapielaka<br>
-3. + Stanisławę Banasiewicz <strong>(poza parafią)</strong>
+1. + Krystynę Kuśmirę<br>
+2. + Jana Jakułę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 22&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie NMP Królowej</b></td>
+            <td><b>SOBOTA, 29&nbsp;sierpnia</b></td>
+            <td><b>Wspomnienie męczeństwa św.&nbsp;Jana
+            Chrzciela</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Seweryna Polewskiego
++ Emilię i&nbsp;Szczepana Dudków, zmarłych z&nbsp;rodziny i&nbsp;dusze
+    w&nbsp;czyśćcu cierpiące
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Sławomira Rykowskiego (rocz. śm.)<br>
-2. + Annę Gach<br>
-3. + Czesława Zeliasia <strong>(poza parafią)</strong>
+1. + Małgorzatę Michalską<br>
+2. W&nbsp;intencji Parafian
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 23&nbsp;sierpnia</b></td>
+            <td><b>NIEDZIELA, 30&nbsp;sierpnia</b></td>
             <td><b>
-                <span style="color: red">XXI&nbsp;niedziela zwykła,
+                <span style="color: red">XXII&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Tadeusza Fijałkowskiego
++ Anielę, Stefana, Jana Jędrzejewskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Eugenię, Marię, Teresę, Stefana Koronów, Annę, Stanisława, Leszka,
-    Jana, Henryka, Justynę, Teresę Sapielaków, Stanisława Sapielaka
++ Genowefę Kordos, Mariannę Pliżgę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
 Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Haliny i&nbsp;Leszka w&nbsp;45&nbsp;rocznicę
-    ślubu oraz Rity w&nbsp;2&nbsp;rocznicę urodzin
+    łaski, opiekę NMP dla Barbary i&nbsp;Krzysztofa Bidasów
+    z&nbsp;okazji 50&nbsp;rocznicy ślubu
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-W&nbsp;intencji Parafian
++ Łucję (rocz. śm.), Wojciecha, Dionizego, Książków, Reginę, Józefa
+    Buczków, Zofię, Mariana Wróblewskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Michała i&nbsp;Gabriela z&nbsp;okazji
-    urodzin<br>
-2. + Juliana Dragana <strong>(poza parafią)</strong>
+1. + Izabelę Serebak (5&nbsp;rocz. śm.)<br>
+2. + Juliana Dragana
             </td>
         </tr>
     </tbody>
