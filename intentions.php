@@ -1,172 +1,182 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            24.08 – 30.08.2026&nbsp;r.
+            31.08 – 6.09.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 24&nbsp;sierpnia</b></td>
-            <td><b>Święto św.&nbsp;Bartłomieja Apostoła</b></td>
+            <td><b>PONIEDZIAŁEK, 31&nbsp;września</b></td>
+            <td><b>Poniedziałek 22&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Stanisława Łukawskiego
++ Halinę Hagdej (5&nbsp;rocz. śm.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Martę Łabęcką<br>
-2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Marii i&nbsp;Adama w&nbsp;55&nbsp;rocznicę ślubu
+1. Lucjana Wódz (7&nbsp;rocz. śm.), Wandę i&nbsp;Jana Stróż<br>
+2. + Mateusza Frańczaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 25&nbsp;sierpnia</b></td>
-            <td><b>Wtorek 21&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 1&nbsp;września</b></td>
+            <td><b>Wtorek 22&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Marzeny i&nbsp;Sylwestra
-    w&nbsp;30&nbsp;rocznicę ślubu
++ Mariana Biało (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">8.00</td>
+            <td>
++ Henryka Piętowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Zofię Kuminek<br>
-2. + Monikę Bernaś
+1. + Janinę Ziębę (greg.)<br>
+2. + Wojciecha Stolę, Jacka Stolę (5&nbsp;rocz. śm.), Bogusława Wnuka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 26&nbsp;sierpnia</b></td>
-            <td><b>Uroczystość NMP Częstochowskiej</b></td>
+            <td><b>ŚRODA, 2&nbsp;września</b></td>
+            <td><b>Środa 22&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, zdrowie,
-    potrzebne łaski, opiekę NMP dla matki i&nbsp;syna
+1. + Zofię, Stanisława Kubik<br>
+2. + Stanisława Łukawskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Zofie i&nbsp;Mariana Krawczyków, Mariannę i&nbsp;Józefa Mądrych<br>
-2. + Dorotę i&nbsp;Leszka Budzińskich
+1. + Mariana Biało (greg.)<br>
+2. + Janinę Ziębę (greg.)<br>
+3. + Stanisławę Banasiewicz
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 27&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Moniki</b></td>
+            <td><b>CZWARTEK, 3&nbsp;września</b></td>
+            <td><b>Wspomnienie św.&nbsp;Grzegorza Wielkiego,
+            papieża</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Marka Ziębę
+1. O&nbsp;nowe powołania i&nbsp;świętość kapłanów<br>
+2. + Mieczysława Frydla
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Gustawa Polita (10&nbsp;rocz. śm.)<br>
-2. + Adama Mazura
+1. + Mariana Biało (greg.)<br>
+2. + Janinę Ziębę (greg.)<br>
+3. + Henryka Piętowskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 28&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie św.&nbsp;Augustyna, biskupa
-            i&nbsp;doktora Kościoła</b></td>
+            <td><b>PIĄTEK, 4&nbsp;września</b></td>
+            <td><b>I&nbsp;piątek miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Mieczysława Kunkiewicza
+1. O&nbsp;łaskę dobrej śmierci<br>
+2. + Mariana Cąbrowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Krystynę Kuśmirę<br>
-2. + Jana Jakułę
+1. + Mariana Biało (greg.)<br>
+2. + Janinę Ziębę (greg.)<br>
+3. + Kazimierę Sadaj
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 29&nbsp;sierpnia</b></td>
-            <td><b>Wspomnienie męczeństwa św.&nbsp;Jana
-            Chrzciela</b></td>
+            <td><b>SOBOTA, 5&nbsp;września</b></td>
+            <td><b>I&nbsp;sobota miesiąca</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Emilię i&nbsp;Szczepana Dudków, zmarłych z&nbsp;rodziny i&nbsp;dusze
-    w&nbsp;czyśćcu cierpiące
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    dzieci i&nbsp;chrześniaków<br>
+2. + Janinę Ziębę (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
+            <td class="center">9.30</td>
             <td>
-1. + Małgorzatę Michalską<br>
-2. W&nbsp;intencji Parafian
+1. Wynagradzająca za&nbsp;grzechy popełnione przeciw Niepokalanemu
+    Sercu NMP<br>
+2. + Mariana Biało (greg.)
+
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 30&nbsp;sierpnia</b></td>
+            <td><b>NIEDZIELA, 6&nbsp;września</b></td>
             <td><b>
-                <span style="color: red">XXII&nbsp;niedziela zwykła,
+                <span style="color: red">XXIII&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Anielę, Stefana, Jana Jędrzejewskich
++ Mariana Biało (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Genowefę Kordos, Mariannę Pliżgę
++ Teresę (rocz. śm.), Eugeniusza Paciochów i&nbsp;zm. z&nbsp;rodziny
+    Paluchów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Barbary i&nbsp;Krzysztofa Bidasów
-    z&nbsp;okazji 50&nbsp;rocznicy ślubu
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla sióstr i&nbsp;braci z&nbsp;Koła Żywego
+    Różańca (p.&nbsp;Jadwigi Mojduszko)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Łucję (rocz. śm.), Wojciecha, Dionizego, Książków, Reginę, Józefa
-    Buczków, Zofię, Mariana Wróblewskich
++ Janinę Ziębę (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Izabelę Serebak (5&nbsp;rocz. śm.)<br>
-2. + Juliana Dragana
+1. + Juliana Dragana<br>
+2. + W&nbsp;intencji Parafian
             </td>
         </tr>
     </tbody>
