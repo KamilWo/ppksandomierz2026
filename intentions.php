@@ -8,140 +8,135 @@
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 31&nbsp;września</b></td>
-            <td><b>Poniedziałek 22&nbsp;tygodnia zwykłego</b></td>
+            <td><b>PONIEDZIAŁEK, 7&nbsp;września</b></td>
+            <td><b>Poniedziałek 23&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-+ Halinę Hagdej (5&nbsp;rocz. śm.)
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. Lucjana Wódz (7&nbsp;rocz. śm.), Wandę i&nbsp;Jana Stróż<br>
-2. + Mateusza Frańczaka
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 1&nbsp;września</b></td>
-            <td><b>Wtorek 22&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-+ Mariana Biało (greg.)
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">8.00</td>
-            <td>
-+ Henryka Piętowskiego
+1. + Mariana Biało (greg.)<br>
+2. + Seweryna Polewskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
 1. + Janinę Ziębę (greg.)<br>
-2. + Wojciecha Stolę, Jacka Stolę (5&nbsp;rocz. śm.), Bogusława Wnuka
+2. + Jana, Stefanię Stąporowskich, Mariannę i&nbsp;Stefana Kołeczek
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 2&nbsp;września</b></td>
-            <td><b>Środa 22&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 8&nbsp;września</b></td>
+            <td><b>Święto Narodzenia NMP</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Zofię, Stanisława Kubik<br>
-2. + Stanisława Łukawskiego
+1. + Mariana Biało (greg.)<br>
+2. + Helenę Gajewską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;wyzwolenie z&nbsp;lęku dla pogrążonych w&nbsp;nałogach
+    i&nbsp;ich rodzin<br>
+2. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 9&nbsp;września</b></td>
+            <td><b>Środa 23&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Radzimowskiego (10&nbsp;rocz. śm.)<br>
+2. + Gustawa Kaniosa
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
 1. + Mariana Biało (greg.)<br>
-2. + Janinę Ziębę (greg.)<br>
-3. + Stanisławę Banasiewicz
+2. + Janinę Ziębę (greg.)
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 3&nbsp;września</b></td>
-            <td><b>Wspomnienie św.&nbsp;Grzegorza Wielkiego,
-            papieża</b></td>
+            <td><b>CZWARTEK, 10&nbsp;września</b></td>
+            <td><b>Czwartek 23&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;nowe powołania i&nbsp;świętość kapłanów<br>
-2. + Mieczysława Frydla
+1. + Mariana Biało (greg.)<br>
+2. + Seweryna Polewskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
+1. + Zofię Strzębską (rocz. śm.)<br>
+2. + Mariannę Chmiel<br>
+3. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 11&nbsp;września</b></td>
+            <td><b>Piątek 23&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
 1. + Mariana Biało (greg.)<br>
-2. + Janinę Ziębę (greg.)<br>
+2. O&nbsp;nawrócenie Alberta, Remka, Grzegorza, Beaty i&nbsp;Leszka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Wandę i&nbsp;Michała, Urszulę i&nbsp;Marka Niezgodów<br>
 3. + Henryka Piętowskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 4&nbsp;września</b></td>
-            <td><b>I&nbsp;piątek miesiąca</b></td>
+            <td><b>SOBOTA, 12&nbsp;września</b></td>
+            <td><b>Wspomnienie Najświętszego Imienia Maryi</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;łaskę dobrej śmierci<br>
-2. + Mariana Cąbrowskiego
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Mariana Biało (greg.)<br>
-2. + Janinę Ziębę (greg.)<br>
-3. + Kazimierę Sadaj
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 5&nbsp;września</b></td>
-            <td><b>I&nbsp;sobota miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    dzieci i&nbsp;chrześniaków<br>
-2. + Janinę Ziębę (greg.)
+1. + Honoratę i Henryka, zmarłych z&nbsp;ich rodzin i&nbsp;dusze
+    w&nbsp;czyśćcu cierpiące<br>
+2. + Romualda Furmana
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-1. Wynagradzająca za&nbsp;grzechy popełnione przeciw Niepokalanemu
-    Sercu NMP<br>
-2. + Mariana Biało (greg.)
+1. + Mariana Biało (greg.)<br>
+2. + Janinę Ziębę (greg.)<br>
+3. + Stanisławę Banasiewicz
 
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 6&nbsp;września</b></td>
+            <td><b>NIEDZIELA, 13&nbsp;września</b></td>
             <td><b>
-                <span style="color: red">XXIII&nbsp;niedziela zwykła,
+                <span style="color: red">XXIV&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
@@ -154,29 +149,30 @@
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Teresę (rocz. śm.), Eugeniusza Paciochów i&nbsp;zm. z&nbsp;rodziny
-    Paluchów
++ Stanisława, Zofię, Marię Stępniów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla sióstr i&nbsp;braci z&nbsp;Koła Żywego
-    Różańca (p.&nbsp;Jadwigi Mojduszko)
++ Annę (3&nbsp;rocz. śm.) i&nbsp;Władysława Strawczyńskich
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Janinę Ziębę (greg.)
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Andrzeja w&nbsp;18&nbsp;rocznicę urodzin<br>
+2. + Janinę Ziębę (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Juliana Dragana<br>
-2. + W&nbsp;intencji Parafian
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Anny i&nbsp;Zbigniewa
+    w&nbsp;50&nbsp;rocznicę ślubu<br>
+2. W&nbsp;intencji Parafian
             </td>
         </tr>
     </tbody>
