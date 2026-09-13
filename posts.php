@@ -1,71 +1,55 @@
 <div class="card">
     <div class="card-header">
-        <h3>6.&nbsp;września 2026&nbsp;r.</h3>
-        <h3>XXIII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>13.&nbsp;września 2026&nbsp;r.</h3>
+        <h3>XXIV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;tym tygodniu oddajemy część Matce Najświętszej.
-        We&nbsp;wtorek obchodzimy święto Jej narodzenia – odpust
-        w&nbsp;bazylice katedralnej. W&nbsp;sobotę wspomnienie Najświętszego
-        Imienia Maryi.</p>
-        <p>2. Jutro, w&nbsp;poniedziałek <strong>7 września</strong>, wyruszy
-        piesza pielgrzymka z&nbsp;Sandomierza do&nbsp;Sulisławic. Rozpoczęcie
-        o&nbsp;8.15 w&nbsp;katedrze. Msza Święta w&nbsp;Sulisławicach
-        o&nbsp;godzinie 18.00. Szczegóły na&nbsp;plakacie.</p>
-        <p>3. Na&nbsp;piątek <strong>11&nbsp;września</strong>, po&nbsp;Mszy
-        świętej wieczornej, a&nbsp;więc na&nbsp;godz.&nbsp;18.30 zapraszamy
-        rodziców dzieci pierwszokomunijnych, na&nbsp;spotkanie dotyczące
-        przygotowań do&nbsp;pierwszej komunii.</p>
-        <p>4. W&nbsp;niedzielę <strong>13&nbsp;września
-        o&nbsp;godz.&nbsp;16.00</strong> w&nbsp;naszym kościele wystąpi
-        krakowski Teatr Exit ze&nbsp;swoim niezwykłym spektaklem „Misterium
-        Miłosierdzia”. Zapraszamy wszystkich, którzy pragną zatrzymać się
-        na&nbsp;chwilę, przeżyć coś pięknego i&nbsp;pozwolić, by&nbsp;orędzie
-        Bożego Miłosierdzia dotknęło serca.</p>
-        <p>5. <strong>19&nbsp;września</strong> organizowana jest jak
-        co&nbsp;roku Pielgrzymka Mężczyzn do&nbsp;Sanktuarium św.&nbsp;Józefa
-        w&nbsp;Nisku. Spotkanie rozpoczyna się o&nbsp;godz.&nbsp;10.00.
-        Zachęcamy mężczyzn do&nbsp;udziału i&nbsp;oddanie się w&nbsp;opiekę
-        tego szczególnego Patrona. Szczegóły wydarzenia na&nbsp;plakacie.</p>
-        <p>6. Od&nbsp;jutra rozpoczynamy spotkania dla ministrantów, które
-        będą się odbywać w&nbsp;poniedziałki. Dla młodszych ministrantów
-        i&nbsp;tych, którzy chcieliby zostać ministrantami, zbiórki będą
-        w&nbsp;poniedziałki o&nbsp;godz.&nbsp;16:00 w&nbsp;kościele. Dla
-        starszych ministrantów i&nbsp;lektorów spotkania w&nbsp;poniedziałki,
-        ale po&nbsp;Mszy Świętej wieczorowej, ok.&nbsp;18:30.</p>
-        <p>7. Rozpoczynamy również przygotwania do&nbsp;Mistrzostw Polski
-        w&nbsp;piłkę nożną halową i&nbsp;wznawiamy treningi drużyny LSO
-        Sandomierz. Dla szkoły średniej zajęcia będą odbywać się w&nbsp;każdy
-        poniedziałek na&nbsp;hali sportowej „pod balonem” przy szkole
-        podstawowej nr&nbsp;1 od&nbsp;19:30 do&nbsp;21:00. Dla młodszych
-        zajęcia będą na&nbsp;hali sportowej szkoły podstawowej nr&nbsp;4 przy
-        ul.&nbsp;Cieśli w&nbsp;soboty o&nbsp;13.</p>
-        <p>8. Wspólnota Gaudete działająca przy naszej Parafii, zaprasza
-        serdecznie na&nbsp;cykl spotkań dotyczących miłosierdzia Bożego.
-        To&nbsp;propozycja dla tych, którzy chcieliby głębiej przygotować się
-        do&nbsp;spotkania z&nbsp;Jezusem Miłosiernym w&nbsp;czasie
-        peregrynacji. Całość obejmuje 14&nbsp;katechez oraz codzienne
-        rozważanie Ewangelii wg&nbsp;św.&nbsp;Łukasza. Spotkania odbywają się
-        w&nbsp;środy o&nbsp;godzinie 18.45. Pierwsze spotkanie
-        w&nbsp;najbliższą środę 9&nbsp;września w&nbsp;salce na&nbsp;plebanii.</p>
-        <p>9. W&nbsp;dniach <strong>30&nbsp;kwietnia – 3&nbsp;maja
-        2027&nbsp;r.</strong> (piątek-poniedziałek) odbędzie się autokarowa
-        pielgrzymka śladami Miłosierdzia Bożego do&nbsp;Milejczyc, Wilna
-        i&nbsp;Sokółki. Szczegółowe informacje u&nbsp;ks.&nbsp;Krystiana.
-        Natomiast informacje co&nbsp;do&nbsp;planowanej pielgrzymki
-        samolotowej śladami św.&nbsp;Pawła na&nbsp;Cypr zostaną podane
-        w&nbsp;najbliższym czasie.</p>
-        <p>10. Bardzo dziękujemy za&nbsp;pomoc przy wczorajszym generalnym
-        sprzątaniu kościoła.</p>
-        <p>11. Prosimy o&nbsp;odebranie planu Mszy Świętych gregoriańskich
-        za&nbsp;śp.&nbsp;Janinę Ziębę.</p>
-        <p>12. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
-        parafii. Szczególnie za&nbsp;ofiary składane na&nbsp;prace
-        w&nbsp;kościele. Wszystkim obchodzącym imieniny, rocznice, jubileusze
-        składamy serdeczne życzenia. Drogim Parafianom i&nbsp;miłym Gościom
-        życzymy dobrej niedzieli!</p>
+        <p>1. Jutro, 14&nbsp;września, obchodzimy odpust Podwyższenia Krzyża
+        Świętego. Zapraszamy na&nbsp;Msze Święte o&nbsp;godzinie 6.30, 9.00
+        i&nbsp;18.00.</p>
+        <p>2. We&nbsp;wtorek, 15&nbsp;września, we&nbsp;wspomnienie Matki
+        Bożej Bolesnej przypada pierwsza rocznica śmierci księdza proboszcza
+        Stanisława Chmielewskiego. Zapraszamy do&nbsp;modlitwy w&nbsp;Jego
+        intencji na&nbsp;Mszę Świętą o&nbsp;godzinie 18.00.</p>
+        <p>3. W&nbsp;odpust parafialny 14&nbsp;września
+        od&nbsp;godz.&nbsp;10.00 do&nbsp;18.00 oraz we&nbsp;wtorek
+        15&nbsp;września będziemy mogli adorować Pana Jezusa
+        w&nbsp;monstrancji fatimskiej. Ponieważ adoracja w&nbsp;te&nbsp;dwa
+        dni będzie na&nbsp;ołtarzu głównym, zachęcamy, aby przez cały dzień
+        ktoś trwał na&nbsp;modlitwie przed Panem Jezusem. Lista
+        z&nbsp;godzinami wyłożona jest na&nbsp;stoliku pod chórem. Zapraszamy
+        do&nbsp;wpisania się na&nbsp;konkretne pół godziny modlitwy.</p>
+        <p>4. 17&nbsp;września obchodzimy rocznicę poświęcenia naszego
+        kościoła.</p>
+        <p>5. Próby scholi w&nbsp;tym roku odbywają się w&nbsp;tym semestrze
+        w&nbsp;soboty o&nbsp;godz.&nbsp;9.00. Serdecznie zapraszamy!</p>
+        <p>6. W&nbsp;przyszłą niedzielę 20&nbsp;września na&nbsp;Mszy Świętej
+        o&nbsp;godz.&nbsp;12.30 poświęcimy tornistry dzieciom. Zachęcamy, żeby
+        tego dnia do&nbsp;kościoła przyjść ze&nbsp;szkolnym plecakiem.</p>
+        <p>7. W&nbsp;dniach 30&nbsp;kwietnia – 3&nbsp;maja 2027&nbsp;r.
+        (piątek-poniedziałek) odbędzie się autokarowa pielgrzymka śladami
+        Miłosierdzia Bożego do&nbsp;Milejczyc, Wilna i&nbsp;Sokółki.
+        Szczegółowe informacje u&nbsp;ks.&nbsp;Krystiana. Natomiast informacje
+        co&nbsp;do&nbsp;planowanej pielgrzymki samolotowej śladami
+        św.&nbsp;Pawła na&nbsp;Cypr zostaną podane w&nbsp;najbliższym czasie.</p>
+        <p>8. Dzisiaj na&nbsp;Mszy jest z&nbsp;nami Pani Magdalena Woźniak
+        z&nbsp;Fundacji Anioły Miłosierdzia. Fundacja ta&nbsp;wspiera jedyne
+        hospicjum dla dzieci i&nbsp;dorosłych na&nbsp;Litwie, a&nbsp;także
+        współpracuje z&nbsp;Teatrem Exit. Po każdej Mszy&nbsp;Św. będzie
+        prowadzona zbiórka do&nbsp;puszek na&nbsp;rzecz Fundacji Anioły
+        Miłosierdzia. Zbiórka odbędzie się również po&nbsp;dzisiejszym
+        spektaklu "Misterium Miłosierdzia". Zachęcamy do&nbsp;wsparcia tej
+        inicjatywy i&nbsp;z&nbsp;góry dziękujemy za&nbsp;każdą okazaną
+        pomoc.</p>
+        <p>9. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończyła
+        nasza parafianka Bogusława Puzio. Polećmy Ją&nbsp;Bożemu
+        Miłosierdziu.</p>
+        <p>10. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
+        błogosławionej niedzieli!</p>
         <p>
-            <span style="float: left;">Sandomierz, 6.&nbsp;września 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 13.&nbsp;września 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>
