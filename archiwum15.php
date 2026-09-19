@@ -19,7 +19,268 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 13.&nbsp;września 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 20.&nbsp;września 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            14.09 – 20.09.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 14&nbsp;września</b></td>
+            <td><b>Święto Podwyższenia Krzyża Świętego – Odpust
+            parafialny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Moniki z&nbsp;okazji urodzin
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.00</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Marię, Władysława, Czesława Barańskich, Władysławę
+    i&nbsp;Andrzeja Krawczyków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Parafian<br>
+2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
+    Wojciecha i&nbsp;Weroniki w&nbsp;1&nbsp;rocznicę ślubu<br>
+3. + Jakuba Smardz
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 15&nbsp;września</b></td>
+            <td><b>Wspomnienie NMP Bolesnej<br>
+            Rocznica śmierci księdza proboszcza Stanisława
+            Chmielewskiego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Bogusławę Maur (rocz. śm.), Teresę Ryba, Andrzeja Mazura (rocz.
+    śm.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski, opiekę NMP dla Ireny w&nbsp;80&nbsp;rocz. urodzin<br>
+3. + Janinę Ziębę (greg.)<br>
+4. + Jana, Helenę, Stanisława Wnuków, Mariannę, Władysława, Jana
+    Lipców, Annę Tomaszewską
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 16&nbsp;września</b></td>
+            <td><b>Wspomnienie świętych Korneliusza
+            i&nbsp;Cypriana</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Mateusza Frańczaka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Mariannę i&nbsp;Ryszarda Gajewskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 17&nbsp;września</b></td>
+            <td><b>Rocznica Poświęcenia Kościoła</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Mariannę, Tadeusza Musiałów, Helene i&nbsp;Józefa Prychocenów,
+    zmarłych z&nbsp;rodzin Musiałów i&nbsp;Prychocenów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Stefanię (14&nbsp;rocz. śm.), Kazimierza, Jana, Stanisława
+    Jerzego Słodowników<br>
+2. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 18&nbsp;września</b></td>
+            <td><b>Święto św.&nbsp;Stanisława Kostki</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Henryka Piętowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + ks.&nbsp;Stanisława Chmielewskiego<br>
+2. + Mariana Biało (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 19&nbsp;września</b></td>
+            <td><b>Sobota 24&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Marcina, Stasia Iluk
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">14.00</td>
+            <td>
+Msza Święta ślubna
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mieczysława, Mariannę, Józefa i&nbsp;zmarłych z&nbsp;rodziny<br>
+2. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 20&nbsp;września</b></td>
+            <td><b>
+                <span style="color: red">XXV&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Mariana Biało (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+1. + Romana Polita<br>
+2. W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla rodzin
+    z&nbsp;Domowego Kościoła
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Mieczysława (rocz.) Danutę, Michała, Helenę Pawlikowskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Juliana Dragana<br>
+2. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>13.&nbsp;września 2026&nbsp;r.</h3>
+        <h3>XXIV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Jutro, 14&nbsp;września, obchodzimy odpust Podwyższenia Krzyża
+        Świętego. Zapraszamy na&nbsp;Msze Święte o&nbsp;godzinie 6.30, 9.00
+        i&nbsp;18.00.</p>
+        <p>2. We&nbsp;wtorek, 15&nbsp;września, we&nbsp;wspomnienie Matki
+        Bożej Bolesnej przypada pierwsza rocznica śmierci księdza proboszcza
+        Stanisława Chmielewskiego. Zapraszamy do&nbsp;modlitwy w&nbsp;Jego
+        intencji na&nbsp;Mszę Świętą o&nbsp;godzinie 18.00.</p>
+        <p>3. W&nbsp;odpust parafialny 14&nbsp;września
+        od&nbsp;godz.&nbsp;10.00 do&nbsp;18.00 oraz we&nbsp;wtorek
+        15&nbsp;września będziemy mogli adorować Pana Jezusa
+        w&nbsp;monstrancji fatimskiej. Ponieważ adoracja w&nbsp;te&nbsp;dwa
+        dni będzie na&nbsp;ołtarzu głównym, zachęcamy, aby przez cały dzień
+        ktoś trwał na&nbsp;modlitwie przed Panem Jezusem. Lista
+        z&nbsp;godzinami wyłożona jest na&nbsp;stoliku pod chórem. Zapraszamy
+        do&nbsp;wpisania się na&nbsp;konkretne pół godziny modlitwy.</p>
+        <p>4. 17&nbsp;września obchodzimy rocznicę poświęcenia naszego
+        kościoła.</p>
+        <p>5. Próby scholi w&nbsp;tym roku odbywają się w&nbsp;tym semestrze
+        w&nbsp;soboty o&nbsp;godz.&nbsp;9.00. Serdecznie zapraszamy!</p>
+        <p>6. W&nbsp;przyszłą niedzielę 20&nbsp;września na&nbsp;Mszy Świętej
+        o&nbsp;godz.&nbsp;12.30 poświęcimy tornistry dzieciom. Zachęcamy, żeby
+        tego dnia do&nbsp;kościoła przyjść ze&nbsp;szkolnym plecakiem.</p>
+        <p>7. W&nbsp;dniach 30&nbsp;kwietnia – 3&nbsp;maja 2027&nbsp;r.
+        (piątek-poniedziałek) odbędzie się autokarowa pielgrzymka śladami
+        Miłosierdzia Bożego do&nbsp;Milejczyc, Wilna i&nbsp;Sokółki.
+        Szczegółowe informacje u&nbsp;ks.&nbsp;Krystiana. Natomiast informacje
+        co&nbsp;do&nbsp;planowanej pielgrzymki samolotowej śladami
+        św.&nbsp;Pawła na&nbsp;Cypr zostaną podane w&nbsp;najbliższym czasie.</p>
+        <p>8. Dzisiaj na&nbsp;Mszy jest z&nbsp;nami Pani Magdalena Woźniak
+        z&nbsp;Fundacji Anioły Miłosierdzia. Fundacja ta&nbsp;wspiera jedyne
+        hospicjum dla dzieci i&nbsp;dorosłych na&nbsp;Litwie, a&nbsp;także
+        współpracuje z&nbsp;Teatrem Exit. Po każdej Mszy&nbsp;Św. będzie
+        prowadzona zbiórka do&nbsp;puszek na&nbsp;rzecz Fundacji Anioły
+        Miłosierdzia. Zbiórka odbędzie się również po&nbsp;dzisiejszym
+        spektaklu "Misterium Miłosierdzia". Zachęcamy do&nbsp;wsparcia tej
+        inicjatywy i&nbsp;z&nbsp;góry dziękujemy za&nbsp;każdą okazaną
+        pomoc.</p>
+        <p>9. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończyła
+        nasza parafianka Bogusława Puzio. Polećmy Ją&nbsp;Bożemu
+        Miłosierdziu.</p>
+        <p>10. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
+        błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 13.&nbsp;września 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>

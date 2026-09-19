@@ -1,166 +1,141 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            14.09 – 20.09.2026&nbsp;r.
+            21.09 – 27.09.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 14&nbsp;września</b></td>
-            <td><b>Święto Podwyższenia Krzyża Świętego – Odpust
-            parafialny</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Janinę Ziębę (greg.)<br>
-2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Moniki z&nbsp;okazji urodzin
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>
-1. + Mariana Biało (greg.)<br>
-2. + Marię, Władysława, Czesława Barańskich, Władysławę
-    i&nbsp;Andrzeja Krawczyków
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. W&nbsp;intencji Parafian<br>
-2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Wojciecha i&nbsp;Weroniki w&nbsp;1&nbsp;rocznicę ślubu<br>
-3. + Jakuba Smardz
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 15&nbsp;września</b></td>
-            <td><b>Wspomnienie NMP Bolesnej<br>
-            Rocznica śmierci księdza proboszcza Stanisława
-            Chmielewskiego</b></td>
+            <td><b>PONIEDZIAŁEK, 21&nbsp;września</b></td>
+            <td><b>Święto Św.&nbsp;Mateusza Ewangelisty</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
 1. + Mariana Biało (greg.)<br>
-2. + Bogusławę Maur (rocz. śm.), Teresę Ryba, Andrzeja Mazura (rocz.
-    śm.)
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski, opiekę NMP dla Ireny w&nbsp;80&nbsp;rocz. urodzin<br>
-3. + Janinę Ziębę (greg.)<br>
-4. + Jana, Helenę, Stanisława Wnuków, Mariannę, Władysława, Jana
-    Lipców, Annę Tomaszewską
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 16&nbsp;września</b></td>
-            <td><b>Wspomnienie świętych Korneliusza
-            i&nbsp;Cypriana</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Janinę Ziębę (greg.)<br>
-2. + Mateusza Frańczaka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Mariana Biało (greg.)<br>
-2. + Mariannę i&nbsp;Ryszarda Gajewskich
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 17&nbsp;września</b></td>
-            <td><b>Rocznica Poświęcenia Kościoła</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Mariana Biało (greg.)<br>
-2. + Mariannę, Tadeusza Musiałów, Helene i&nbsp;Józefa Prychocenów,
-    zmarłych z&nbsp;rodzin Musiałów i&nbsp;Prychocenów
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Stefanię (14&nbsp;rocz. śm.), Kazimierza, Jana, Stanisława
-    Jerzego Słodowników<br>
-2. + Janinę Ziębę (greg.)
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 18&nbsp;września</b></td>
-            <td><b>Święto św.&nbsp;Stanisława Kostki</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Janinę Ziębę (greg.)<br>
 2. + Henryka Piętowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + ks.&nbsp;Stanisława Chmielewskiego<br>
-2. + Mariana Biało (greg.)
+1. + Janinę Ziębę (greg.)<br>
+2. + Anetę Ryzińską
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 19&nbsp;września</b></td>
-            <td><b>Sobota 24&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 22&nbsp;września</b></td>
+            <td><b>Wtorek 25&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariana Biało (greg.)<br>
-2. + Marcina, Stasia Iluk
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">14.00</td>
-            <td>
-Msza Święta ślubna
-
+1. + Janinę Ziębę (greg.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mieczysława, Mariannę, Józefa i&nbsp;zmarłych z&nbsp;rodziny<br>
-2. + Janinę Ziębę (greg.)
-
+1. + Mariana Biało (greg.)<br>
+2. + Aleksandra, Zofię, Mariana Adamczyków, Waldemara Kurtka, Łucję,
+    Zofię, Jana Gozdyckich
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 20&nbsp;września</b></td>
+            <td><b>ŚRODA, 23&nbsp;września</b></td>
+            <td><b>Wspomnienie Św.&nbsp;o.&nbsp;Pio
+            z&nbsp;Pietrelciny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Kazimierę Kiljańską 10&nbsp;rocz. śm.
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 24&nbsp;września</b></td>
+            <td><b>Czwartek 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Małgorzatę Olszak<br>
+2. + Mariana Biało (greg.)<br>
+3. O&nbsp;Boże błog. i&nbsp;potrzebne łaski dla Anny, i&nbsp;Witolda
+    w&nbsp;15&nbsp;rocz. ślubu
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 25&nbsp;września</b></td>
+            <td><b>Piątek 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Annę Gach
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Monikę Bernaś<br>
+2. W&nbsp;intencji chorych w&nbsp;rodzinie<br>
+3. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 26&nbsp;września</b></td>
+            <td><b>Sobota 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Monikę Bernaś<br>
+2. + Mariana Biało (greg.)<br>
+3. + Józefa Kicińskiego 2&nbsp;rocz. śm., zm. z&nbsp;rodz. Kicińskich
+    i&nbsp;Kupków
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 27&nbsp;września</b></td>
             <td><b>
-                <span style="color: red">XXV&nbsp;niedziela zwykła,
+                <span style="color: red">XXVI&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
@@ -173,28 +148,31 @@ Msza Święta ślubna
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-1. + Romana Polita<br>
-2. W&nbsp;intencji Parafian
++ Zdzisława Stolarskiego, zm. z&nbsp;rodz. Stolarskich i&nbsp;Teterów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla rodzin
-    z&nbsp;Domowego Kościoła
+Dziękczynno-błagalna z&nbsp;racji 50&nbsp;rocz. ślubu Anny
+    i&nbsp;Macieja o&nbsp;Boże błog., potrzebne łaski na&nbsp;dalsze
+    lata życia małżeńskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Mieczysława (rocz.) Danutę, Michała, Helenę Pawlikowskich
+1. O&nbsp;Boże błog., opiekę MB dla Bartłomieja w&nbsp;18&nbsp;rocz.
+    ur.<br>
+2. + Janinę Ziębę – greg.
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Juliana Dragana<br>
-2. + Janinę Ziębę (greg.)
+1. O&nbsp;Boże błog., potrzebne łaski dla Karoliny z&nbsp;okazji
+    24&nbsp;rocz. ur.<br>
+2. Za&nbsp;parafian
             </td>
         </tr>
     </tbody>
