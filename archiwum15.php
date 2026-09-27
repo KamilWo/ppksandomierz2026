@@ -19,7 +19,235 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 20.&nbsp;września 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 27.&nbsp;września 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            21.09 – 27.09.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 21&nbsp;września</b></td>
+            <td><b>Święto Św.&nbsp;Mateusza Ewangelisty</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Henryka Piętowskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Anetę Ryzińską
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 22&nbsp;września</b></td>
+            <td><b>Wtorek 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Aleksandra, Zofię, Mariana Adamczyków, Waldemara Kurtka, Łucję,
+    Zofię, Jana Gozdyckich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 23&nbsp;września</b></td>
+            <td><b>Wspomnienie Św.&nbsp;o.&nbsp;Pio
+            z&nbsp;Pietrelciny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Kazimierę Kiljańską 10&nbsp;rocz. śm.
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 24&nbsp;września</b></td>
+            <td><b>Czwartek 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Małgorzatę Olszak<br>
+2. + Mariana Biało (greg.)<br>
+3. O&nbsp;Boże błog. i&nbsp;potrzebne łaski dla Anny, i&nbsp;Witolda
+    w&nbsp;15&nbsp;rocz. ślubu
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 25&nbsp;września</b></td>
+            <td><b>Piątek 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Biało (greg.)<br>
+2. + Annę Gach
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Monikę Bernaś<br>
+2. W&nbsp;intencji chorych w&nbsp;rodzinie<br>
+3. + Janinę Ziębę (greg.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 26&nbsp;września</b></td>
+            <td><b>Sobota 25&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Janinę Ziębę (greg.)<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Monikę Bernaś<br>
+2. + Mariana Biało (greg.)<br>
+3. + Józefa Kicińskiego 2&nbsp;rocz. śm., zm. z&nbsp;rodz. Kicińskich
+    i&nbsp;Kupków
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 27&nbsp;września</b></td>
+            <td><b>
+                <span style="color: red">XXVI&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Mariana Biało (greg.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Zdzisława Stolarskiego, zm. z&nbsp;rodz. Stolarskich i&nbsp;Teterów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+Dziękczynno-błagalna z&nbsp;racji 50&nbsp;rocz. ślubu Anny
+    i&nbsp;Macieja o&nbsp;Boże błog., potrzebne łaski na&nbsp;dalsze
+    lata życia małżeńskiego
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
+1. O&nbsp;Boże błog., opiekę MB dla Bartłomieja w&nbsp;18&nbsp;rocz.
+    ur.<br>
+2. + Janinę Ziębę – greg.
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błog., potrzebne łaski dla Karoliny z&nbsp;okazji
+    24&nbsp;rocz. ur.<br>
+2. Za&nbsp;parafian
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>20.&nbsp;września 2026&nbsp;r.</h3>
+        <h3>XXV&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Młodzież z&nbsp;klas&nbsp;6 i&nbsp;7, która chce przygotowywać
+        się do&nbsp;przyjęcia sakramentu bierzmowania zapraszamy
+        na&nbsp;spotkanie organizacyjne w&nbsp;najbliższy czwartek -
+        <strong>24&nbsp;września</strong>. Spotkanie rozpocznie się
+        o&nbsp;godz.&nbsp;18.30 i&nbsp;potrwa około pół godziny.</p>
+        <p>2. Dzieci, które chciałyby śpiewać w&nbsp;scholii parafialnej
+        zapraszamy na&nbsp;próby scholi, w&nbsp;każdą sobotę
+        o&nbsp;godz.&nbsp;9.00 w&nbsp;salce na&nbsp;plebanii.</p>
+        <p>3. W&nbsp;sobotę – <strong>26&nbsp;września</strong> – zapraszamy
+        na&nbsp;kolejny Wieczór Uwielbienia, początek o&nbsp;godz.&nbsp;18.00.</p>
+        <p>4. Dnia 28&nbsp;września (poniedziałek) w&nbsp;Polsce organizowane
+        jest wydarzenie „Koronka na&nbsp;ulicach świata”. Zapraszamy, aby
+        28&nbsp;września o&nbsp;godz.&nbsp;15.00 zgromadzić się przy
+        przydrożnych kapliczkach i&nbsp;krzyżach, i&nbsp;wspólnie odmówić albo
+        odśpiewać Koronkę do&nbsp;Bożego Miłosierdzia. Szczegóły podany
+        w&nbsp;przyszłą niedzielę.</p>
+        <p>5. W&nbsp;dniach <strong>30&nbsp;kwietnia – 3&nbsp;maja
+        2027&nbsp;r.</strong> (piątek-poniedziałek) odbędzie się autokarowa
+        pielgrzymka śladami Miłosierdzia Bożego do&nbsp;Milejczyc, Wilna
+        i&nbsp;Sokółki. Szczegółowe informacje u&nbsp;ks.&nbsp;Krystiana.</p>
+        <p>6. W&nbsp;ubiegłą niedzielę poprzez zbiórkę prowadzoną przez
+        Fundację <em>Anioły Miłosierdzia</em> na&nbsp;jedyne na Litwie
+        hospicjum dla dzieci i&nbsp;dorosłych w&nbsp;Wilnie zostało zebrane
+        11&nbsp;656&nbsp;zł, 55&nbsp;euro i&nbsp;5&nbsp;USD.</p>
+        <p>7. W&nbsp;ostatnim czasie swoją ziemską pielgrzymkę zakończyła
+        nasza parafianka Jadwiga Marzec. Polećmy Ją&nbsp;Bożemu
+        Miłosierdziu.</p>
+        <p>8. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
+        błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 20.&nbsp;września 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
