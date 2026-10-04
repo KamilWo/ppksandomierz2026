@@ -1,190 +1,181 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            28.09 – 4.10.2026&nbsp;r.
+            5.10 – 11.10.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 28&nbsp;września</b></td>
-            <td><b>Wspomnienie św.&nbsp;Wacława, męczennika</b></td>
+            <td><b>PONIEDZIAŁEK, 5&nbsp;października</b></td>
+            <td><b>Wspomnienie św.&nbsp;Faustyny</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariana Biało (greg.)<br>
-2. + Tomasza Nowaka
+1. + Jana Mikulskiego (1&nbsp;rocz. śm.)
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Janinę Ziębę (greg.)<br>
-2. + Alojzego Ciszkiewicza<br>
-3. + Czesława Zeliasia
+1. + Mariana Strzębskiego<br>
+2. + Wiesławę Śledź (31&nbsp;rocz. śm.)<br>
+3. + Małgorzatę Judę
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 29&nbsp;września</b></td>
-            <td><b>Święto świętych Archaniołów Michała, Gabriela
-            i&nbsp;Rafała</b></td>
+            <td><b>WTOREK, 6&nbsp;października</b></td>
+            <td><b>Wtorek 27&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Mariana Biało (greg.)<br>
-2. + Roberta Wronę, Halinę i&nbsp;Bogusława Wronów
+1. + Zofię Świerkulę<br>
+2. + Barbarę Chorab
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Janinę Ziębę (greg.)<br>
-2. + Juliana Dragana<br>
-3. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP
-    i&nbsp;archanioła Rafała dla księdza Proboszcza
+1. + Alojzego Ciszkiewicza<br>
+2. + Alfonsa Kiliańskiego<br>
+3. + Zofię i&nbsp;Mariana Miękinów
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 30&nbsp;września</b></td>
-            <td><b>Wspomnienie św.&nbsp;Hieronima</b></td>
+            <td><b>ŚRODA, 7&nbsp;października</b></td>
+            <td><b>Wspomnienie NMP Różańcowej</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Janinę Ziębę (greg.)<br>
-2. + Zofię i&nbsp;Mariana Lesiaków
+1. + Mieczysława Frydla<br>
+2. + Adama Sochę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariana Biało (greg.)<br>
-2. + Kazimierę Sadaj<br>
-3. + Mariana i Helenę Wolak
+1. + Jana Marca (11&nbsp;rocz. śm.), Józefę Marzec, Ryszarda
+    Pietruszkę<br>
+2. + Zofię Batóg<br>
+3. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP
+    z&nbsp;okazji 91&nbsp;rocznicy urodzin
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 1&nbsp;października</b></td>
-            <td><b>Wspomnienie św.&nbsp;Teresy od&nbsp;Dzieciątka
-            Jezus</b></td>
+            <td><b>CZWARTEK, 8&nbsp;października</b></td>
+            <td><b>Czwartek 27&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;nowe powołania kapłańskie i&nbsp;świętość kapłanów<br>
-2. + Gustawa Kaniosa
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Dawida z&nbsp;okazji 18&nbsp;rocznicy urodzin<br>
+2. + Adama Sochę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Marie i&nbsp;Jana Polit<br>
-2. + Zofię Kuminek<br>
-3. + Juliana Dragana
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Janiny i&nbsp;Andrzeja z&nbsp;okazji 60&nbsp;rocznicy ślubu<br>
+2. + Stanisława Kabzę (9&nbsp;rocz. śm.), Helenę i&nbsp;Michała
+    Starzyk<br>
+3. + Marka Grębowca
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 2&nbsp;października</b></td>
-            <td><b>Wspomnienie Aniołów Stróżów, I&nbsp;piątek
-            miesiąca</b></td>
+            <td><b>PIĄTEK, 9&nbsp;października</b></td>
+            <td><b>Uroczystość bł.&nbsp;Wincentego Kadłubka, biskupa
+            i&nbsp;zakonnika, patrona miasta</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;łaskę dobrej śmierci<br>
-2. + Lucjana Kryszczyńskiego (3&nbsp;rocz. śm.)<br>
-3. + Bogusławę Puzio
+1. + Ryszarda Czajkowskiego<br>
+2. + Karola Malca
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Andrzeja Wojnę<br>
-2. + Mateusza Frańczaka<br>
-3. + Mariannę (rocz.) i&nbsp;Mariana Marczyk
+1. + Jana Batorskiego (rocz. śm.), Aleksandrę, Jana, Eugeniusza,
+    Piotra Barbachów, Dionizego Książkę<br>
+2. + Tadeusza Kołacza (rocz.), Irenę, Krzysztofa, Mirosława Kołaczów
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 3&nbsp;października</b></td>
-            <td><b>I&nbsp;sobota miesiąca</b></td>
+            <td><b>SOBOTA, 10&nbsp;października</b></td>
+            <td><b>Sobota 27&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    dzieci i&nbsp;chrześniaków<br>
-2. + Stanisława Muchę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">14.00</td>
-            <td>
-Msza Święta ślubna
+1. + Stefanię Kowalską (rocz. śm.), Franciszka Kowalskiego, Marię Woś,
+    Wiesławę Wałcerz<br>
+2. + Karola Malca
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. Intencja wynagradzająca za&nbsp;grzechy przeciw Niepokalanemu Sercu
-    NMP<br>
-2. O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla
-    Teresy Pietruszki
+1. + Wiesława i&nbsp;Tomasza Szyprowskich<br>
+2. + Jana Gajdę (rocz. śm.)
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 4&nbsp;października</b></td>
+            <td><b>NIEDZIELA, 11&nbsp;października</b></td>
             <td><b>
-                <span style="color: red">XXVII&nbsp;niedziela zwykła,
+                <span style="color: red">XXVIII&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Tadeusza i&nbsp;Krystynę Karasińskich
++  W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Cezarego (16&nbsp;rocz. śm.), Teresę, Eugeniusza, Julię, Wacława
-    Paciochów
++ Aleksandra, Tomasza, Michała Krakowiaków
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla Koła
-    Żywego Różańca (zelator p.&nbsp;Halina Kawiorska)
++ Otolię (rocz. śm.) i&nbsp;Czesława Ciach, Małgorzatę Krawczyk
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Stefanię, Aleksandrę Zimnickich, Władysławę, Franciszka, Janusza
-    Plachów
++ Kazimierza Gacha i&nbsp;zm. z&nbsp;rodz. Czajków i&nbsp;Gachów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1.+ Janusza Pawelca<br>
-2. W&nbsp;intencji Parafian
+1.+ Dorotę Kwitek (23&nbsp;rocz. śm.), Edwarda Stefańskiego
+    (7&nbsp;rocz. śm.)<br>
+2. Dziękczynna za&nbsp;otrzymane łaski, z&nbsp;prośbą o&nbsp;Boże
+    błogosławieństwo dla dzieci, wnuków i&nbsp;prawnuka
             </td>
         </tr>
     </tbody>
