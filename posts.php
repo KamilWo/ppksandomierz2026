@@ -28,7 +28,7 @@
         DiakoniaSan, którą można zabrać do&nbsp;domu. Zachęcamy
         do&nbsp;zapoznania się z&nbsp;nimi i&nbsp;do&nbsp;licznego udziału.</p>
         <p>2. W&nbsp;tym tygodniu czcimy: w&nbsp;poniedziałek świętą Faustynę,
-        we&nbsp;wtorek Najświętszą Maryję Pannę Różańcową, w&nbsp;piątek
+        w&nbsp;środę Najświętszą Maryję Pannę Różańcową, w&nbsp;piątek
         błogosławionego Wincentego Kadłubka – patrona Sandomierza
         i&nbsp;diecezji sandomierskiej.</p>
         <p>3. Choć liturgiczne wspomnienie błogosławionego Wincentego wypada
