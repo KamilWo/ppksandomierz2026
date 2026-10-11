@@ -1,73 +1,112 @@
 <div class="card">
     <div class="card-header">
-        <h3>4.&nbsp;października 2026&nbsp;r.</h3>
-        <h3>XXVII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>Katechezy Zwiastowania dla dorosłych i&nbsp;młodzieży</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;dniach 12–18&nbsp;października w&nbsp;naszej diecezji
-        odbędzie się wyjątkowy Tydzień Kultury Chrześcijańskiej. Wydarzenie
-        to, organizowane pod hasłem “Drogi Miłosierdzia”, połączy w&nbsp;sobie
-        teatr, koncerty oraz poruszające świadectwa wiary. Wiele gatunków
-        muzycznych - pop, hip-hop, folk, poezja śpiewana z&nbsp;elementami
-        flamenco i&nbsp;fado, a&nbsp;także zaskakujące aranżacje na&nbsp;harfę
-        i&nbsp;głos. Wstęp na&nbsp;wszystkie spotkania i&nbsp;wydarzenia
-        artystyczne jest całkowicie bezpłatny. Program został przygotowany
-        tak, aby dotrzeć do&nbsp;każdego – od&nbsp;młodzieży szkolnej
-        po&nbsp;osoby starsze i&nbsp;samotne. Na&nbsp;festiwalowej scenie
-        wystąpią wybitni artyści, m.in.&nbsp;niepełnosprawni aktorzy
-        z&nbsp;Teatru EXIT, raper Arkadio, wokalistka AnMari, Cud
-        w&nbsp;Dolinie, Anna Szaja, Kapela Cudzichów i&nbsp;wielu innych
-        wybitnych muzyków sesyjnych. W&nbsp;niedzielę, 18&nbsp;października,
-        odbędzie się wielki finał połączony ze&nbsp;zbiórką charytatywną
-        po&nbsp;Mszach Świętych. Zebrane fundusze wesprą jedyne hospicjum
-        na&nbsp;Litwie – Hospicjum bł.&nbsp;ks.&nbsp;Michała Sopoćki
-        w&nbsp;Wilnie. Szczegółowy program oraz wykaz godzinowy wydarzeń dla
-        Sandomierza, Stalowej Woli, Tarnobrzega, Ostrowca Świętokrzyskiego,
-        Janowa Lubelskiego i&nbsp;innych miast naszego regionu znajdują się
-        na&nbsp;plakatach w&nbsp;gablotach parafialnych oraz w&nbsp;gazetce
-        DiakoniaSan, którą można zabrać do&nbsp;domu. Zachęcamy
-        do&nbsp;zapoznania się z&nbsp;nimi i&nbsp;do&nbsp;licznego udziału.</p>
-        <p>2. W&nbsp;tym tygodniu czcimy: w&nbsp;poniedziałek świętą Faustynę,
-        w&nbsp;środę Najświętszą Maryję Pannę Różańcową, w&nbsp;piątek
-        błogosławionego Wincentego Kadłubka – patrona Sandomierza
-        i&nbsp;diecezji sandomierskiej.</p>
-        <p>3. Choć liturgiczne wspomnienie błogosławionego Wincentego wypada
-        w&nbsp;piątek, 9&nbsp;października, to&nbsp;uroczyste obchody
-        w&nbsp;naszym mieście przniesione są&nbsp;na&nbsp;najbliższą niedzielę
-        <strong>11&nbsp;października</strong>. O&nbsp;godzinie 11.00 wyruszy
-        procesja z&nbsp;relikwiami błogosławionego z&nbsp;kościoła
-        św.&nbsp;Michała do&nbsp;katedry, gdzie o&nbsp;godz.&nbsp;11.30
-        zostanie odprawiona uroczysta Msza Św.</p>
-        <p>4. Każdego dnia o&nbsp;godz.&nbsp;17.30 zapraszamy do&nbsp;wspólnej
-        modlitwy różańcowej.</p>
-        <p>5. Zapraszamy na&nbsp;spotkanie dla kandydatów do&nbsp;bierzmowania
-        z&nbsp;klasy VI. W&nbsp;najbliższą sobotę
-        <strong>10&nbsp;października</strong> o&nbsp;godz.&nbsp;10.00 salce
-        na&nbsp;plebanii.</p>
-        <p>6. Próby scholii odbywają się w&nbsp;soboty
-        o&nbsp;godz.&nbsp;9.00.</p>
-        <p>7. Po&nbsp;każdej Mszy Świętej oraz w&nbsp;godzinach urzędowania
-        kancelarii, przyjmujemy wypominki jednorazowe oraz roczne. Składając
-        prośbę o&nbsp;wypominki pamiętajmy o&nbsp;tym,
-        że&nbsp;to&nbsp;szczególny wyraz miłości i&nbsp;wyjątkowy sposób
-        modlitwy za&nbsp;tych, którzy już odeszli. Na&nbsp;stoliku pod chórem
-        są&nbsp;do&nbsp;zabrania kartki wypominkowe.</p>
-        <p>8. W&nbsp;dniach 30&nbsp;sierpnia - 5&nbsp;września 2027&nbsp;r.
-        (poniedziałek - niedziela) odbędzie się samolotowa pielgrzymka śladami
-        św.&nbsp;Pawła i&nbsp;św.&nbsp;Barnaby na&nbsp;Cypr. Szczegółowe
-        informacje i&nbsp;zapisy u&nbsp;ks.&nbsp;Krystiana.</p>
-        <p>9. Nadal zachęcamy do&nbsp;udziału w&nbsp;pielgrzymce do&nbsp;Wilna,
-        od&nbsp;30&nbsp;kwietnia do&nbsp;3&nbsp;maja 2027&nbsp;r.</p>
-        <p>10. W&nbsp;przyszłą niedzielę Dzień Papieski – zbiórka
-        do&nbsp;puszek na&nbsp;Fundację „Dzieło Nowego Tysiąclecia”.</p>
-        <p>11. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończył nasz
-        parafianin Marian Jońca. Polećmy go&nbsp;miłosierdziu Bożemu.</p>
-        <p>12. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
-        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
-        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
-        błogosławionej niedzieli!</p>
+        <a href="static/download/20261011_Katechezy_Zwiastowania_1000036727.jpg">
+            <img src="static/download/20261011_Katechezy_Zwiastowania_1000036727_min.jpg"
+                 alt="2026 Katechezy zwiastowania"
+                 style="width: 100%;"/>
+        </a>
         <p>
-            <span style="float: left;">Sandomierz, 4.&nbsp;października 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 11.&nbsp;października 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>11.&nbsp;października 2026&nbsp;r.</h3>
+        <h3>XXVIII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Zapraszamy do&nbsp;udziału w&nbsp;wydarzeniach <strong>Tygodnia
+        Kultury Chrześcijańskiej „Drogi Miłosierdzia”</strong>, który odbędzie
+        się w&nbsp;naszej diecezji w&nbsp;dniach
+        <strong>12–18&nbsp;października</strong>. W&nbsp;Sandomierzu
+        zaplanowano następujące wydarzenia:</p>
+        <ul>
+            <li><strong>W&nbsp;poniedziałek, 12&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>10.00</strong> w&nbsp;<strong>Domu
+            Katolickim</strong> zostanie wyświetlony film
+            <strong>„Hiob”</strong> Teatru EXIT.</li>
+            <li><strong>We&nbsp;wtorek, 13&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>10.00</strong>
+            w&nbsp;<strong>I&nbsp;Liceum Ogólnokształcącym</strong> odbędzie
+            się spotkanie ze&nbsp;świadkami Miłosiernego: <strong>aktorką
+            Magdaleną Woźniak i&nbsp;komandosem Bogusławem Tomaszewskim</strong>.
+            O&nbsp;godz.&nbsp;<strong>19.00</strong> w&nbsp;<strong>Domu
+            Katolickim</strong> odbędzie się koncert ewangelizacyjny
+            <strong>Marty i&nbsp;Grzegorza Kicińskich z&nbsp;zespołu Cud
+            w&nbsp;Dolinie</strong>, skierowany szczególnie do&nbsp;małżeństw
+            oraz osób przeżywających kryzys wiary i&nbsp;poszukujących sensu
+            życia.</li>
+            <li><strong>W&nbsp;środę, 14&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>10.00</strong> w
+            <strong>Caritas</strong> odbędzie się spotkanie ze&nbsp;świadkami
+            Miłosiernego: <strong>Magdaleną Woźniak i&nbsp;Bogusławem
+            Tomaszewskim</strong>.</li>
+            <li><strong>W&nbsp;czwartek, 15&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>10.00</strong>
+            w&nbsp;<strong>II&nbsp;Liceum Ogólnokształcącym</strong> odbędzie
+            się spotkanie z&nbsp;wokalistką <strong>AnMari</strong>,
+            a&nbsp;o&nbsp;godz.&nbsp;<strong>19.00</strong>
+            w&nbsp;<strong>Domu Katolickim</strong> – koncert artystki
+            zatytułowany <strong><em>„Bóg jest romantykiem”</em></strong>.</li>
+            <li><strong>W&nbsp;piątek, 16&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>10.00</strong> w&nbsp;<strong>Szkole
+            Podstawowej nr&nbsp;4</strong> odbędą się warsztaty literackie dla
+            dzieci, a&nbsp;o&nbsp;godz.&nbsp;<strong>19.00</strong>
+            w&nbsp;<strong>kościele Podwyższenia Krzyża Świętego</strong> –
+            spektakl <strong>„Przechodząc przez Dolinę Płaczu”</strong>
+            w&nbsp;wykonaniu zespołu Misterium.</li>
+            <li><strong>W&nbsp;sobotę, 17&nbsp;października</strong>,
+            o&nbsp;godz.&nbsp;<strong>11.00</strong> w&nbsp;<strong>Domu
+            Katolickim</strong> odbędzie się spotkanie duszpasterskie
+            z&nbsp;udziałem <strong>M.&nbsp;Toborowicz, Sióstr Matki Bożej
+            Miłosierdzia i&nbsp;M.&nbsp;Przybyły</strong>.
+            O&nbsp;godz.&nbsp;<strong>13.00</strong> w&nbsp;<strong>kościele
+            Ducha Świętego</strong> odbędzie się koncert maryjny <strong>Anny
+            Szai i&nbsp;Małgorzaty Komorowskiej</strong>, połączony
+            z&nbsp;adoracją Najświętszego Sakramentu.</li>
+        </ul>
+        <p>Zachęcamy do&nbsp;udziału w&nbsp;wydarzeniach i&nbsp;wsparcia tego
+        dzieła miłosierdzia.</p>
+        <p>2. Dziś czcimy w&nbsp;Sandomierzu Patrona Miasta,
+        bł.&nbsp;Wincentego Kadłubka. O&nbsp;godzinie 11.00 wyruszy
+        z&nbsp;kościoła św.&nbsp;Michała do&nbsp;katedry procesja
+        z&nbsp;relikwiami Błogosławionego. O&nbsp;godzinie 11.30 uroczysta
+        suma odpustowa w&nbsp;katedrze.</p>
+        <p>3. W&nbsp;tym tygodniu oddajemy cześć świętym: we&nbsp;wtorek
+        bł.&nbsp;Honoratowi Koźmińskiemu, w&nbsp;czwartek św.&nbsp;Teresie
+        od&nbsp;Jezusa, w&nbsp;piątek św.&nbsp;Jadwidze Śląskiej,
+        w&nbsp;sobotę św.&nbsp;Ignacemu z&nbsp;Antiochii.</p>
+        <p>4. We&nbsp;wtorek swoje imieniny obchodzi ksiądz Biskup Edward
+        Frankowski. Pamiętajmy o&nbsp;Nim w&nbsp;naszych modlitwach.</p>
+        <p>5. W&nbsp;długi weekend majowy organizujemy pielgrzymkę
+        do&nbsp;Wilna. W&nbsp;tym momencie mamy jeszcze sporo wolnych miejsc
+        w&nbsp;autokarze. Gdyby ktoś zastanawiał się, to&nbsp;prosilibyśmy,
+        aby w&nbsp;tym tygodniu podjąć decyzję, żebyśmy wiedzieli czy
+        rozszerzać ogłoszenie o&nbsp;pielgrzymce na&nbsp;inne parafie. Gdyby
+        ktoś miał problemy z&nbsp;rejestracją internetową w&nbsp;biurze
+        podróży, to&nbsp;prosimy o&nbsp;kontakt z&nbsp;Księdzem Krystianem.</p>
+        <p>6. W&nbsp;przyszłą niedzielę 18&nbsp;października będziemy gościć
+        w&nbsp;parafii ekipę neokatechumenalną, która będzie zapraszać
+        do&nbsp;udziału w&nbsp;Katechezach Zwiastowania, które odbywać się
+        będą naszej parafii od&nbsp;przyszłego wtorku (20&nbsp;października).</p>
+        <p>7. Dziś można wesprzeć ofiarą do&nbsp;puszek fundację Dzieło Nowego
+        Tysiąclecia wspierającą swoimi stypendiami zdolną i&nbsp;niezamożną
+        młodzież.</p>
+        <p>8. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończył nasz
+        parafianin Ireneusz Żbikowski. Polećmy Go&nbsp;Bożemu miłosierdziu.</p>
+        <p>9. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Drogim Parafianom i&nbsp;Miłym Gościom
+        życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 11.&nbsp;października 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>

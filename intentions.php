@@ -1,181 +1,183 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            5.10 – 11.10.2026&nbsp;r.
+            12.10 – 18.10.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 5&nbsp;października</b></td>
-            <td><b>Wspomnienie św.&nbsp;Faustyny</b></td>
+            <td><b>PONIEDZIAŁEK, 12&nbsp;października</b></td>
+            <td><b>Poniedziałek 28&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Jana Mikulskiego (1&nbsp;rocz. śm.)
+1. + Stanisława Łukawskiego<br>
+2. + Józefa Wronę
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariana Strzębskiego<br>
-2. + Wiesławę Śledź (31&nbsp;rocz. śm.)<br>
-3. + Małgorzatę Judę
+1. + Helenę Król, zmarłych z&nbsp;rodziny Królów, Szczębarów
+    i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. + Alojzego Ciszkiewicza<br>
+3. + Stanisławę Banasiewicz
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 6&nbsp;października</b></td>
-            <td><b>Wtorek 27&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 13&nbsp;października</b></td>
+            <td><b>Wtorek 28&nbsp;tygodnia zwykłego<br>
+            Dzień imienin księdza biskupa Edwarda Frankowskiego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Zofię Świerkulę<br>
-2. + Barbarę Chorab
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Alojzego Ciszkiewicza<br>
-2. + Alfonsa Kiliańskiego<br>
-3. + Zofię i&nbsp;Mariana Miękinów
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 7&nbsp;października</b></td>
-            <td><b>Wspomnienie NMP Różańcowej</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Mieczysława Frydla<br>
-2. + Adama Sochę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Jana Marca (11&nbsp;rocz. śm.), Józefę Marzec, Ryszarda
-    Pietruszkę<br>
-2. + Zofię Batóg<br>
-3. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP
-    z&nbsp;okazji 91&nbsp;rocznicy urodzin
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 8&nbsp;października</b></td>
-            <td><b>Czwartek 27&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    Dawida z&nbsp;okazji 18&nbsp;rocznicy urodzin<br>
-2. + Adama Sochę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    Janiny i&nbsp;Andrzeja z&nbsp;okazji 60&nbsp;rocznicy ślubu<br>
-2. + Stanisława Kabzę (9&nbsp;rocz. śm.), Helenę i&nbsp;Michała
-    Starzyk<br>
-3. + Marka Grębowca
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 9&nbsp;października</b></td>
-            <td><b>Uroczystość bł.&nbsp;Wincentego Kadłubka, biskupa
-            i&nbsp;zakonnika, patrona miasta</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Ryszarda Czajkowskiego<br>
+1. + Kazimierza Płazę, zmarłych z&nbsp;rodziny Płazów i&nbsp;dusze
+    w&nbsp;czyśćcu cierpiące<br>
 2. + Karola Malca
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Jana Batorskiego (rocz. śm.), Aleksandrę, Jana, Eugeniusza,
-    Piotra Barbachów, Dionizego Książkę<br>
-2. + Tadeusza Kołacza (rocz.), Irenę, Krzysztofa, Mirosława Kołaczów
+1. O&nbsp;wyzwolenie z&nbsp;lęku dla osób uzależnionych i&nbsp;ich
+    rodzin<br>
+2. + Marię, Władysława, Czesława Barańskich, Władysławę
+    i&nbsp;Andrzeja Krawczyków<br>
+3. + Aleksandrę Kowalską
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 10&nbsp;października</b></td>
-            <td><b>Sobota 27&nbsp;tygodnia zwykłego</b></td>
+            <td><b>ŚRODA, 14&nbsp;października</b></td>
+            <td><b>Środa 28&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Stefanię Kowalską (rocz. śm.), Franciszka Kowalskiego, Marię Woś,
-    Wiesławę Wałcerz<br>
-2. + Karola Malca
+1. + Mateusza Frańczaka<br>
+2. + Aleksandrę, Franciszka i zmarłych z rodziny Burków i Kozłów
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Wiesława i&nbsp;Tomasza Szyprowskich<br>
-2. + Jana Gajdę (rocz. śm.)
+1. + Alfonsa Kiliańskiego<br>
+2. + Marka Grębowca<br>
+3. + Sławomira Litwińskiego
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 11&nbsp;października</b></td>
+            <td><b>CZWARTEK, 15&nbsp;października</b></td>
+            <td><b>Wspomnienie św. Teresy od Jezusa</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jadwigę, Szczepana Kasprzyckich, zmarłych z&nbsp;rodziny
+    i&nbsp;dusze w&nbsp;czyśćcu cierpiące<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Wiesława Wilka<br>
+2. + Alfonsa Kiliańśkiego<br>
+3. + Janinę i Mieczysława Kędzierskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 16&nbsp;października</b></td>
+            <td><b>Wspomnienie św.&nbsp;Jadwigi Śląskiej</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Noska<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Michtę<br>
+2. + Marka Steca<br>
+3. + Mariannę Chmiel
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 17&nbsp;października</b></td>
+            <td><b>Wspomnienie św.&nbsp;Ignacego
+            z&nbsp;Antiochii</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariana Noska<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Helenę, Antoniego, Stanisława, Jana Kucharczaków<br>
+2. + Marka Ziębę<br>
+3. + Jerzego Jakubczyka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 18&nbsp;października</b></td>
             <td><b>
-                <span style="color: red">XXVIII&nbsp;niedziela zwykła,
+                <span style="color: red">XXIX&nbsp;niedziela zwykła,
                 Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+  W&nbsp;intencji Parafian
++ Janinę i&nbsp;Józefa Tutaków, i&nbsp;zmarłych z&nbsp;rodziny
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Aleksandra, Tomasza, Michała Krakowiaków
++ Annę Podsiadły
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Otolię (rocz. śm.) i&nbsp;Czesława Ciach, Małgorzatę Krawczyk
+O&nbsp;Boże błogosławieństwo, potrzebne łaski, opiekę NMP dla członków
+    Domowego Kościoła
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Kazimierza Gacha i&nbsp;zm. z&nbsp;rodz. Czajków i&nbsp;Gachów
+1. W&nbsp;intencji Parafian<br>
+2. W&nbsp;intencji Bogu wiadomej
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1.+ Dorotę Kwitek (23&nbsp;rocz. śm.), Edwarda Stefańskiego
-    (7&nbsp;rocz. śm.)<br>
-2. Dziękczynna za&nbsp;otrzymane łaski, z&nbsp;prośbą o&nbsp;Boże
-    błogosławieństwo dla dzieci, wnuków i&nbsp;prawnuka
+1.+ Mariana Małysę (17&nbsp;rocz. śm.)<br>
+2.+ Janusza Pawelca
             </td>
         </tr>
     </tbody>

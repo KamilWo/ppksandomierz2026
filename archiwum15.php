@@ -19,7 +19,269 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 4.&nbsp;października 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 11.&nbsp;października 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            5.10 – 11.10.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 5&nbsp;października</b></td>
+            <td><b>Wspomnienie św.&nbsp;Faustyny</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Mikulskiego (1&nbsp;rocz. śm.)
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariana Strzębskiego<br>
+2. + Wiesławę Śledź (31&nbsp;rocz. śm.)<br>
+3. + Małgorzatę Judę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 6&nbsp;października</b></td>
+            <td><b>Wtorek 27&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Zofię Świerkulę<br>
+2. + Barbarę Chorab
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Alojzego Ciszkiewicza<br>
+2. + Alfonsa Kiliańskiego<br>
+3. + Zofię i&nbsp;Mariana Miękinów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 7&nbsp;października</b></td>
+            <td><b>Wspomnienie NMP Różańcowej</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mieczysława Frydla<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Marca (11&nbsp;rocz. śm.), Józefę Marzec, Ryszarda
+    Pietruszkę<br>
+2. + Zofię Batóg<br>
+3. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP
+    z&nbsp;okazji 91&nbsp;rocznicy urodzin
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 8&nbsp;października</b></td>
+            <td><b>Czwartek 27&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Dawida z&nbsp;okazji 18&nbsp;rocznicy urodzin<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Janiny i&nbsp;Andrzeja z&nbsp;okazji 60&nbsp;rocznicy ślubu<br>
+2. + Stanisława Kabzę (9&nbsp;rocz. śm.), Helenę i&nbsp;Michała
+    Starzyk<br>
+3. + Marka Grębowca
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 9&nbsp;października</b></td>
+            <td><b>Uroczystość bł.&nbsp;Wincentego Kadłubka, biskupa
+            i&nbsp;zakonnika, patrona miasta</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Ryszarda Czajkowskiego<br>
+2. + Karola Malca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Jana Batorskiego (rocz. śm.), Aleksandrę, Jana, Eugeniusza,
+    Piotra Barbachów, Dionizego Książkę<br>
+2. + Tadeusza Kołacza (rocz.), Irenę, Krzysztofa, Mirosława Kołaczów
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 10&nbsp;października</b></td>
+            <td><b>Sobota 27&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Stefanię Kowalską (rocz. śm.), Franciszka Kowalskiego, Marię Woś,
+    Wiesławę Wałcerz<br>
+2. + Karola Malca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Wiesława i&nbsp;Tomasza Szyprowskich<br>
+2. + Jana Gajdę (rocz. śm.)
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 11&nbsp;października</b></td>
+            <td><b>
+                <span style="color: red">XXVIII&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++  W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
++ Aleksandra, Tomasza, Michała Krakowiaków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
++ Otolię (rocz. śm.) i&nbsp;Czesława Ciach, Małgorzatę Krawczyk
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Kazimierza Gacha i&nbsp;zm. z&nbsp;rodz. Czajków i&nbsp;Gachów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1.+ Dorotę Kwitek (23&nbsp;rocz. śm.), Edwarda Stefańskiego
+    (7&nbsp;rocz. śm.)<br>
+2. Dziękczynna za&nbsp;otrzymane łaski, z&nbsp;prośbą o&nbsp;Boże
+    błogosławieństwo dla dzieci, wnuków i&nbsp;prawnuka
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>4.&nbsp;października 2026&nbsp;r.</h3>
+        <h3>XXVII&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;dniach 12–18&nbsp;października w&nbsp;naszej diecezji
+        odbędzie się wyjątkowy Tydzień Kultury Chrześcijańskiej. Wydarzenie
+        to, organizowane pod hasłem “Drogi Miłosierdzia”, połączy w&nbsp;sobie
+        teatr, koncerty oraz poruszające świadectwa wiary. Wiele gatunków
+        muzycznych - pop, hip-hop, folk, poezja śpiewana z&nbsp;elementami
+        flamenco i&nbsp;fado, a&nbsp;także zaskakujące aranżacje na&nbsp;harfę
+        i&nbsp;głos. Wstęp na&nbsp;wszystkie spotkania i&nbsp;wydarzenia
+        artystyczne jest całkowicie bezpłatny. Program został przygotowany
+        tak, aby dotrzeć do&nbsp;każdego – od&nbsp;młodzieży szkolnej
+        po&nbsp;osoby starsze i&nbsp;samotne. Na&nbsp;festiwalowej scenie
+        wystąpią wybitni artyści, m.in.&nbsp;niepełnosprawni aktorzy
+        z&nbsp;Teatru EXIT, raper Arkadio, wokalistka AnMari, Cud
+        w&nbsp;Dolinie, Anna Szaja, Kapela Cudzichów i&nbsp;wielu innych
+        wybitnych muzyków sesyjnych. W&nbsp;niedzielę, 18&nbsp;października,
+        odbędzie się wielki finał połączony ze&nbsp;zbiórką charytatywną
+        po&nbsp;Mszach Świętych. Zebrane fundusze wesprą jedyne hospicjum
+        na&nbsp;Litwie – Hospicjum bł.&nbsp;ks.&nbsp;Michała Sopoćki
+        w&nbsp;Wilnie. Szczegółowy program oraz wykaz godzinowy wydarzeń dla
+        Sandomierza, Stalowej Woli, Tarnobrzega, Ostrowca Świętokrzyskiego,
+        Janowa Lubelskiego i&nbsp;innych miast naszego regionu znajdują się
+        na&nbsp;plakatach w&nbsp;gablotach parafialnych oraz w&nbsp;gazetce
+        DiakoniaSan, którą można zabrać do&nbsp;domu. Zachęcamy
+        do&nbsp;zapoznania się z&nbsp;nimi i&nbsp;do&nbsp;licznego udziału.</p>
+        <p>2. W&nbsp;tym tygodniu czcimy: w&nbsp;poniedziałek świętą Faustynę,
+        w&nbsp;środę Najświętszą Maryję Pannę Różańcową, w&nbsp;piątek
+        błogosławionego Wincentego Kadłubka – patrona Sandomierza
+        i&nbsp;diecezji sandomierskiej.</p>
+        <p>3. Choć liturgiczne wspomnienie błogosławionego Wincentego wypada
+        w&nbsp;piątek, 9&nbsp;października, to&nbsp;uroczyste obchody
+        w&nbsp;naszym mieście przniesione są&nbsp;na&nbsp;najbliższą niedzielę
+        <strong>11&nbsp;października</strong>. O&nbsp;godzinie 11.00 wyruszy
+        procesja z&nbsp;relikwiami błogosławionego z&nbsp;kościoła
+        św.&nbsp;Michała do&nbsp;katedry, gdzie o&nbsp;godz.&nbsp;11.30
+        zostanie odprawiona uroczysta Msza Św.</p>
+        <p>4. Każdego dnia o&nbsp;godz.&nbsp;17.30 zapraszamy do&nbsp;wspólnej
+        modlitwy różańcowej.</p>
+        <p>5. Zapraszamy na&nbsp;spotkanie dla kandydatów do&nbsp;bierzmowania
+        z&nbsp;klasy VI. W&nbsp;najbliższą sobotę
+        <strong>10&nbsp;października</strong> o&nbsp;godz.&nbsp;10.00 salce
+        na&nbsp;plebanii.</p>
+        <p>6. Próby scholii odbywają się w&nbsp;soboty
+        o&nbsp;godz.&nbsp;9.00.</p>
+        <p>7. Po&nbsp;każdej Mszy Świętej oraz w&nbsp;godzinach urzędowania
+        kancelarii, przyjmujemy wypominki jednorazowe oraz roczne. Składając
+        prośbę o&nbsp;wypominki pamiętajmy o&nbsp;tym,
+        że&nbsp;to&nbsp;szczególny wyraz miłości i&nbsp;wyjątkowy sposób
+        modlitwy za&nbsp;tych, którzy już odeszli. Na&nbsp;stoliku pod chórem
+        są&nbsp;do&nbsp;zabrania kartki wypominkowe.</p>
+        <p>8. W&nbsp;dniach 30&nbsp;sierpnia - 5&nbsp;września 2027&nbsp;r.
+        (poniedziałek - niedziela) odbędzie się samolotowa pielgrzymka śladami
+        św.&nbsp;Pawła i&nbsp;św.&nbsp;Barnaby na&nbsp;Cypr. Szczegółowe
+        informacje i&nbsp;zapisy u&nbsp;ks.&nbsp;Krystiana.</p>
+        <p>9. Nadal zachęcamy do&nbsp;udziału w&nbsp;pielgrzymce do&nbsp;Wilna,
+        od&nbsp;30&nbsp;kwietnia do&nbsp;3&nbsp;maja 2027&nbsp;r.</p>
+        <p>10. W&nbsp;przyszłą niedzielę Dzień Papieski – zbiórka
+        do&nbsp;puszek na&nbsp;Fundację „Dzieło Nowego Tysiąclecia”.</p>
+        <p>11. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończył nasz
+        parafianin Marian Jońca. Polećmy go&nbsp;miłosierdziu Bożemu.</p>
+        <p>12. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
+        błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 4.&nbsp;października 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
