@@ -19,7 +19,259 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 18.&nbsp;października 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 25.&nbsp;października 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            19.10 – 25.10.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 19&nbsp;października</b></td>
+            <td><b>Wspomnienie dowolne bł.&nbsp;Księdza Jerzego
+            Popiełuszki</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariannę Ciźla
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Paulinę (rocz. śm.), Mieczysława, Tadeusza, Danutę Ramus,
+    Jarosława, Genowefę, Stefana Burek<br>
+2. + Macieja Wódz, Bożenę Kubala (4&nbsp;rocz. śm.), Jana, Florentynę,
+    Mieczysława Sado, Stefana, Krystynę Wódz<br>
+3. + Józefa Wronę
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 20&nbsp;października</b></td>
+            <td><b>Wtorek 29&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Aleksandrę Kowalską
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Łukasza z&nbsp;okazji urodzin<br>
+2. + Alicję i&nbsp;Zdzisława Gilewskich, Teresę Nowakowską, Stefanię
+    i&nbsp;Józefa Janus<br>
+3. + Kazimierę Sadaj
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 21&nbsp;października</b></td>
+            <td><b>Środa 29&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Ryszarda Czajkowskiego<br>
+2. + Mateusza Frańczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 22&nbsp;października</b></td>
+            <td><b>Rocznica poświęcenia Bazyliki Katedralnej
+            w&nbsp;Sandomierzu</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Jana Stąpora, Wincentego i&nbsp;Janinę Jakus<br>
+2. + Mariannę i&nbsp;Franciszka Zając
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynno-błagalna firmy Sannort, za&nbsp;pracowników
+    i&nbsp;klientów oraz o&nbsp;Boże błogosławieństwo w&nbsp;dalszym
+    funkcjonowaniu firmy<br>
+2. + Mariannę Ciźla<br>
+3. + Małgorzatę Olszak
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 23&nbsp;października</b></td>
+            <td><b>Piątek 29&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Zdzisławy, i&nbsp;Juliusza z&nbsp;okazji 50&nbsp;rocznicy ślubu<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Alojzego Ciszkiewicza<br>
+2. + Wandę Wiatrowską<br>
+3. + Stanisławę Banasiewicz
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 24&nbsp;października</b></td>
+            <td><b>Sobota 29&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Marka Grębowca<br>
+2. + Adama Sochę<br>
+3. + Stanisława Muchę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę Ciźla<br>
+2. + Marię, Antoniego Lasotów, Władysławę, Michalinę, Wojciecha
+    Politów<br>
+3. + Aleksandrę Kowalską
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 25&nbsp;października</b></td>
+            <td><b>
+                <span style="color: red">XXX&nbsp;niedziela zwykła,
+                Rok&nbsp;A</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Mariannę, Wincentego, Andrzeja Winiarczyków, Marzannę
+    i&nbsp;Włodzimierza Augustyńskich
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Franciszka w&nbsp;3&nbsp;rocznicę urodzin
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Ireny, i&nbsp;Eugeniusza Miękinów w&nbsp;50&nbsp;rocznicę ślubu<br>
+2. W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ Stanisława, Mariannę, Feliksa Wieczorków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Janusza Pawelca<br>
+2. + Stanisława Muchę
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>18.&nbsp;października 2026&nbsp;r.</h3>
+        <h3>XXIX&nbsp;niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Dziś w&nbsp;Tarnobrzegu w&nbsp;parafii MBNP na&nbsp;Serbinowie
+        zakończenie Festiwalu Miłosierdzia. O&nbsp;godzinie 19.00 koncert
+        <em>Pieśni z&nbsp;gór</em> w&nbsp;wykonaniu Kapeli Cudzichów.</p>
+        <p>2. W&nbsp;czwartek 22&nbsp;października obchodzimy w&nbsp;naszej
+        diecezji rocznicę poświęcenia Bazyliki Katedralnej. Tego też dnia
+        w&nbsp;Polsce przypada liturgiczne wspomnienie świetego Jana
+        Pawła&nbsp;II.</p>
+        <p>3. Każdego dnia na&nbsp;godz.&nbsp;17.30 zapraszamy na&nbsp;modlitwę
+        różańcową do&nbsp;naszego kościoła parafialnego.</p>
+        <p>4. Kandydatów do&nbsp;bierzmowania z&nbsp;klasy VII zapraszamy
+        na&nbsp;comiesięczne spotkanie, które odbędzie się w&nbsp;najbliższy
+        czwartek, 22&nbsp;października, o&nbsp;godz.&nbsp;16.30 w&nbsp;salce
+        na&nbsp;plebanii.</p>
+        <p>5. Diecezjalne duszpasterstwo kobiet zaprasza w&nbsp;poniedziałek
+        19&nbsp;października, na&nbsp;godz.&nbsp;17.30, do&nbsp;katedry
+        sandomierskiej, na&nbsp;Mszę&nbsp;św. w&nbsp;intencji kobiet oraz
+        konferencję <em>Zawierzenie Maryi Szkołą Miłosierdzia</em>, którą
+        wygłosi ks.&nbsp;dr&nbsp;Konrad Fedowrowski.</p>
+        <p>6. Katecheza dla dorosłych pt.: "Wierzę, ale mam pytania. Czy
+        w&nbsp;XXI wieku wiara ma&nbsp;jeszcze sens" odbędzie w&nbsp;środę
+        w&nbsp;kościele św.&nbsp;Józefa w&nbsp;Sandomierzu o&nbsp;godzinie
+        18.30. Zapraszamy serdecznie!</p>
+        <p>7. Zapraszamy na&nbsp;Pielgrzymkę Małżeństw i&nbsp;Rodzin
+        do&nbsp;Sanktuarium MB&nbsp;Bolesnej w&nbsp;Sulisławicach. Pielgrzymka
+        odbędzie się w&nbsp;niedzielę 25&nbsp;października.
+        O&nbsp;godz.&nbsp;12.00 – Msza Święta z&nbsp;odnowieniem przyrzeczeń
+        małżeńskich, 13.00 – Świadectwo Życia wiarą w&nbsp;rodzinie, następnie
+        różaniec w&nbsp;intencji małżeństw i&nbsp;rodzin.</p>
+        <p>8. We&nbsp;wtorki i&nbsp;piątki o&nbsp;godz.&nbsp;18.40 odbywać się
+        będą Katechezy Zwiastowania dla młodzieży i&nbsp;dorosłych. Serdecznie
+        zapraszamy!</p>
+        <p>9. Do&nbsp;30&nbsp;października prowadzimy zapisy
+        na&nbsp;pielgrzymkę do&nbsp;Wilna.</p>
+        <p>10. W&nbsp;zeszłą niedzielę na&nbsp;rzecz Fundacji Dzieło Nowego
+        Tysiąclecia złożyliście do&nbsp;puszek 2519,50&nbsp;zł. Serdecznie
+        <em>Bóg Zapłać</em>!</p>
+        <p>11. Bardzo dziękujemy Panom Leszkowi i&nbsp;Wacławowi
+        za&nbsp;wykonanie renowacji drzwi bocznych w&nbsp;kościele.</p>
+        <p>12. Dziś święto patrona Służby Zdrowia, św.&nbsp;Łukasza. Wszystkim
+        zaangażowanym w&nbsp;ochronę życia i&nbsp;zdrowia składamy serdeczne
+        życzenia, i&nbsp;życzymy opieki świętego Patrona.</p>
+        <p>13. W&nbsp;tym tygodniu swoją ziemską pielgrzymkę zakończyli nasi
+        parafianie Barbara Nowak oraz Aleksander Kuraś, którego pogrzeb
+        odbędzie się we&nbsp;wtorek. Polećmy ich Bożemu miłosierdziu.</p>
+        <p>14. Dziękujemy za&nbsp;każde duchowe i&nbsp;materialne wsparcie
+        parafii. Wszystkim obchodzącym imieniny, rocznice i&nbsp;jubileusze
+        składamy serdeczne życzenia. Naszym Parafianom i&nbsp;Gościom życzymy
+        błogosławionej niedzieli!</p>
+        <p>
+            <span style="float: left;">Sandomierz, 18.&nbsp;października 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
@@ -4232,7 +4484,8 @@ W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła
         o&nbsp;godz.&nbsp;18.45, w&nbsp;auli Wyższego Seminarium Duchownego.
         W&nbsp;spotkaniu będzie można uczestniczyć także internetowo, będzie
         ono transmitowane przez Facebooka, na &nbsp;profilu
-        <em><a href="https://www.facebook.com/wsdsandomierz/">WSD
+        <em><a href="https://www.facebook.com/wsdsandomierz/"
+        title="Wyższe Seminarium Duchowne w Sandomierzu">WSD
         Sandomierz</a></em>. Serdecznie zapraszamy!</p>
         <p>6. W&nbsp;sobotę 20&nbsp;czerwca zapraszamy na&nbsp;kolejny wieczór
         uwielbienia.</p>
@@ -5230,7 +5483,8 @@ W&nbsp;intencji Parafian
         będzie we&nbsp;wtorek, 19&nbsp;maja, o&nbsp;godz.&nbsp;18.45,
         w&nbsp;auli Wyższego Seminarium Duchownego. W&nbsp;spotkaniach będzie
         można uczestniczyć także internetowo, będą ono transmitowane przez
-        Facebooka, na&nbsp;profilu <em><a href="https://www.facebook.com/wsdsandomierz/">WSD Sandomierz</a> </em>.
+        Facebooka, na&nbsp;profilu <em><a href="https://www.facebook.com/wsdsandomierz/"
+        title="Wyższe Seminarium Duchowne w Sandomierzu">WSD Sandomierz</a> </em>.
         Serdecznie zapraszamy!</p>
         <p>7. W&nbsp;najbliższą sobotę, 23&nbsp;maja, odbędzie się wydarzenie
         upamiętniające biskupa Franciszka Jopa, kapłana i&nbsp;sufragana
@@ -6161,7 +6415,8 @@ W&nbsp;intencji Parafian
         Początek o&nbsp;godz.&nbsp;19.00, w&nbsp;auli Wyższego Seminarium
         Duchownego. W&nbsp;spotkaniu będzie można uczestniczyć także
         internetowo, będzie ono transmitowane przez Facebooka, na&nbsp;profilu
-        <a href="https://www.facebook.com/wsdsandomierz/">WSDSandomierz</a>.</p>
+        <a href="https://www.facebook.com/wsdsandomierz/"
+        title="Wyższe Seminarium Duchowne w Sandomierzu">WSDSandomierz</a>.</p>
         <p>6. W&nbsp;najbliższą sobotę, 25&nbsp;kwietnia, zapraszamy
         na&nbsp;kolejny wieczór uwielbienia. Rozpoczęcie
         o&nbsp;godz.&nbsp;18.00.</p>
@@ -8557,7 +8812,8 @@ O&nbsp;Boże błogosławieństwo dla Maćka i&nbsp;Madzi Wódz
         św.&nbsp;Pawła do&nbsp;Efezjan.</strong> W&nbsp;spotkaniach
         będzie można uczestniczyć także internetowo, będą ono
         transmitowane przez Facebooka, na&nbsp;profilu WSDSandomierz
-        [ <a href="https://www.facebook.com/wsdsandomierz">https://www.facebook.com/wsdsandomierz</a>].
+        [<a href="https://www.facebook.com/wsdsandomierz"
+        title="Wyższe Seminarium Duchowne w Sandomierzu">https://www.facebook.com/wsdsandomierz</a>].
         Serdecznie zapraszamy!</p>
         <p>3. W&nbsp;najbliższą środę - <strong>18&nbsp;lutego</strong> -
         rozpoczynamy Wielki Post. Msze Święte z&nbsp;obrzędem posypania głów
