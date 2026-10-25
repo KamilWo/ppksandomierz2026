@@ -43,8 +43,8 @@
         <p>5. Każdego dnia od&nbsp;1 do&nbsp;8&nbsp;listopada o&nbsp;godzinie
         17.30 Koronka do&nbsp;Bożego Miłosierdzia za&nbsp;zmarłych polecanych
         w&nbsp;wypominkach jednorazowych. Modlitwę za&nbsp;wiernych
-        z&nbsp;wypominek całorocznych rozpoczniemy od&nbsp;przyszłej
-        niedzieli. <em>Bóg zapłać</em> za&nbsp;ofiary składane przy okazji
+        z&nbsp;wypominek całorocznych rozpoczniemy od&nbsp;niedzieli
+        8&nbsp;listopada. <em>Bóg zapłać</em> za&nbsp;ofiary składane przy okazji
         wypominek!</p>
         <p>6. Przypominamy o&nbsp;możliwości zyskania odpustu zupełnego
         i&nbsp;ofiarowania go&nbsp;za&nbsp;zmarłych od&nbsp;1
