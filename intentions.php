@@ -1,190 +1,179 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            2.11 – 8.11.2026&nbsp;r.
+            9.11 – 15.11.2026&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 2&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Wszystkich Wiernych Zmarłych</b></td>
+            <td><b>PONIEDZIAŁEK, 9&nbsp;listopada</b></td>
+            <td><b>Święto rocznicy poświęcenia Bazyliki
+            Laterańskiej</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Za&nbsp;zmarłych z&nbsp;rodziny i&nbsp;dusze w&nbsp;czyśćcu
-    cierpiące<br>
-2. + Andrzeja Skoczylasa
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.00</td>
-            <td>
-1. + W&nbsp;intencji zmarłych Parafian<br>
-2. + Za&nbsp;zmarłych z&nbsp;rodzin Biało i&nbsp;Kosmalów
+1. + Ryszarda Czajkowskiego
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Janinę i&nbsp;Stefana Plachów<br>
-2. + Janinę Szewczyk
+1. + Sławomira Litwińskiego<br>
+2. + Alojzego Ciszkiewicza<br>
+3. ++ Dusze w&nbsp;czyśćcu cierpiące
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>WTOREK, 3&nbsp;listopada</b></td>
-            <td><b>Wtorek 31&nbsp;tygodnia zwykłego</b></td>
+            <td><b>WTOREK, 10&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Leona Wielkiego,
+            papieża</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    Sylwii
++ Józefa Stanka
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Mariana Klimonta i&nbsp;zmarłych z&nbsp;rodziny<br>
-2. + Zbigniewa Patyrę, Jana, Helenę, Stanisława Kondrat, Zofię
-    Mendala<br>
+1. O&nbsp;wyzwolenie z&nbsp;lęku osób pogrążonych w&nbsp;nałogach
+    i&nbsp;ich rodzin <strong>(poza parafią)</strong><br>
+2. + Romualda Furmana<br>
+3. + Aleksandrę Kowalską
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 11&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Marcina Tours, biskupa;
+            Rocznica odzyskania niepodległości</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Mariannę Ciźla
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. W&nbsp;intencji Ojczyzny<br>
+2. + Jana Kusala (rocz.)<br>
+3. + Jana Kucharczaka <strong>(poza parafią)</strong>
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 12&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Jozafata Kuncewicza, biskupa
+            i&nbsp;męczennika</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Józefa Stanka<br>
+2. + Adama Sochę
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Alojzego Ciszkiewicza<br>
+2. + Bronisławę i&nbsp;Stanisława Stefaniaków<br>
+3. + Urszulę, Jana i&nbsp;zmarłych z&nbsp;rodziny Świątańskich
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 13&nbsp;listopada</b></td>
+            <td><b>Wspomnienie pierwszych męczenników polskich:
+            Benedykta, Jana, Mateusza, Izaaka i&nbsp;Krystyna</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mateusza Frańczaka<br>
+2. + Gustawa Kaniosa
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Antoniego i&nbsp;Julię Serafinów<br>
+2. + Marię, Władysława, Czesława Barańskich, Władysławę
+    i&nbsp;Andrzeja Krawczyków<br>
+3. + Stanisławę Banasiewicz
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 14&nbsp;listopada</b></td>
+            <td><b>Sobota 32&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski i&nbsp;opiekę NMP dla Renaty i&nbsp;Dariusza<br>
+2. + Marka Furmana
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Marka Grębowca<br>
+2. + Stanisława Muchę<br>
 3. + Jana Kucharczaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 4&nbsp;listopada</b></td>
-            <td><b>Wspomnienie św.&nbsp;Karola Boromeusza</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Jana Szczębarę i zm. z rodzin Królów, Szczębarów i dusze w czyśćcu cierpiące
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Janinę, Ludwika, Zofię, Ludwika Wilków, Teresę i&nbsp;Jerzego Głowackich<br>
-2. + Mariana Mroczkowskiego (6&nbsp;rocz. śm.), Tomasza
-    Mroczkowskiego<br>
-3. + Andrzeja Aleksandrowicza (1&nbsp;rocz. śm.)<br>
-4. + Pawła, Stanisława, Mariannę, Franciszka Piątków, Antoninę,
-    Juliana Lalewiczów, ++ z&nbsp;rodz. Piątków, Lalewiczów
-    i&nbsp;Głowackich <strong>(poza parafią)</strong>
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 5&nbsp;listopada</b></td>
-            <td><b>Czwartek 31&nbsp;tygodnia zwykłego, pierwszy
-            czwartek miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;nowe powołania i&nbsp;świętość kapłanów<br>
-2. + Adama Sochę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Dusze w&nbsp;czyśćcu cierpiące<br>
-2. + Mariannę i&nbsp;Tadeusza Musiałów, Helenę i&nbsp;Józefa
-    Prychocenów, ++ z&nbsp;rodz. Musiałów i&nbsp;Prychocenów<br>
-3. + Władysława Golca
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 6&nbsp;listopada</b></td>
-            <td><b>Piątek 31&nbsp;tygodnia zwykłego, pierwszy
-            piątek miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;łaskę dobrej śmierci<br>
-2. + Adama Sochę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Za&nbsp;zmarłych członków Legionu Maryi<br>
-2. + Krzysztofa Zawidzkiego, Barbarę, Henryka, Małgorzatę Zawidzkich
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 7&nbsp;listopada</b></td>
-            <td><b>Sobota 31&nbsp;tygodnia zwykłego, pierwsza sobota
-            miesiąca</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
-    dzieci, i&nbsp;chrześniaków<br>
-2. + Alojzego Ciszkiewicza
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. Intencja wynagradzająca za&nbsp;grzechy popełnione przeciw
-    Niepokalanemu Sercu Maryi<br>
-2. + Mariannę i&nbsp;Eugeniusza Jedlińskich
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 8&nbsp;listopada</b></td>
+            <td><b>NIEDZIELA, 15&nbsp;listopada</b></td>
             <td><b>
-                <span style="color: red">XXXII niedziela zwykła, Rok A</span>
+                <span style="color: red">XXXIII niedziela zwykła, Rok&nbsp;A</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
             <td>
-+ Bogusława Stępińskiego (36&nbsp;rocz. śm.), i&nbsp;zmarłych
-    z&nbsp;rodziny
+W&nbsp;intencji Parafian
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
             <td>
-+ Katarzynę Zielińską
++ Zofię, Bolesława, Lucjana, Jerzego Gajewskich, Teresę i&nbsp;Jana
+    Szczepaniaków
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
             <td>
-+ Henryka Pietruszkę
+W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
             <td>
-+ Klarę, Jana, Ryszarda, Chrząstowskich, Jana Makowskiego
++ Alojzego Ciszkiewicza
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski i&nbsp;opiekę NMP dla Kingi w&nbsp;18&nbsp;rocznicę urodzin<br>
-2. W&nbsp;intencji Parafian
+1. + Dariusza Jastrząb i&nbsp;zmarłych z&nbsp;rodziny Ziębów<br>
+2. + Annę Gach
             </td>
         </tr>
     </tbody>
