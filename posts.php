@@ -18,39 +18,54 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>8.&nbsp;listopada 2026&nbsp;r.</h3>
-        <h3>XXXII niedziela zwykła, Rok&nbsp;A</h3>
+        <h3>15.&nbsp;listopada 2026&nbsp;r.</h3>
+        <h3>XXXIII niedziela zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Dziś przeżywamy „Dzień Solidarności z&nbsp;Kościołem
-        prześladowanym” –  po&nbsp;Mszach&nbsp;św. jest możliwość złożenia
-        ofiary do&nbsp;puszek na&nbsp;organizację „Kościół
-        w&nbsp;potrzebie”.</p>
-        <p>2. W&nbsp;najbliższą środę, tj.&nbsp;11&nbsp;listopada - Narodowe
-        Święto Niepodległości. W&nbsp;tym dniu, Msza&nbsp;św. w&nbsp;intencji
-        Ojczyzny o&nbsp;godz.&nbsp;18.00. Zapraszamy</p>
-        <p>3. Spotkanie dla kandydatów do&nbsp;bierzmowania z&nbsp;klasy VI
-        w&nbsp;najbliższą sobotę, 14&nbsp;listopada o&nbsp;godz.&nbsp;10.00,
-        w&nbsp;salce na&nbsp;plebanii.</p>
-        <p>4. Zapraszamy młodzież i&nbsp;dzieci do&nbsp;wstąpienia
-        w&nbsp;szeregi ministrantów w&nbsp;naszej parafii. Młodsi ministranci
-        i&nbsp;kandydaci mają swoje spotkania w&nbsp;poniedziałki
-        o&nbsp;godz.&nbsp;15.00, natomiast starsi w&nbsp;poniedziałki
-        o&nbsp;godz.&nbsp;18.30.</p>
-        <p>5. Są&nbsp;jeszcze wolne miejsca na&nbsp;pielgrzymki: śladami
-        Bożego miłosierdzia do&nbsp;Wilna, 30&nbsp;kwietnia – 3&nbsp;maja 2027
-        oraz śladami św.&nbsp;Pawła na&nbsp;Cypr w&nbsp;dn.&nbsp;30&nbsp;sierpnia
-        – 5&nbsp;września 2027. Serdecznie zapraszamy!</p>
-        <p>6. Na&nbsp;stoliku pod chórem są&nbsp;do&nbsp;nabycia kalendarze
-        na&nbsp;rok 2027 z&nbsp;naszej drukarni w&nbsp;cenie 5&nbsp;zł.</p>
-        <p>7. W&nbsp;minionym tygodniu swoją ziemską pielgrzymkę zakończył
-        nasz parafianin Rafał Kowalski. Polećmy Go&nbsp;Bożemu miłosierdziu.</p>
-        <p>8. Dziękujemy za&nbsp;wszelkie wsparcie duchowe i&nbsp;materialne
+        <p>1. W&nbsp;tym tygodniu oddajemy cześć świętym: we&nbsp;wtorek
+        św.&nbsp;Elżbiecie Węgierskiej, w&nbsp;środę błogosławionej Karolinie
+        Kózkównie, w&nbsp;piątek św.&nbsp;Rafałowi Kalinowskiemu,
+        w&nbsp;sobotę Maryi w&nbsp;tajemnicy Jej ofiarowania. W&nbsp;przyszłą
+        niedzielę Uroczystość Jezusa Chrystusa Króla Wszechświata, ostatnia
+        niedziela roku liturgicznego.</p>
+        <p>2. Czy wiemy, jak najlepiej zabezpieczyć przyszłość swoją
+        i&nbsp;swoich bliskich? Jak przekazać majątek dzieciom, sporządzić
+        testament albo zadbać o&nbsp;swoje sprawy, gdy z&nbsp;wiekiem coraz
+        trudniej załatwiać je&nbsp;samodzielnie? Odpowiedzi
+        na&nbsp;te&nbsp;i&nbsp;wiele innych pytań będzie można uzyskać
+        bezpłatnie w&nbsp;sobotę 21&nbsp;listopada, podczas Dnia Otwartego
+        Notariatu. W&nbsp;godzinach od&nbsp;10.00 do&nbsp;16.00 w&nbsp;Urzędzie
+        Miejskim w&nbsp;Sandomierzu przy Placu Poniatowskiego
+        1&nbsp;w&nbsp;Sandomierzu. Notariusze będą udzielać informacji
+        dotyczących m.in. testamentów, dziedziczenia, darowizn, nieruchomości
+        i&nbsp;spraw rodzinnych. Warto skorzystać z&nbsp;tej okazji, nawet
+        jeśli nie mamy dziś żadnego problemu prawnego. O&nbsp;wielu ważnych
+        sprawach można przecież zadbać zawczasu, oszczędzając sobie
+        i&nbsp;bliskim niepotrzebnych kłopotów w&nbsp;przyszłości.</p>
+        <p>3. Zapraszamy wszystkich parafian do&nbsp;udziału w&nbsp;adwentowej
+        akcji „Źdźbło dobra”. W&nbsp;następną niedzielę, tydzień przed
+        rozpoczęciem Adwentu nasi ministranci będą rozdawać pakiety
+        zawierające sianko, mały żłóbek, figurkę Dzieciątka Jezus
+        do&nbsp;wycięcia oraz instrukcję. Ministranci przygotowują
+        2&nbsp;tysiące bezpłatnych pakietów dla wszystkich. Można będzie
+        zabrać je&nbsp;również dla rodziny, sąsiadów i&nbsp;znajomych. Niech
+        ta&nbsp;prosta zachęta do&nbsp;czynienia dobra dotrze do&nbsp;jak
+        największej liczby osób! Przy okazji chętni będą mogli wesprzeć
+        działalność ministrantów w&nbsp;naszej parafii dobrowolną ofiarą
+        do&nbsp;koszyka. Za&nbsp;wszelką życzliwość i&nbsp;wsparcie serdecznie
+        dziękujemy!</p>
+        <p>4. Dziękujemy bardzo za&nbsp;waszą ofiarność. Tydzień temu
+        do&nbsp;puszek na&nbsp;rzecz kościoła w&nbsp;potrzebie złożyliście
+        1523,20&nbsp;zł. <em>Bóg zapłać!</em></p>
+        <p>5. W&nbsp;tym tygodniu ziemską pielgrzymkę zakończył nasz
+        parafianin Robert Kaleta. Pożegnaliśmy także Henryka Gila. Polećmy ich
+        Bożemu miłosierdziu…</p>
+        <p>6. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
         naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
         rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
-        parafianom i&nbsp;gościom życzymy błogosławionej niedzieli.</p>
+        Parafianom i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 8.&nbsp;listopada 2026&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 15.&nbsp;listopada 2026&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
         </p>
     </div>

@@ -8,172 +8,174 @@
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="aktualnosci_day">
-            <td><b>PONIEDZIAŁEK, 9&nbsp;listopada</b></td>
-            <td><b>Święto rocznicy poświęcenia Bazyliki
-            Laterańskiej</b></td>
+            <td><b>PONIEDZIAŁEK, 16&nbsp;listopada</b></td>
+            <td><b>Poniedziałek 33&nbsp;tygodnia zwykłego</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
             <td>
-1. + Ryszarda Czajkowskiego
+1. + Mariannę Chmiel
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Sławomira Litwińskiego<br>
-2. + Alojzego Ciszkiewicza<br>
-3. ++ Dusze w&nbsp;czyśćcu cierpiące
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>WTOREK, 10&nbsp;listopada</b></td>
-            <td><b>Wspomnienie św.&nbsp;Leona Wielkiego,
-            papieża</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-+ Józefa Stanka
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. O&nbsp;wyzwolenie z&nbsp;lęku osób pogrążonych w&nbsp;nałogach
-    i&nbsp;ich rodzin <strong>(poza parafią)</strong><br>
-2. + Romualda Furmana<br>
-3. + Aleksandrę Kowalską
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>ŚRODA, 11&nbsp;listopada</b></td>
-            <td><b>Wspomnienie św.&nbsp;Marcina Tours, biskupa;
-            Rocznica odzyskania niepodległości</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-+ Mariannę Ciźla
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. W&nbsp;intencji Ojczyzny<br>
-2. + Jana Kusala (rocz.)<br>
-3. + Jana Kucharczaka <strong>(poza parafią)</strong>
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>CZWARTEK, 12&nbsp;listopada</b></td>
-            <td><b>Wspomnienie św.&nbsp;Jozafata Kuncewicza, biskupa
-            i&nbsp;męczennika</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Józefa Stanka<br>
-2. + Adama Sochę
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Alojzego Ciszkiewicza<br>
-2. + Bronisławę i&nbsp;Stanisława Stefaniaków<br>
-3. + Urszulę, Jana i&nbsp;zmarłych z&nbsp;rodziny Świątańskich
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>PIĄTEK, 13&nbsp;listopada</b></td>
-            <td><b>Wspomnienie pierwszych męczenników polskich:
-            Benedykta, Jana, Mateusza, Izaaka i&nbsp;Krystyna</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. + Mateusza Frańczaka<br>
-2. + Gustawa Kaniosa
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Antoniego i&nbsp;Julię Serafinów<br>
-2. + Marię, Władysława, Czesława Barańskich, Władysławę
-    i&nbsp;Andrzeja Krawczyków<br>
-3. + Stanisławę Banasiewicz
-            </td>
-        </tr>
-
-
-        <tr class="aktualnosci_day">
-            <td><b>SOBOTA, 14&nbsp;listopada</b></td>
-            <td><b>Sobota 32&nbsp;tygodnia zwykłego</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>
-1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
-    łaski i&nbsp;opiekę NMP dla Renaty i&nbsp;Dariusza<br>
-2. + Marka Furmana
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">18.00</td>
-            <td>
-1. + Marka Grębowca<br>
-2. + Stanisława Muchę<br>
+1. + Ryszarda Chrząstowskiego (5&nbsp;rocz. śm.)<br>
+2. + Alfredę i&nbsp;Franciszka Kawiorskich<br>
 3. + Jana Kucharczaka
             </td>
         </tr>
 
 
         <tr class="aktualnosci_day">
-            <td><b>NIEDZIELA, 15&nbsp;listopada</b></td>
-            <td><b>
-                <span style="color: red">XXXIII niedziela zwykła, Rok&nbsp;A</span>
-            </b></td>
+            <td><b>WTOREK, 17&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Elżbiety Węgierskiej,
+            zakonnicy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
-            <td class="center">7.30</td>
+            <td class="center">6.30</td>
             <td>
-W&nbsp;intencji Parafian
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">9.30</td>
-            <td>
-+ Zofię, Bolesława, Lucjana, Jerzego Gajewskich, Teresę i&nbsp;Jana
-    Szczepaniaków
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">11.15</td>
-            <td>
-W&nbsp;intencji rodzin z&nbsp;Domowego Kościoła
-            </td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">12.30</td>
-            <td>
-+ Alojzego Ciszkiewicza
++ Andrzeja Wosia
             </td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
             <td>
-1. + Dariusza Jastrząb i&nbsp;zmarłych z&nbsp;rodziny Ziębów<br>
-2. + Annę Gach
+1. + Lucynę Wolińską<br>
+2. + Alfonsa Kiliańskiego<br>
+3. + Jana Kucharczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 18&nbsp;listopada</b></td>
+            <td><b>Wspomnienie bł.&nbsp;Karoliny Kózkówny, dziewicy
+            i&nbsp;męczennicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Marka Grębowca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Michała z&nbsp;okazji urodzin<br>
+2. + Marka Ziębę<br>
+3. + Jana Kucharczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 19&nbsp;listopada</b></td>
+            <td><b>Wspomnienie bł.&nbsp;Salomei, dziewicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Józefę i&nbsp;Zygmunta Paluch, Mariannę i&nbsp;Zygmunta
+    Teterling<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Albinę (23&nbsp;rocz.), Feliksa Borkowskich, Kazimierę Jaglewicz,
+    Bronisławę Borkowską<br>
+2. + Zofię Skorupską<br>
+3. + Stanisławę Banasiewicz
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 20&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Rafała Kalinowskiego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Kazimierę, Czesława, Wincentego, Ryszarda Lipców<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Ryszarda Pietruszkę (32&nbsp;rocz.), Józefę i&nbsp;Jana Marców<br>
+2. + Mariannę Ciźla<br>
+3. + Władysława, Zofię Janowskich, Marię Bąk, Rafała Bąk i&nbsp;zm.
+    z&nbsp;rodziny
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 21&nbsp;listopada</b></td>
+            <td><b>Wspomnienie ofiarowania NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. Janinę i&nbsp;Stanisława Kulów, zmarłych z&nbsp;rodzin Kulów
+    i&nbsp;Czujów<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski i&nbsp;opiekę NMP dla Jadwigi, i&nbsp;Zbigniewa
+    w&nbsp;55&nbsp;rocznicę ślubu<br>
+2. + Mariannę Ciźla<br>
+3. + Mieczysława Frydla
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 22&nbsp;listopada</b></td>
+            <td><b>
+                <span style="color: red">Jezusa Chrystusa Króla Wszechświata</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Helenę i&nbsp;Bronisława Drożdżalów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+1. + Czesława (rocz.) i&nbsp;Otolię Ciach, Małgorzatę Krawczyk<br>
+2. Tadeusza Malca (16&nbsp;rocz.), zmarłych z&nbsp;rodziny Malców
+    i&nbsp;Burków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ ks.&nbsp;kanonika Czesława Bieńka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę Chmiel<br>
+2. + Jana Chmiela
             </td>
         </tr>
     </tbody>
