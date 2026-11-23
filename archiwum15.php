@@ -19,7 +19,249 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2026 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;listopada 2026&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;listopada 2026&nbsp;r.</h2>
+<div class="card">
+    <div class="card-header">
+        <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+            16.11 – 22.11.2026&nbsp;r.
+        </h3>
+    </div>
+    <div class="col">
+<table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+    <tbody>
+        <tr class="aktualnosci_day">
+            <td><b>PONIEDZIAŁEK, 16&nbsp;listopada</b></td>
+            <td><b>Poniedziałek 33&nbsp;tygodnia zwykłego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Mariannę Chmiel
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Ryszarda Chrząstowskiego (5&nbsp;rocz. śm.)<br>
+2. + Alfredę i&nbsp;Franciszka Kawiorskich<br>
+3. + Jana Kucharczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>WTOREK, 17&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Elżbiety Węgierskiej,
+            zakonnicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Andrzeja Wosia
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Lucynę Wolińską<br>
+2. + Alfonsa Kiliańskiego<br>
+3. + Jana Kucharczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>ŚRODA, 18&nbsp;listopada</b></td>
+            <td><b>Wspomnienie bł.&nbsp;Karoliny Kózkówny, dziewicy
+            i&nbsp;męczennicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
++ Marka Grębowca
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. O&nbsp;Boże błogosławieństwo, potrzebne łaski i&nbsp;opiekę NMP dla
+    Michała z&nbsp;okazji urodzin<br>
+2. + Marka Ziębę<br>
+3. + Jana Kucharczaka
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>CZWARTEK, 19&nbsp;listopada</b></td>
+            <td><b>Wspomnienie bł.&nbsp;Salomei, dziewicy</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Józefę i&nbsp;Zygmunta Paluch, Mariannę i&nbsp;Zygmunta
+    Teterling<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Albinę (23&nbsp;rocz.), Feliksa Borkowskich, Kazimierę Jaglewicz,
+    Bronisławę Borkowską<br>
+2. + Zofię Skorupską<br>
+3. + Stanisławę Banasiewicz
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>PIĄTEK, 20&nbsp;listopada</b></td>
+            <td><b>Wspomnienie św.&nbsp;Rafała Kalinowskiego</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. + Kazimierę, Czesława, Wincentego, Ryszarda Lipców<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Ryszarda Pietruszkę (32&nbsp;rocz.), Józefę i&nbsp;Jana Marców<br>
+2. + Mariannę Ciźla<br>
+3. + Władysława, Zofię Janowskich, Marię Bąk, Rafała Bąk i&nbsp;zm.
+    z&nbsp;rodziny
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>SOBOTA, 21&nbsp;listopada</b></td>
+            <td><b>Wspomnienie ofiarowania NMP</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>
+1. Janinę i&nbsp;Stanisława Kulów, zmarłych z&nbsp;rodzin Kulów
+    i&nbsp;Czujów<br>
+2. + Józefa Stanka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. Dziękczynna z&nbsp;prośbą o&nbsp;Boże błogosławieństwo, potrzebne
+    łaski i&nbsp;opiekę NMP dla Jadwigi, i&nbsp;Zbigniewa
+    w&nbsp;55&nbsp;rocznicę ślubu<br>
+2. + Mariannę Ciźla<br>
+3. + Mieczysława Frydla
+            </td>
+        </tr>
+
+
+        <tr class="aktualnosci_day">
+            <td><b>NIEDZIELA, 22&nbsp;listopada</b></td>
+            <td><b>
+                <span style="color: red">Jezusa Chrystusa Króla Wszechświata</span>
+            </b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">7.30</td>
+            <td>
++ Helenę i&nbsp;Bronisława Drożdżalów
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">9.30</td>
+            <td>
+W&nbsp;intencji Parafian
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">11.15</td>
+            <td>
+1. + Czesława (rocz.) i&nbsp;Otolię Ciach, Małgorzatę Krawczyk<br>
+2. Tadeusza Malca (16&nbsp;rocz.), zmarłych z&nbsp;rodziny Malców
+    i&nbsp;Burków
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">12.30</td>
+            <td>
++ ks.&nbsp;kanonika Czesława Bieńka
+            </td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">18.00</td>
+            <td>
+1. + Mariannę Chmiel<br>
+2. + Jana Chmiela
+            </td>
+        </tr>
+    </tbody>
+</table>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>15.&nbsp;listopada 2026&nbsp;r.</h3>
+        <h3>XXXIII niedziela zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. W&nbsp;tym tygodniu oddajemy cześć świętym: we&nbsp;wtorek
+        św.&nbsp;Elżbiecie Węgierskiej, w&nbsp;środę błogosławionej Karolinie
+        Kózkównie, w&nbsp;piątek św.&nbsp;Rafałowi Kalinowskiemu,
+        w&nbsp;sobotę Maryi w&nbsp;tajemnicy Jej ofiarowania. W&nbsp;przyszłą
+        niedzielę Uroczystość Jezusa Chrystusa Króla Wszechświata, ostatnia
+        niedziela roku liturgicznego.</p>
+        <p>2. Czy wiemy, jak najlepiej zabezpieczyć przyszłość swoją
+        i&nbsp;swoich bliskich? Jak przekazać majątek dzieciom, sporządzić
+        testament albo zadbać o&nbsp;swoje sprawy, gdy z&nbsp;wiekiem coraz
+        trudniej załatwiać je&nbsp;samodzielnie? Odpowiedzi
+        na&nbsp;te&nbsp;i&nbsp;wiele innych pytań będzie można uzyskać
+        bezpłatnie w&nbsp;sobotę 21&nbsp;listopada, podczas Dnia Otwartego
+        Notariatu. W&nbsp;godzinach od&nbsp;10.00 do&nbsp;16.00 w&nbsp;Urzędzie
+        Miejskim w&nbsp;Sandomierzu przy Placu Poniatowskiego
+        1&nbsp;w&nbsp;Sandomierzu. Notariusze będą udzielać informacji
+        dotyczących m.in. testamentów, dziedziczenia, darowizn, nieruchomości
+        i&nbsp;spraw rodzinnych. Warto skorzystać z&nbsp;tej okazji, nawet
+        jeśli nie mamy dziś żadnego problemu prawnego. O&nbsp;wielu ważnych
+        sprawach można przecież zadbać zawczasu, oszczędzając sobie
+        i&nbsp;bliskim niepotrzebnych kłopotów w&nbsp;przyszłości.</p>
+        <p>3. Zapraszamy wszystkich parafian do&nbsp;udziału w&nbsp;adwentowej
+        akcji „Źdźbło dobra”. W&nbsp;następną niedzielę, tydzień przed
+        rozpoczęciem Adwentu nasi ministranci będą rozdawać pakiety
+        zawierające sianko, mały żłóbek, figurkę Dzieciątka Jezus
+        do&nbsp;wycięcia oraz instrukcję. Ministranci przygotowują
+        2&nbsp;tysiące bezpłatnych pakietów dla wszystkich. Można będzie
+        zabrać je&nbsp;również dla rodziny, sąsiadów i&nbsp;znajomych. Niech
+        ta&nbsp;prosta zachęta do&nbsp;czynienia dobra dotrze do&nbsp;jak
+        największej liczby osób! Przy okazji chętni będą mogli wesprzeć
+        działalność ministrantów w&nbsp;naszej parafii dobrowolną ofiarą
+        do&nbsp;koszyka. Za&nbsp;wszelką życzliwość i&nbsp;wsparcie serdecznie
+        dziękujemy!</p>
+        <p>4. Dziękujemy bardzo za&nbsp;waszą ofiarność. Tydzień temu
+        do&nbsp;puszek na&nbsp;rzecz kościoła w&nbsp;potrzebie złożyliście
+        1523,20&nbsp;zł. <em>Bóg zapłać!</em></p>
+        <p>5. W&nbsp;tym tygodniu ziemską pielgrzymkę zakończył nasz
+        parafianin Robert Kaleta. Pożegnaliśmy także Henryka Gila. Polećmy ich
+        Bożemu miłosierdziu…</p>
+        <p>6. Dziękujemy za&nbsp;wszelkie duchowe i&nbsp;materialne wsparcie
+        naszej parafii. Wszystkim obchodzącym w&nbsp;tym tygodniu imieniny,
+        rocznice i&nbsp;jubileusze składamy serdeczne życzenia. Naszym
+        Parafianom i&nbsp;Gościom życzymy błogosławionej niedzieli.</p>
+        <p>
+            <span style="float: left;">Sandomierz, 15.&nbsp;listopada 2026&nbsp;r.</span>
+            <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Rafał Kobiałka</span>
+        </p>
+    </div>
+</div>
+<br>
+
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
